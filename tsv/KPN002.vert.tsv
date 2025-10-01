@@ -255,7 +255,7 @@ token_id	speaker	tu_id	span	form	type	variation	jefferson_feats	align	prolongati
 34-2	PKP012	34	a	a	linguistic	none	_	_	_	_	_	_
 34-3	PKP012	34	distanza?	distanza	linguistic	none	Intonation=Rising	End=83.655	_	_	_	_
 35-0	PKP031	35	#°sì°	sì	linguistic	some	Volume=Low	Begin=84.15	_	_	_	_
-35-0	PKP031	35	(.)	[PAUSE]	shortpause	none	Volume=Low	_	_	_	_	_
+35-0bis	PKP031	35	(.)	[PAUSE]	shortpause	none	Volume=Low	_	_	_	_	_
 35-1	PKP031	35	ara	ara	linguistic	some	_	_	_	_	_	_
 35-2	PKP031	35	beppe	beppe	linguistic	some	_	End=84.827	_	_	_	_
 36-0	PKP012	36	eh.	eh	linguistic	none	Intonation=Falling	Begin=85.815	_	_	_	_
