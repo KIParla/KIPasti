@@ -16,7 +16,7 @@ PKP015	3-Technicians	F	KPN003;KPN005	emilia-romagna	21-25	university-degree	ital
 PKP016	4-Clerical-Workers	F	KPN004;KPN007	emilia-romagna	51-55	tecnical-workhnical-vocational-diploma	italian
 PKP017	4-Clerical-Workers	M	KPN004;KPN007	emilia-romagna	51-55	phd	italian
 PKP018	3-Technicians	F	KPN005	emilia-romagna	51-55	tecnical-workhnical-vocational-diploma	italian
-PKP019	0-Retired	M	KPN006	emilia-romagna	81-85	elementary-school	italian
+PKP019	0-Retired	M	KPN006	emilia-romagna	81-85	primary-school	italian
 PKP020	0-Students	M	KPN006	emilia-romagna	16-20	university-degree-ongoing	italian
 PKP021	3-Technicians	M	KPN006	emilia-romagna	51-55	tecnical-workhnical-vocational-diploma	italian
 PKP022	0-Retired	F	KPN007	emilia-romagna	76-80	tecnical-workhnical-vocational-diploma	italian
@@ -45,7 +45,7 @@ PKP044	2-Professionals	F	KPN012	puglia	21-25	liceo-diploma	italian
 PKP045	2-Professionals	M	KPN012	puglia	21-25	university-degree	italian
 PKP046	2-Professionals	F	KPN012	puglia	16-20	liceo-diploma	italian
 PKP047	2-Professionals	M	KPS010	puglia	21-25	phd	italian
-PKP048	0-Unemployed	F	KPS011	veneto	81-85	elementary-school	italian
+PKP048	0-Unemployed	F	KPS011	veneto	81-85	primary-school	italian
 PKP049	0-Unemployed	F	KPS012	puglia	51-55	tecnical-workhnical-vocational-diploma	italian
 PKP050	2-Professionals	F	KPS012	puglia	21-25	liceo-diploma	italian
 PKP051	0-Students	F	KPS012	puglia	16-20	middle-school	italian
@@ -63,7 +63,7 @@ PKP062	3-Technicians	M	KPN015	emilia-romagna	56-60	university-degree	italian
 PKP063	0-Students	M	KPC005;KPC006;KPC007;KPC008	marche	21-25	university-degree-ongoing	italian
 PKP064	6-Craft-Workers	M	KPC005	marche	56-60	middle-school	italian
 PKP065	4-Clerical-Workers	F	KPC005	calabria	56-60	tecnical-workhnical-vocational-diploma	italian
-PKP066	0-Retired	F	KPC006	marche	76-80	elementary-school	italian
+PKP066	0-Retired	F	KPC006	marche	76-80	primary-school	italian
 PKP067	0-Students	F	KPC007	marche	16-20	university-degree-ongoing	italian
 PKP068	0-Students	F	KPC007	marche	21-25	university-degree-ongoing	italian
 PKP069	2-Professionals	F	KPC008	piemonte	46-50	phd	italian
@@ -111,7 +111,7 @@ PKP112	0-Students	F	KPN028	emilia-romagna	21-25	university-degree-ongoing	italia
 PKP113	0-Students	F	KPN026	emilia-romagna	21-25	university-degree-ongoing	italian
 PKP114	3-Technicians	F	KPN026	emilia-romagna	21-25	university-degree	italian
 PKP115	0-Students	F	KPN027	emilia-romagna	16-20	middle-school	italian
-PKP116	0-Retired	F	KPN027	sicilia	76-80	elementary-school	italian
+PKP116	0-Retired	F	KPN027	sicilia	76-80	primary-school	italian
 PKP118	2-Professionals	F	KPN028	marche	51-55	university-degree	italian
 PKP119	5-Service-Workers	M	KPN028	sicilia	51-55	middle-school	italian
 PKP120	0-Students	F	KPN011	emilia-romagna	26-30	university-degree-ongoing	italian
@@ -127,7 +127,7 @@ PKP129	5-Service-Workers	F	KPS022	campania	26-30	tecnical-workhnical-vocational-
 PKP130	2-Professionals	F	KPS023	campania	31-35	university-degree	italian
 PKP131	0-Unemployed	F	KPS024	campania	21-25	tecnical-workhnical-vocational-diploma	italian
 PKP132	0-Retired	F	KPS025	campania	61-65	tecnical-workhnical-vocational-diploma	dialect
-PKP133	0-Retired	M	KPS025	campania	71-75	elementary-school	dialect
+PKP133	0-Retired	M	KPS025	campania	71-75	primary-school	dialect
 PKP134	2-Professionals	F	KPS007	abruzzo	26-30	university-degree	italian
 PKP135	2-Professionals	F	KPS007;KPS003;KPN001	abruzzo	21-25	liceo-diploma	italian
 PKP136	0-Students	M	KPN03;KPN029;KPS018	basilicata	21-25	university-degree-ongoing	italian
@@ -142,5 +142,5 @@ PKP144	2-Professionals	M	KPN019	veneto	61-65	university-degree	italian
 PKP145	0-Students	F	KPN018	veneto	21-25	university-degree-ongoing	italian
 PKP146	3-Technicians	M	KPN018	veneto	56-60	tecnical-workhnical-vocational-diploma	italian
 PKP147	0-Students	F	KPC011	umbria	21-25	university-degree-ongoing	italian
-PKP148	0-Retired	M	KPC011	toscana	81-85	elementary-school	italian
-PKP149	0-Retired	F	KPC011	toscana	76-80	elementary-school	italian
+PKP148	0-Retired	M	KPC011	toscana	81-85	primary-school	italian
+PKP149	0-Retired	F	KPC011	toscana	76-80	primary-school	italian
