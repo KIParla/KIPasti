@@ -130,7 +130,7 @@ PKP132	0-Retired	F	KPS025	campania	61-65	technical-vocational-diploma	dialect
 PKP133	0-Retired	M	KPS025	campania	71-75	primary-school	dialect
 PKP134	2-Professionals	F	KPS007	abruzzo	26-30	university-degree	italian
 PKP135	2-Professionals	F	KPS007;KPS003;KPN001	abruzzo	21-25	liceo-diploma	italian
-PKP136	0-Students	M	KPN03;KPN029;KPS018	basilicata	21-25	university-degree-ongoing	italian
+PKP136	0-Students	M	KPN030;KPN029;KPS018	basilicata	21-25	university-degree-ongoing	italian
 PKP137	2-Professionals	F	KPS018	basilicata	56-60	university-degree	italian
 PKP138	2-Professionals	M	KPS018	basilicata	61-65	university-degree	italian
 PKP139	0-Students	F	KPN029	basilicata	21-25	university-degree-ongoing	italian
