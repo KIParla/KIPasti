@@ -194,7 +194,7 @@ PKP053	HO CAPITO
 PKP053	[xx xx xx]
 PKP052	[è stata gestit~ (.) secondo me è stata gestita male]
 PKP043	da (dov) da quando è nata questa storia [(di educazione civica)]
-PKP053	[da quest' anno]
+PKP053	[da quest'anno]
 PKP052	[xx xx]
 PKP043	da che riforma
 PKP053	no (.) perché praticamente
@@ -277,7 +277,7 @@ PKP052	poi dopo un poco vedo entra lei
 PKP052	con altre due persone contemporaneamente (.) due persone diverse [eh eh] ((ride)) di due alunni diversi
 PKP052	perché siccome su meet ti da la possibilità
 PKP052	di disattivare
-PKP053	il fatto che all' inizio ha creato un casino (.) mi ha dieci miliardi di avvisi ha inviato:
+PKP053	il fatto che all'inizio ha creato un casino (.) mi ha dieci miliardi di avvisi ha inviato:
 PKP052	ha mand~ si ha mandato dieci miliardi di avvisi
 PKP052	e: in pratica tu con meet puoi puoi disabilitare la funzione di entrare automaticamente a::lla riunione
 PKP052	[all'evento]
@@ -287,7 +287,7 @@ PKP052	[e quindi] ti devono accettare
 PKP052	lei questa cosa non l'ha fatta quindi tu entravi automaticamente
 PKP052	[noi noi abbiamo fatto]
 PKP043	[ti sei ascoltata i colloqui degli altri]
-PKP052	infatti il colloquio nostro è stato ascoltato da un'altra persona perché c'era un'altra persona all' interno (.) una [xxx]se n'è andata però xxx
+PKP052	infatti il colloquio nostro è stato ascoltato da un'altra persona perché c'era un'altra persona all'interno (.) una [xxx]se n'è andata però xxx
 PKP052	una se n'è andata [eravamo in tre ad un certo punto]
 PKP043	[xxx]
 PKP053	ad un certo punto [eravamo in tre ad un certo punto] no:: ad un certo punto eravamo in quattro cioè con la rossetti
@@ -362,10 +362,10 @@ PKP053	e::h?
 PKP043	chiedi alla bianchi di ripetere (.) le cose perché ti inc~
 PKP053	il problema è che la bianchi non ti ripete le cose perché dice io non posso entrare in merito del lavoro degli altri
 PKP053	perché una volta in secondo (.) e:::h no
-PKP053	no quando è stata proprio all' inizio del terzo
+PKP053	no quando è stata proprio all'inizio del terzo
 PKP053	la rossetti ci diede da fare una::: una relazione sull'esperimento di:: fisica
 PKP053	solo che io avevo un dubbio però la rossetti non la vedevo piu fino al giorno della consegna
-PKP053	e quindi chiesi una cosa alla bianchi su::: sull' incertezza ma era una roba una puttanata proprio un dubbio così
+PKP053	e quindi chiesi una cosa alla bianchi su::: sull'incertezza ma era una roba una puttanata proprio un dubbio così
 PKP053	e:: mi disse no non ti posso dire niente perché:: non è:: non è materia mia (.) non ti posso dire niente
 ???	xxxxxxxxxxxxxxxxx
 ???	(proprio strano)
@@ -395,7 +395,7 @@ PKP053	nel nel microonde si secca
 PKP052	stavo dicendo che dovevo fare a chi dovevo cercare
 PKP052	mi gira
 PKP043	uhm (.) masse xxxxx
-PKP043	ah io devo recuperare la lezione dell' undici dicembre di di strumentazione biomedica
+PKP043	ah io devo recuperare la lezione dell'undici dicembre di di strumentazione biomedica
 PKP043	ho visto che ancora non l'hanno pubblicata
 PKP043	oggi prima di andare:: e:hm all'ipercoop a vedere il regalo per chiara
 PKP043	m:h (.) sono andato a fare una passagiata al mare con fabiana
@@ -456,7 +456,7 @@ PKP053	sì sì infatti
 PKP043	che poi voglio dire (.) novantanove centesimi cinquanta giga novantanove centesim~ non è che diano uno scont~ cinquanta giga al mese
 PKP043	cinquanta giga e spicc e bell
 PKP043	quindi cioè è una cosa propr~ assurda
-PKP052	ma::: c' erano le polpette qua (.) nessuno ancora vuole
+PKP052	ma::: c'erano le polpette qua (.) nessuno ancora vuole
 PKP053	ma:: xx xx che stiamo mangiando polpette
 PKP052	ma se tuo padre ne fa diecimila
 PKP043	io non ne volevo polpette infatti non ne ho mangiate nemmeno a pranzo (.) pensavo che le mangiaste voi
@@ -472,7 +472,7 @@ PKP043	ora (.) e:::hm che frutta vuoi sa?
 PKP053	nisciuna?
 PKP043	mamma vuoi frutta
 PKP052	nono basta
-PKP053	madonna ma perché c' ho cosi tante foto inu:tili
+PKP053	madonna ma perché c'ho cosi tante foto inu:tili
 PKP052	e toglitele
 PKP053	eheh
 PKP043	non faccio allenamento da più di una settimana

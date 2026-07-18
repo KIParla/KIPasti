@@ -3701,7 +3701,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 659-7	PKP066	659	659	7	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 659-8	PKP066	659	659	8	regalo	regalo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 659-9	PKP066	659	659	9	bello	bello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-659-10	PKP066	659	659	10	com'	com'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+659-10	PKP066	659	659	10	com'	com'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 659-11	PKP066	659	659	11	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 659-12	PKP066	659	659	12	fatto::	fatto	_	_	_	_	_	linguistic	_	none	_	End=1462.696	4x2	_	_	_
 660-0	PKP066	660	660	0	a	a	_	_	_	_	_	linguistic	_	none	_	Begin=1462.773	_	_	_	_

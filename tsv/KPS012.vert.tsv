@@ -4095,7 +4095,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 616-2	PKP050	616	616	2	giorni	giorni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 616-3	PKP050	616	616	3	verrà	verrà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 616-4	PKP050	616	616	4	allestito	allestito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-616-5	PKP050	616	616	5	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+616-5	PKP050	616	616	5	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 616-6	PKP050	616	616	6	incrocio	incrocio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 616-7	PKP050	616	616	7	dei	dei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 616-8	PKP050	616	616	8	corsi::	corsi	_	_	_	_	_	linguistic	_	none	_	_	4x2	_	_	_

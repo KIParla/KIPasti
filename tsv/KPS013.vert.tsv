@@ -1386,7 +1386,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 195-9	PKP043	195	195	9	educazione	educazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-10(1)	0-10(82)
 195-10	PKP043	195	195	10	civica)]	civica	_	_	_	_	_	linguistic	_	none	_	End=646.303	_	_	0-6(1)	0-6(82)
 196-0	PKP053	196	196	0	[da	da	_	_	_	_	_	linguistic	_	none	_	Begin=645.723	_	_	_	0-2(82)
-196-1	PKP053	196	196	1	quest'	quest'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	0-6(82)
+196-1	PKP053	196	196	1	quest'	quest'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-6(82)
 196-2	PKP053	196	196	2	anno]	anno	_	_	_	_	_	linguistic	_	none	_	End=646.78	_	_	_	0-4(82)
 197-0	PKP052	197	197	0	[xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=645.795	_	_	_	0-2(82)
 197-1	PKP052	197	197	1	xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=646.635	_	_	_	0-2(82)
@@ -2117,7 +2117,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 279-0	PKP053	279	279	0	il	il	_	_	_	_	_	linguistic	_	none	_	Begin=878.566	_	_	_	_
 279-1	PKP053	279	279	1	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 279-2	PKP053	279	279	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-279-3	PKP053	279	279	3	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+279-3	PKP053	279	279	3	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 279-4	PKP053	279	279	4	inizio	inizio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 279-5	PKP053	279	279	5	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 279-6	PKP053	279	279	6	creato	creato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2211,11 +2211,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 289-14	PKP052	289	289	14	un'	un'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 289-15	PKP052	289	289	15	altra	altra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 289-16	PKP052	289	289	16	persona	persona	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-289-17	PKP052	289	289	17	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+289-17	PKP052	289	289	17	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 289-18	PKP052	289	289	18	interno	interno	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
 289-19	PKP052	289	289	19	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
-289-20	PKP052	289	289	20	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	1-3(?)
-289-21	PKP052	289	289	21	[xxx]se	xxxse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(?)
+289-20	PKP052	289	289	20	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(?)
+289-21	PKP052	289	289	21	[xxx]se	xxxse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 289-22	PKP052	289	289	22	n'	n'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 289-23	PKP052	289	289	23	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 289-24	PKP052	289	289	24	andata	andata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2797,7 +2797,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 364-2	PKP053	364	364	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 364-3	PKP053	364	364	3	stata	stata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 364-4	PKP053	364	364	4	proprio	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-364-5	PKP053	364	364	5	all'	all'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+364-5	PKP053	364	364	5	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 364-6	PKP053	364	364	6	inizio	inizio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 364-7	PKP053	364	364	7	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 364-8	PKP053	364	364	8	terzo	terzo	_	_	_	_	_	linguistic	_	none	_	End=1116.04	_	_	_	_
@@ -2840,7 +2840,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 367-5	PKP053	367	367	5	alla	alla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 367-6	PKP053	367	367	6	bianchi	bianchi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 367-7	PKP053	367	367	7	su:::	su	_	_	_	_	_	linguistic	_	none	_	_	1x3	_	_	_
-367-8	PKP053	367	367	8	sull'	sull'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+367-8	PKP053	367	367	8	sull'	sull'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 367-9	PKP053	367	367	9	incertezza	incertezza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 367-10	PKP053	367	367	10	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 367-11	PKP053	367	367	11	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3073,7 +3073,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 397-3	PKP043	397	397	3	recuperare	recuperare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 397-4	PKP043	397	397	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 397-5	PKP043	397	397	5	lezione	lezione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-397-6	PKP043	397	397	6	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+397-6	PKP043	397	397	6	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 397-7	PKP043	397	397	7	undici	undici	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 397-8	PKP043	397	397	8	dicembre	dicembre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 397-9	PKP043	397	397	9	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3432,7 +3432,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 457-5	PKP043	457	457	5	propr~	propr~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 457-6	PKP043	457	457	6	assurda	assurda	_	_	_	_	_	linguistic	_	none	_	End=1475.166	_	_	_	_
 458-0	PKP052	458	458	0	ma:::	ma	_	_	_	_	_	linguistic	_	none	_	Begin=1476.4	1x3	_	_	_
-458-1	PKP052	458	458	1	c'	c'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+458-1	PKP052	458	458	1	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 458-2	PKP052	458	458	2	erano	erano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 458-3	PKP052	458	458	3	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 458-4	PKP052	458	458	4	polpette	polpette	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3542,7 +3542,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 474-0	PKP053	474	474	0	madonna	madonna	_	_	_	_	_	linguistic	_	none	_	Begin=1511.52	_	_	_	_
 474-1	PKP053	474	474	1	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 474-2	PKP053	474	474	2	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-474-3	PKP053	474	474	3	c'	c'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+474-3	PKP053	474	474	3	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 474-4	PKP053	474	474	4	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 474-5	PKP053	474	474	5	cosi	cosi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 474-6	PKP053	474	474	6	tante	tante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

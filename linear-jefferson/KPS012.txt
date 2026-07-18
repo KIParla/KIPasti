@@ -614,7 +614,7 @@ PKP049	mascherina contro mascherina xxxxx
 PKP051	embè
 PKP050	xx il sette lo sai che cosa ho scritto
 PKP050	con la giunta abbiamo deciso di non rinunciare al simbolo del natale in città::
-PKP050	tra pochi giorni verrà allestito all' incrocio dei corsi:: un albero composto da luci xx xx xx ((ride))
+PKP050	tra pochi giorni verrà allestito all'incrocio dei corsi:: un albero composto da luci xx xx xx ((ride))
 PKP050	cin[quanta]
 PKP051	[xx xx] in che senso qual è
 PKP050	quella che sta:::: u::hm

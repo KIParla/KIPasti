@@ -3883,7 +3883,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 764-3	PKP118	764	764	3	lì	lì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 764-4	PKP118	764	764	4	prende[re	prendere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	6-8(148)
 764-5	PKP118	764	764	5	uscire]	uscire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(148)
-764-6	PKP118	764	764	6	dall'	dall'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+764-6	PKP118	764	764	6	dall'	dall'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 764-7	PKP118	764	764	7	autostra:da.	autostrada	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1642.146	7x1	_	_	_
 765-0	PKP119	765	765	0	[ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=1640.155	_	_	_	0-2(148)
 765-1	PKP119	765	765	1	ORA:]?	ora	_	_	_	_	_	linguistic	_	none	Intonation=Rising|Volume=high	End=1640.814	2x1	_	_	0-3(148)
