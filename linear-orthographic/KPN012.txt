@@ -72,8 +72,8 @@ PKP045	e invece tu lo sai del mio professore non so se te l'ho detto a te
 PKP046	non possiamo dire non possiamo tipo parlare del fatto che ci stiamo registrando
 PKP045	il mio professore che si è reso conto che non ha registra~ non si sentiva l'audio
 PKP044	ma non credo
-PKP045	a una lezione
 PKP046	beh vabbè
+PKP045	a una lezione
 PKP044	no non penso proprio
 PKP046	non dico niente
 PKP045	ehm
@@ -169,7 +169,7 @@ PKP044	no cosa io non ho v~ non la seguo proprio
 PKP046	e si vede che sta tutto tagliato
 PKP045	secondo me le hanno tagliato la gola
 PKP043	no secondo me l'hanno l'hanno tipo strangolata l'hanno tipo strangolata
-PKP044	mado':
+PKP044	mado
 PKP045	no mica ti fanno un taglio ci metti quaranta minuti per essere strangolato da'
 PKP046	guarda ti faccio vedere dai ma scusa
 PKP045	va beh quaranta minuti xxxx
@@ -264,8 +264,8 @@ PKP045	forse a volte è pure un po' offensivo sa
 PKP044	otto anni
 PKP046	otto anni
 PKP043	io vi ricordo che checco è un filosofo non uno scienziato
-PKP044	cosa
 PKP046	quindi l'ha chiamato melo per questo motivo
+PKP044	cosa
 PKP045	ma ha le corna se è melo ha le corna sicuro
 PKP044	si
 PKP043	io mi sono dimenticato di mettere il sale nelle uova
@@ -399,8 +399,8 @@ PKP044	posso dare un un volto a questo
 PKP043	mh
 PKP045	no ma falle vedere com'è il modo di scrivere su sul gruppo
 PKP046	oppure alle grandi cose fatte per interesse ho sempre preferito le piccole cose fatte con il cuore
-PKP044	mamma mia
 PKP046	pubblicate da una ventenne nelle storie su di instagram cioè
+PKP044	mamma mia
 PKP044	vabbè ma ha cioè tipo la sindrome
 PKP043	xxx c'ha cinquantanni dentro almeno
 PKP044	ha la sindrome ha la sindrome di daniela o di roberto rossi
@@ -655,8 +655,8 @@ PKP045	un corallo
 PKP043	a replicare un corallo xxxx
 PKP044	un corallo in che senso
 PKP045	un corallo l'hanno replicato
-PKP045	un corallo artificiale
 PKP046	che cazzo stai ridendo
+PKP045	un corallo artificiale
 PKP044	ma non sto capendo
 PKP046	ma che cazz xx che cazzo stai ridendo
 PKP043	hanno fatto un corallo in laboratorio hai capito
@@ -1020,8 +1020,8 @@ PKP044	lucia lucia riesce a parlare quando lui affoga non è da tutti eh
 PKP043	xxxxx
 PKP043	non ho questo superpotere
 PKP044	cioè
-PKP044	non è da tutti voglio dire
 PKP046	dai che stupidi
+PKP044	non è da tutti voglio dire
 PKP046	dai cambia cambia cambia cambia
 PKP045	no no xxxxxxxx
 PKP043	madonna mia
@@ -1194,8 +1194,8 @@ PKP044	sembrate proprio strani
 PKP046	guarda
 PKP044	sembrate che
 PKP044	sembrate
-PKP044	in un corpo diverso
 PKP046	parentesi xxxxx chi non beve e stiamo saltando io e marco
+PKP044	in un corpo diverso
 PKP046	abbracciati in maniera molto strana
 PKP043	è troppo buona questa cazzo di cosa
 PKP044	xxx
@@ -1285,8 +1285,8 @@ PKP043	bisogna
 PKP043	a parte che bisogna fare bisogna utilizzare il lievito madre
 PKP043	sapete xx
 PKP046	lo sapete che
-PKP044	a me piace un macello
 PKP046	a me non piace
+PKP044	a me piace un macello
 PKP043	piace a me
 PKP046	ma che dici
 PKP045	a me piace però con l'uvetta
@@ -1350,8 +1350,8 @@ PKP043	avete guadagnato qualche follower
 PKP046	no abbiamo guadagnato soltanto tipo centocinquanta like e basta senza follower
 PKP043	mh
 PKP045	ehm ma secondo me non hanno seguito la pagina perché non gli è piaciuta la pagina
-PKP045	se avessero vi~ trovato la pagina più attraente
 PKP046	amo
+PKP045	se avessero vi~ trovato la pagina più attraente
 PKP043	lau xxx nella sì ho visto l'auricchio stava a xx il naso sull'auricchio
 PKP043	xxxx
 PKP046	che schifo

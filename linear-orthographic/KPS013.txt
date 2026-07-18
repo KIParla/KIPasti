@@ -5,23 +5,23 @@ PKP052	poco se mi stai facendo xxx
 PKP053	cosi con la cipolla
 PKP043	spero che non ci sia cipolla che se no
 PKP053	che sentivo una puzza di no
-PKP043	noo è un sugodella mamma
 PKP052	noo è un sugo mio
+PKP043	noo è un sugodella mamma
 PKP053	uhm che cos'è
-PKP043	minestrone
 PKP052	minestrone
+PKP043	minestrone
 PKP053	tu l'hai fatto
-PKP043	xxx surgelato
 PKP052	no surgelato
+PKP043	xxx surgelato
 PKP052	come li stai facendo con il fornetto oppure
 PKP043	~ornetto
-PKP043	xxx
 PKP052	e leggi cinque minuti dieci minuti sono pronte
+PKP043	xxx
 PKP052	o microonde o coi piastri
 PKP043	ma queste da quanto stanno da sei
 PKP052	si
-PKP052	xxx hai visto quel xxx lì
 PKP053	xx dove te ne sei andata a trovare xx
+PKP052	xxx hai visto quel xxx lì
 PKP052	si perché xxx devo spedire
 PKP043	questa
 PKP053	che non ci andavano le paste più o meno
@@ -60,7 +60,7 @@ PKP043	sono tornat~ sono ripassato davanti il negozio di papà e stavano ancora 
 PKP043	se entri più non esci
 PKP052	si mette a parlare
 PKP052	ma poi quindi come hai risolto il problema
-PKP043	io volevo dire insomma la xxxx l' applicazione che
+PKP043	io volevo dire insomma la xxxx l'applicazione che
 PKP043	ci sono tipo francesco mi ha mandato un buono sconto solo che sono applicazioni che te le stampano dopo un sacco di tempo
 PKP043	non è che mi faccio arrivare manco xxxxx senza sapere quando
 PKP043	quindi
@@ -112,7 +112,7 @@ PKP052	a passare vai
 PKP053	sei proprio fine
 PKP052	assosta non lo so io
 PKP053	xxx
-PKP043	dovel' hai messo xxxx per favore
+PKP043	dovel'hai messo xxxx per favore
 PKP053	a che ora c'è il colloquio con la rossi domani
 PKP052	domani mattina
 PKP052	lo fate voi ma chi è quello che vai tu domani mattina
@@ -133,8 +133,8 @@ PKP043	ha fatto meno schifo di quanto pensassi però sono più buoni quelli che 
 PKP052	buone quelle
 PKP053	invece io li trovo buonissimi quelli
 PKP052	le bistecche coi xxxx sono buone
-PKP043	tu non hai assaggiato quelli che compro io
 PKP052	xx xx xx
+PKP043	tu non hai assaggiato quelli che compro io
 PKP052	mo basta
 PKP052	sono le stesse che compravo io alla fine
 PKP043	ci sono stati quelli carciofi che xxxxx
@@ -280,8 +280,8 @@ PKP053	tipo come zoom che ti devono accettare
 PKP043	sisi
 PKP052	e quindi ti devono accettare
 PKP052	lei questa cosa non l'ha fatta quindi tu entravi automaticamente
-PKP043	ti sei ascoltata i colloqui degli altri
 PKP052	noi noi abbiamo fatto
+PKP043	ti sei ascoltata i colloqui degli altri
 PKP052	infatti il colloquio nostro è stato ascoltato da un'altra persona perché c'era un'altra persona all' interno una xxxse n'è andata però xxx
 PKP052	una se n'è andata eravamo in tre ad un certo punto
 PKP043	xxx
@@ -328,7 +328,7 @@ PKP053	ma cioè che mettiamo giacomo alla foto dai
 PKP052	eh vabbè quello è giacomo non è che ha messo la foto sua
 PKP052	è giacomo di classroom xx
 PKP053	che ha deciso di mettere lei
-PKP052	ho capito e vabbè tutti quanti l' hanno messa e che dai quello poverino
+PKP052	ho capito e vabbè tutti quanti l'hanno messa e che dai quello poverino
 PKP053	proprio da xxx xxx
 PKP043	piu la faccia xx
 PKP052	dai poverina
@@ -503,7 +503,7 @@ PKP052	poi c'è il minimarket che sta vicino
 PKP043	si ma beppe non se lo incula nessuno
 PKP053	chi è beppe mo
 PKP043	beppe quello di fronte all'arte bianca
-PKP052	eh ma c'è quello e poi c'è l' altro minimarket che
+PKP052	eh ma c'è quello e poi c'è l'altro minimarket che
 PKP043	si ma beppe non lo fa più nessuno
 PKP052	ce n'è un altro
 PKP052	anche li ci sono i suoi

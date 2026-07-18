@@ -149,6 +149,7 @@ PKP126	l'ho trovato già
 PKP126	più volte dentro casa e
 PKP127	ah sì
 PKP126	non mi piace come atteggiamento
+PKP127	ride
 PKP127	è troppo prepotente
 PKP126	sì
 PKP126	non dov~ non deve comportarsi così
@@ -753,6 +754,7 @@ PKP127	due secondi di pausa
 PKP127	ah
 PKP127	dalla vita proprio
 PKP127	mi devo allargare la cintura vedi
+PKP127	ride
 PKP126	io l'alzo il pantaloncino così si nasconde un po' di più la pancia
 PKP126	vabbè non abbiamo esagerato dai raga
 PKP127	per i miei standard
@@ -822,7 +824,7 @@ PKP127	vabbè s'è mangiato l'insalata ieri eh
 PKP126	ieri ho mangiato l'insalatina
 PKP127	no non mi guardare così che ha detto
 PKP126	devo mettere l'olio dentro
-PKP125	vuoi sapere che c'era nell'insalatina dentro l'insalati~ c'erano i cubetti
+PKP125	vuoi sapere che c'era nell'insalatina dentro l'insalaticerano icubetti
 PKP127	che c'era
 PKP127	di formaggio e di salame l'ha detto
 PKP125	di provolone e i cubetti di sa~ e ti sembra un'isalatina

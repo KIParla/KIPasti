@@ -752,8 +752,8 @@ PKP011	un euro e cinquanta
 PKP012	comunque non so se avete visto ma c'erano due in ciabatte sono passati per strada in ciabatte
 PKP038	hanno aumentato anche là
 PKP124	ma dove
-PKP011	anca mi quando vado a buttar la spazzatura
 PKP124	eh vabbè avranno caldo
+PKP011	anca mi quando vado a buttar la spazzatura
 PKP031	vabbè
 PKP012	posso farti un video quando vieni
 PKP011	va ben

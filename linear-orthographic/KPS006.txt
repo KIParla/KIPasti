@@ -170,11 +170,11 @@ PKP006	incominciano a lavorare alle cinque fanno qualche ora in più
 PKP001	sì
 PKP006	eh
 PKP006	hai capito
-PKP001	mhmh
 PKP006	pure giulia fa
+PKP001	mhmh
 PKP004	non possono
-PKP004	alzarsi e andare a prendere la figlia
 PKP006	xx
+PKP004	alzarsi e andare a prendere la figlia
 PKP006	siccome lei ha la patente
 PKP006	xx stavamo dicendo
 PKP006	con mio marito che forse una macchinetta usata
@@ -554,8 +554,8 @@ PKP003	lui è duemiladue
 PKP004	che poi è andato
 PKP004	ha festeggiato
 PKP003	l'ha fatto in tre tappe
-PKP004	al cinetics
 PKP006	xxx
+PKP004	al cinetics
 PKP004	quest'estate xx
 PKP001	ah okay
 PKP003	quello a casa poi
@@ -818,8 +818,8 @@ PKP001	ho chiesto il ventiquattro e ha detto sì un posto
 PKP006	mh
 PKP005	mh
 PKP006	certe vo
-PKP004	xxxx
 PKP005	beh sarebbe stato il venticinque
+PKP004	xxxx
 PKP005	spero
 PKP004	boh
 PKP001	che ne so

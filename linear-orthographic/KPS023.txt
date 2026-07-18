@@ -648,8 +648,8 @@ PKP130	vedi alice
 PKP130	alice si è fatta bellina
 PKP125	è dimagrita anche
 PKP130	luciana è cresciuta assai
-PKP130	xxx
 PKP125	fa vrè lucian
+PKP130	xxx
 PKP130	carolina c'è una foto più xxx a luciana
 PKP125	eh ma luciana già era cresciuta
 PKP130	donatella no questa non è donatella
@@ -707,8 +707,8 @@ PKP125	ij teng in cap' solo xxxx
 PKP130	ancora albe'
 PKP125	il proble~ è che non xxx
 PKP125	ma non lo leggerò mai questo libro
-PKP130	va beh comunque è da av~ è da avere in libreria però no non è un tipo di letteratura
 PKP125	mi dispiace però
+PKP130	va beh comunque è da av~ è da avere in libreria però no non è un tipo di letteratura
 PKP130	io sto leggendo ancora quello sul~ sulle donne che sta diventando molto interessante eh
 PKP130	e ho scoperto che hanno fatto le olimpiadi per le donne islamiche lo sapevi tu
 PKP125	ah sì

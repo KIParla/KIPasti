@@ -293,8 +293,8 @@ PKP134	a::h
 PKP134	okay, comunque: paola mi sa che non c'è
 PKP135	°>gliel'avevo detto<°
 PKP134	a:h gliel'avevi detto?
-PKP134	[okay]
 PKP135	°[eh sì]°
+PKP134	[okay]
 PKP134	mhmh
 PKP134	ma penso pure io alla fine mo l'ultimo
 PKP134	m:::h (.) no no no vabbè anche perché io a parte che devo ancora cioè stamattina con sto fatto della no:nna non ho finito di scrivere quello che dovevo mandare al professore (.) e oggi devo finirlo assolutamente
@@ -353,8 +353,8 @@ PKP134	e::h le bollette pa
 PKP135	eh
 PKP134	ora proprio
 PKP134	come finiamo di cenare
-PKP134	[di: pranzare]
 PKP135	[(di cenare?)]
+PKP134	[di: pranzare]
 PKP135	[e::h]
 PKP134	[e::h]m:::
 PKP134	e quindi questo

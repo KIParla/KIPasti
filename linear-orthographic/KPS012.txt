@@ -1,5 +1,6 @@
 PKP050	buon appetito
 PKP051	buon appetito
+PKP050	canticchia
 PKP051	secondo me
 PKP050	secondo me quiddru è proprio un 'esplosione è popo bueno
 PKP049	non ti stare a lamentare poi alla sera quando te faccio un solo hamburger

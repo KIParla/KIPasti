@@ -503,8 +503,8 @@ PKP141	un mese dopo
 PKP136	davvero
 PKP141	sì
 PKP142	vabbè pure io s~ cioè io e ele non siamo duemiladue per due mesi
-PKP136	eh sì
 PKP142	tre mesi cioè
+PKP136	eh sì
 PKP142	non siamo duemiladue per due mesi però siamo duemilauno punto
 PKP136	no invece c'è
 PKP136	come si chiama
@@ -564,7 +564,7 @@ PKP141	e tipo mi chiede
 PKP141	mi aiuti a fare gli scherzi a chi li facciamo perché non gli vengono bene
 PKP136	ah
 PKP136	capito tu
-PKP141	eh sì e x però tipo
+PKP141	eh sì e x peròtipo
 PKP141	ero con lei e dei suoi amici può darsi era un suo amico
 PKP136	ah sì
 PKP141	sicuro perché x prima li facevo cioè però se non li faccio di mia spontanea volontà da da anni
@@ -732,8 +732,8 @@ PKP136	quando vi frequentavate
 PKP142	eh e poi
 PKP136	e poi hai visto come è andata a finire
 PKP141	wow
-PKP136	ma
 PKP142	però è per dire
+PKP136	ma
 PKP142	cioè due settimane non sono nemmeno così tante
 PKP141	no infatti
 PKP142	poi considerato che non vi eravat cioè non siete mai usciti veramente quindi ci sta pure
@@ -795,8 +795,8 @@ PKP141	vabbè sì
 PKP141	ti pesa
 PKP136	dico magari poi questo qua pensa che cioè so~ un rompicoglioni semplicemente e quindi ho detto vabbè senti
 PKP141	esatto
-PKP136	mi prendo un attimo una pausa
 PKP142	ma è norma~ perché se u~ perché cioè se uno non ti scrive tu dici pure magari gli scrivo sempre io lui mi risponde per educazione per non xxx
+PKP136	mi prendo un attimo una pausa
 PKP136	eh esatto
 PKP142	giustamente
 PKP141	no è vero eh
@@ -849,7 +849,7 @@ PKP142	andrea ha pensato così
 PKP142	eh ehmh però
 PKP142	cioè è d~ è solo da chiarire semplicemente da dire non era una cosa voluta ci siamo trovati che né io volevo scrivere a te magari tu
 PKP142	mhnon te la senti non lo so qual è il motivo non so quale sia il motivo però
-PKP136	eh capi' che
+PKP136	eh capi che
 PKP136	che turbe mentali hai però
 PKP142	qualsiasi è il motivo
 PKP142	eh
@@ -870,8 +870,8 @@ PKP142	pure che magari non mh cioè non che vi conoscete tantissimo però almeno
 PKP136	sì sì
 PKP142	lo chiedi e basta così
 PKP136	cioè
-PKP136	la mia intenzione
 PKP142	hai la sicurezza
+PKP136	la mia intenzione
 PKP142	lo sai e basta
 PKP136	la mia intenzione è proprio quella di parlare a cuore aperto cioé
 PKP136	senza sotterfugi giochetti bugie di convenienza digli guarda le cose stanno così tu se c'hai qualcosa da dirmi dimmela

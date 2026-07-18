@@ -193,9 +193,9 @@ PKP125	non si coagulava
 PKP129	mh
 PKP125	x
 PKP128	allora
-PKP125	ma quando ci sei stata in 'st'incidente
-PKP128	il nove settembre
+PKP125	ma quando ci sei stata in stincidente
 PKP129	il nove settembre
+PKP128	il nove settembre
 PKP129	l'anno scorso
 PKP129	e là pure è stata all'improvviso
 PKP129	sembrava che non m'ero fatta niente poi bell'e buon
@@ -239,8 +239,8 @@ PKP128	il là per là non mi sono fatta niente
 PKP128	il giorno dopo non mi potevo alzare nemmeno dal letto dai dolori
 PKP129	è stata una brutta settimana veramente brutta
 PKP125	ma com'è successo quest'incidente ho dimenticato la mh
-PKP128	hai presente dove sta
 PKP125	forse in realtà non me l'avete mai x mai raccontato bene
+PKP128	hai presente dove sta
 PKP128	hai presente dove sta il cimitero vecchio di castelvolturno
 PKP125	mhmh
 PKP128	dove sta la tua scuola
@@ -262,7 +262,7 @@ PKP128	e quindi praticamente è stato un frontale
 PKP125	madonna
 PKP129	lui contromano senza assicurazione
 PKP125	ma s'è fatto male lui
-PKP129	n's'è fatt' niente
+PKP129	n'sè fatt' niente
 PKP128	non s'è fatto niente però dovevi vedere quant'era bellino quando voleva scappare nella terra
 PKP125	a piedi
 PKP128	vabbè non è che stava cercando di scappare però mano a mano si allontanava poi secondo me si è reso conto che c'era la sua macchina lì in mezzo distrutta peggio della nostra
@@ -297,7 +297,7 @@ PKP129	di pozzuoli doveva andare ad aversa nun sacc' comm s' truav 'cca dret
 PKP129	s'era s'era smarrito senza assicurazione
 PKP125	sì ma andare contro mano
 PKP129	ma l~ quel boh
-PKP129	ma lui non se n'era proprio accorto albe'
+PKP129	ma lui non se n'era proprio accorto albe
 PKP128	ma lui non se n'era accorto
 PKP129	lui non se n'era proprio accorto
 PKP128	cioè della serie tu scendi dalle stelle
@@ -352,8 +352,8 @@ PKP128	a quel punto era mh ha ormai era distrutta avanti
 PKP128	poi un poco aveva toccato il motore
 PKP128	eh eh quindi era
 PKP128	effettivamente sì da buttare
-PKP128	e ho preso quest'altra carretta
 PKP125	ma
+PKP128	e ho preso quest'altra carretta
 PKP128	praticamente
 PKP129	lavora almeno
 PKP125	ho visto che c'è scuola guida sopra affianco no
@@ -678,7 +678,7 @@ PKP129	però
 PKP129	dicimme che non le ho amaturate
 PKP128	gina le avresti maturate lo stesso
 PKP129	di nuovo
-PKP129	e n'dov'è l'accendino
+PKP129	e n'dovè l'accendino
 PKP129	mari' non insistere che vuoi dare sempre ragione a alberta
 PKP129	non
 PKP129	non le maturavo
@@ -792,8 +792,8 @@ PKP128	no non devi stare zitta tu vuoi pure non stai zitta
 PKP129	nella mia condizione dico nella mia situazione oggi
 PKP129	attuale mari'
 PKP128	perché nessuno ma ma~ ma proprio in generale nella vita potrà dirti quello che tu devi fare
-PKP128	se non ti sta bene ti alzi e te ne vai
 PKP129	nella mia situazione oggi attuale dico
+PKP128	se non ti sta bene ti alzi e te ne vai
 PKP128	cioè lavorerai lo stesso
 PKP128	perché a noi è anche questa mentalità del dire
 PKP128	m' stong zitt' che ci ha rovinati
@@ -832,7 +832,7 @@ PKP129	per come eravamo rimaste io e lei
 PKP129	perché ess' mo' fa furb ma noi eravamo rimaste così
 PKP129	e che lei da settembre mi dava il mio stipendio intero
 PKP129	quindi a me il sei settembre avrebbe dovuto darmi settecentottanta euro
-PKP129	e invece n'i'aver
+PKP129	e invece n'iaver
 PKP129	oltretutto mo m'ha luat pur cinquann'euro
 PKP129	perché o' mes' scorso m'aveva rat i' 'cchiù
 PKP129	e in più mi fa pure o' rimprovero e sistem o' vassoio l'e mis tutt' occupatə
@@ -883,12 +883,12 @@ PKP129	con 'na vet~ con un bar pin'i gent
 PKP129	così fa
 PKP128	comunque vabbè morale della storia lui quando sto io cerca sempre di svignarsela perché se no litighiamo
 PKP129	eh
-PKP128	eh io quando apro la bocca tu
 PKP125	x
+PKP128	eh io quando apro la bocca tu
 PKP129	io che cosa
 PKP128	cioè lo stoppo a priori capito
-PKP128	e spesso e volentieri è capitato che io le ho detto carlo vedi di calmarti perché nemmeno mio padre mi parla così
 PKP129	ma lei ha un altro carattere
+PKP128	e spesso e volentieri è capitato che io le ho detto carlo vedi di calmarti perché nemmeno mio padre mi parla così
 PKP128	cioè io lo prendo proprio a pesci in faccia ma proprio senza pietà
 PKP128	perché allora se tu vieni vicino a me e mi fai un discorso e mi dici guarda
 PKP128	come dobbiamo fare
@@ -1022,7 +1022,7 @@ PKP129	sei andata a migliorare per migliorare e invece sei peggiorata
 PKP129	io devo an~ mi ritrovo
 PKP129	ad andare a chiedere soldi a mio padre
 PKP129	perché ovviamente io non riesco ad arrivare a fine mese
-PKP129	vabbè ma tu me dici com'agg'a fa'
+PKP129	vabbè ma tu me dici com'agga fa'
 PKP129	mio padre a lavoro non mi vuole accompagnare più
 PKP129	uno perché ora non c'ha più la macchina perché mio fratello se l'è ripresa
 PKP129	due perché non mi voleva economicamente non ce lo possiamo permettere
@@ -1077,7 +1077,7 @@ PKP128	comunque resta di fondo il pensiero che lei ha di te
 PKP128	che cioè sei una persona che a lei piace
 PKP129	però lei non mi vuole non vuole cacciare i soldi
 PKP129	eh ma gesù ma io come devo fare ma nemmeno a dire che io abito là dietro e vengo a piedi a lavorare
-PKP129	ma i com'agg'a fa'
+PKP129	ma i com'agga fa'
 PKP129	ma poi anche per una questione di dignità
 PKP129	ma i teng trent'ann ma io faccio questo lavoro da undici anni ma sti cingcient eur' a chi le rav
 PKP125	cinquecento euro è veramente

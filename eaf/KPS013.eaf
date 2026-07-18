@@ -1153,7 +1153,7 @@
 	<TIER TIER_ID="???" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a244" TIME_SLOT_REF1="ts486" TIME_SLOT_REF2="ts487">
-				<ANNOTATION_VALUE>#la rossetti faci xx senza darli xxx vuoi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># la rossetti faci xx senza darli xxx vuoi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1545,7 +1545,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a241" TIME_SLOT_REF1="ts480" TIME_SLOT_REF2="ts481">
-				<ANNOTATION_VALUE>#immagina tu quando xxx scire la rossetti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># immagina tu quando xxx scire la rossetti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1910,7 +1910,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a473" TIME_SLOT_REF1="ts944" TIME_SLOT_REF2="ts945">
-				<ANNOTATION_VALUE>#nisciuna?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># nisciuna?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2482,7 +2482,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a341" TIME_SLOT_REF1="ts680" TIME_SLOT_REF2="ts681">
-				<ANNOTATION_VALUE>ho capito: e: vabbè tutti quanti l' hanno messa e che dai (.) quello poverino</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>ho capito: e: vabbè tutti quanti l'hanno messa e che dai (.) quello poverino</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2817,7 +2817,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a518" TIME_SLOT_REF1="ts1034" TIME_SLOT_REF2="ts1035">
-				<ANNOTATION_VALUE>eh ma c'è quello e poi c'è l' altro mini[market che]</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>eh ma c'è quello e poi c'è l'altro mini[market che]</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3034,12 +3034,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
-				<ANNOTATION_VALUE>#non lu sacc(iu)</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># non lu sacc(iu)</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
-				<ANNOTATION_VALUE>#oggi ci sono andato in (cintro) no (.) dovevo stampare delle foto no (.) in (cintro) posso fare delle foto (.) delle foto e praticamente</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># oggi ci sono andato in (cintro) no (.) dovevo stampare delle foto no (.) in (cintro) posso fare delle foto (.) delle foto e praticamente</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3144,7 +3144,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
-				<ANNOTATION_VALUE>#sono tornat~ sono ripassato davanti il negozio di papà e stavano ancora xx (quiddri cristiani) è una trappola il negozio di papà</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># sono tornat~ sono ripassato davanti il negozio di papà e stavano ancora xx (quiddri cristiani) è una trappola il negozio di papà</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3154,7 +3154,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
-				<ANNOTATION_VALUE>io volevo dire insomma la xxxx l' applicazione che:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>io volevo dire insomma la xxxx l'applicazione che:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3219,7 +3219,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
-				<ANNOTATION_VALUE>#no allora (se ne andava) che si è scazzata (.) si è litigata con la (trup) e se n'è sciuta</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># no allora (se ne andava) che si è scazzata (.) si è litigata con la (trup) e se n'è sciuta</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3279,7 +3279,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts211">
-				<ANNOTATION_VALUE>#non c'è chiù xx cristia:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># non c'è chiù xx cristia:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3294,7 +3294,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts222" TIME_SLOT_REF2="ts223">
-				<ANNOTATION_VALUE>#sono sempre (sti cristia') li santi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># sono sempre (sti cristia') li santi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3304,7 +3304,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts236" TIME_SLOT_REF2="ts237">
-				<ANNOTATION_VALUE>(dove)l' hai messo xxxx per favore</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>(dove)l'hai messo xxxx per favore</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3464,7 +3464,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts466" TIME_SLOT_REF2="ts467">
-				<ANNOTATION_VALUE>#[ma so]no rincoglionite:: (.) non hanno vocia di far ninte</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># [ma so]no rincoglionite:: (.) non hanno vocia di far ninte</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -3789,7 +3789,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a458" TIME_SLOT_REF1="ts914" TIME_SLOT_REF2="ts915">
-				<ANNOTATION_VALUE>#cinquanta giga e spicc e bell</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE># cinquanta giga e spicc e bell</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

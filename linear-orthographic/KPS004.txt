@@ -1187,8 +1187,8 @@ PKP035	dalla cent~ dall'abitazione tutti pastori
 PKP033	mh
 PKP035	e ah e
 PKP034	i masai
-PKP035	mucchie mucchie cose
 PKP033	di cose di cosa
+PKP035	mucchie mucchie cose
 PKP034	sempre se del kenya sempre xxxxx
 PKP035	sì beh vestiti
 PKP033	no no ma pastori di cosa

@@ -7,7 +7,7 @@ PKP130	la trivalente mi pare
 PKP125	la trivalente?
 PKP130	m:h
 PKP125	e già si fa?
-PKP130	#ja na capisc a scrittur ra dottoress
+PKP130	ja na capisc a scrittur ra dottoress
 PKP130	>hai avviato<?
 PKP125	sì
 PKP130	AH hai cominciATO
@@ -267,7 +267,7 @@ PKP130	una buona famiglia
 PKP125	mh
 PKP130	pensa lei quando veniva a napoli non: eh non si metteva le <hogan>
 PKP125	((ride))
-PKP130	#e ricev arianna ma p'cchè non ti metti le hogan e ricev no perché ho paura che poi: possano <rubarle>
+PKP130	e ricev arianna ma p'cchè non ti metti le hogan e ricev no perché ho paura che poi: possano <rubarle>
 PKP125	((ride))
 PKP130	POI aveva il: aveva l'IPHONE
 PKP125	((ride))
@@ -317,7 +317,7 @@ PKP125	ma il ricercatore dipende se è assegnista di RICERCA?
 PKP125	cioè se fà: proprio a livello di: m:h
 PKP130	no albi non lo so non me lo chiedere
 PKP125	m:h
-PKP125	#nun er mej se s' stev a 'merica xxxx
+PKP125	nun er mej se s' stev a 'merica xxxx
 PKP130	e:h
 PKP130	ma
 PKP130	francesca glielo disse
@@ -355,7 +355,7 @@ PKP125	e va beh ma: m:h
 PKP125	è sempre una questione di abitudine alla: mh
 PKP130	eh
 PKP125	alla variet[à::]
-PKP130	#[e in]fatti (.) infatti francesca ric maronna io mi vergognavo a essere una laureata 'i lingue e pure francesca è stata mess 'i <RUOLO>
+PKP130	[e in]fatti (.) infatti francesca ric maronna io mi vergognavo a essere una laureata 'i lingue e pure francesca è stata mess 'i <RUOLO>
 PKP125	[mh]
 PKP125	[è normale]
 PKP125	[ma che c'entra]?
@@ -411,7 +411,7 @@ PKP125	a me hanno regalato: m::h per il mio compleanno:
 PKP130	m:h libri?
 PKP125	ca~ ca~
 PKP125	car~ ca~ caro~
-PKP130	#la mia vita con: come s' chiamav >chillu gatt'<
+PKP130	la mia vita con: come s' chiamav >chillu gatt'<
 PKP125	((ride))
 PKP130	È MORTO quel gatto::
 PKP125	ma quale gatto?
@@ -419,7 +419,7 @@ PKP130	eh quello là:::
 PKP130	come si chiama? x
 PKP130	quel gatto::
 PKP125	°quale gatto?°
-PKP130	#e::h u gatt
+PKP130	e::h u gatt
 PKP130	il gatto:: che portasti <indietro>
 PKP125	io portai indietro?
 PKP130	maronna mi:j
@@ -434,7 +434,7 @@ PKP125	che poi mi pres[i::]
 PKP130	[LA MIA] VITA con bob sì
 PKP125	elena ferrante,
 PKP130	e:h
-PKP125	#che coracc che:
+PKP125	che coracc che:
 PKP130	è pessimo io l'ho let[to]
 PKP125	l'hai letto:?
 PKP130	>sono andata< al cinema a vederlo delle scene imbarazzanti:.
@@ -444,8 +444,8 @@ PKP125	[(on the road)]
 PKP125	neanche a [me però me l'hanno regalato]
 PKP130	[°no:°]
 PKP130	[ah ma in <inglese>]?
-PKP130	((sbuffa)) []
-PKP130	no:: []no no]
+PKP130	((sbuffa))
+PKP130	no:: no no]
 PKP125	[però è stato] un bel gesto un libro in inglese
 PKP130	it changed my life ma che: chi >chi è che< te l'ha regala~
 PKP130	ma certo:
@@ -580,10 +580,10 @@ PKP130	mi attribuì (.) dieci punti in più
 PKP130	al posto di centodiciotto punti centoventotto
 PKP125	eh che tu dovesti: segnalarlo NO?
 PKP130	eh certo
-PKP130	#sta pur' chi s' sta zitt' però
+PKP130	sta pur' chi s' sta zitt' però
 PKP130	però se qualcuno [poi] fa l'accesso agli atti rischi il penale
 PKP125	[e:h]
-PKP130	#tanto che lei fece la battuta >ricett< professoressa e non li vuole questi dieci >eh< dieci punti in più dissi io li vorrei anche [ma non posso]
+PKP130	tanto che lei fece la battuta >ricett< professoressa e non li vuole questi dieci >eh< dieci punti in più dissi io li vorrei anche [ma non posso]
 PKP125	[li vorrei]
 PKP125	anche perché dieci punti sono:
 PKP130	dieci punti in più e:h [fa]
@@ -591,7 +591,7 @@ PKP125	[se]i::
 PKP130	capito?
 PKP125	dieci punti in più son tanti eh,
 PKP125	ma guarda questa crema depilatoria che schifo
-PKP130	#ma p'cchè n'te fai 'a cerett albe'?
+PKP130	ma p'cchè n'te fai 'a cerett albe'?
 PKP130	maronn mij ti sei rovina:to guarda non capisco questo tuo atteggiamento
 PKP125	GUARDA QUA sembra che il gatto mi ha graffiato
 PKP130	ma (.) la crema depilatoria lo sai che è come la ceretta?
@@ -623,16 +623,16 @@ PKP130	ma arianna continuava:
 PKP130	però mi mancano quelle bambine lo SAI?
 PKP125	erano carine eh?
 PKP130	ieri (stefano) so' andati al battesimo di:
-PKP130	#stann pop' bell' marò comm so crisciuti i <figli>
+PKP130	stann pop' bell' marò comm so crisciuti i <figli>
 PKP125	ma chi gior[gio]?
 PKP130	[gior]gio s'è fatto
-PKP130	#E:H hanno fatto il battesimo di elena 'o vuò v'rè?
+PKP130	E:H hanno fatto il battesimo di elena 'o vuò v'rè?
 PKP130	giorgio è cresciuto proprio assai
 PKP125	elena:: elena la cu[gina]
 PKP130	[eh (.) la] seconda figlia però EH
 PKP130	elena ha avuto [un'altra bambina]
 PKP125	[un'<altra>]?
-PKP130	#e::h chest' è 'A PRIMMA FIGLIA e mo a stà battezzann che caspita,
+PKP130	e::h chest' è 'A PRIMMA FIGLIA e mo a stà battezzann che caspita,
 PKP130	questa è la seconda figlia
 PKP125	ma veramen[te]?
 PKP130	[mh] mh
@@ -662,8 +662,8 @@ PKP130	vedi alice?
 PKP130	alice si è fatta bellina
 PKP125	è dimagrita [anche]
 PKP130	[luciana] è cresciuta assa:i
+PKP125	[fa vrè lucian]
 PKP130	[xxx:]
-PKP125	#[fa vrè lucian]
 PKP130	carolina c'è una foto più xxx a luciana
 PKP125	°eh° (.) ma luciana già [era cresciuta]
 PKP130	[donatella:] no questa non è donatel[la]
@@ -677,7 +677,7 @@ PKP130	>e poi c'è< una nipote di stefano che secondo me è <QUESTA>
 PKP130	che tipo si è messa con un uomo tipo di vent'anni più <GRANDE>
 PKP130	e a luciana
 PKP130	bella luciana eh?
-PKP130	#assomigl' 'u padre GUARDA,
+PKP130	assomigl' 'u padre GUARDA,
 PKP125	e:h i colo~ i colori però hanno tutti e tre i [colori di: di <MARIALBA>]
 PKP130	[no non è ques:to]
 PKP130	SÌ:
@@ -718,12 +718,12 @@ PKP130	EH e ho capito e non non gliel'hai data?
 PKP125	domani gliela dò
 PKP125	°te l~ ti sto dicendo°
 PKP130	va [beh]
-PKP125	#[(ij teng] in cap' solo) xxxx
+PKP125	[(ij teng] in cap' solo) xxxx
 PKP130	(°ancor(a) al[be'°)]
 PKP125	(°il proble~ è che non xxx°)
 PKP125	ma non lo leggerò <mai> questo libro
-PKP130	[va beh comunque è da av~] è da avere in libreria però: no non è un tipo di letteratura
 PKP125	[mi dispia:ce però]
+PKP130	[va beh comunque è da av~] è da avere in libreria però: no non è un tipo di letteratura
 PKP130	io sto leggendo ancora quello sul~ sulle donne che sta diventando molto interessa:nte e:h
 PKP130	e ho scoperto che hanno fatto le olimpiadi per le donne islamiche lo sapevi tu?
 PKP125	ah sì?
@@ -868,7 +868,7 @@ PKP125	[PERÒ AH] però ha detto chiara che a <loro> lo <fanno>,
 PKP125	hanno una scusa per farlo
 PKP125	cioè non dicono che è per evitare di sentire il piacere m[a:]
 PKP130	[perché] le donne vanno calmate
-PKP130	#ric [perché altrimenti] gli <ormoni delle donne> [le rendono infe]deli
+PKP130	ric [perché altrimenti] gli <ormoni delle donne> [le rendono infe]deli
 PKP125	[ma n:on è:]
 PKP125	[se no::]
 PKP125	comunque è una una una una::
@@ -881,7 +881,7 @@ PKP125	è barbara
 PKP125	°no non è barbara°
 PKP125	è:::: fa male: è brutta:: non mi piace però è la nostra tradizione sono cose che facciamo da sempre.
 PKP125	e:::
-PKP125	#>c'adda fà<
+PKP125	>c'adda fà<
 PKP125	quello dappertutto lo fà
 PKP125	PERÒ ha detto pure in a~ in af~ e:h in: in marocco.
 PKP125	ma io non penso che tra t~ tra tutti::
@@ -958,11 +958,11 @@ PKP125	[ma io] non mi ricordo ma~ ma neanche il mio enne settantatre si trova pi
 PKP125	ci sono vari telefoni che mancano all'appello
 PKP130	tu dici che mario li ha venduti?
 PKP125	ma non credo
-PKP130	#(e chi: che tinia 'a fà chill ch'i telefn'?)
+PKP130	(e chi: che tinia 'a fà chill ch'i telefn'?)
 PKP130	quello là di marianna ho spiegato era quello là che mi aveva regalato aldo
 PKP130	me l'aveva regalato si era rotto io avevo rimesso in moto il mio: il mio motorola.
 PKP130	quando mi andai a comprare il primo: iphone quattro nel duemilaundici dissi ad alessandro il cugino di: eh andrea dissi senti me lo posso vendere?
-PKP130	#ricett ma che ti do quaranta euro ricett basta che me lo togli davanti p(er)ché io non so che farmene.
+PKP130	ricett ma che ti do quaranta euro ricett basta che me lo togli davanti p(er)ché io non so che farmene.
 PKP130	e infatti mi diede o quaranta o cinquanta euro ALTRIMENTI
 PKP130	sarebbe stato un altro telefono buttato tra quelli che stanno giù al garage nel cimitero dei telefoni
 PKP125	perché l'iphone: quattro tuo dov'è?
@@ -974,7 +974,7 @@ PKP125	[ma quello effettivamente]
 PKP130	neanche l'iphone sei
 PKP130	va beh l'iphone quattro [duemilaundici robbè]
 PKP125	[l'iphone quattro mamma mia]
-PKP125	#ne ha fatt' 'i battagl' eh?
+PKP125	ne ha fatt' 'i battagl' eh?
 PKP130	duemilaundi[ci]
 PKP125	[que]llo l'hai usato tu quattro <anni>.
 PKP125	io un paio d'<anni>.
@@ -1022,7 +1022,7 @@ PKP130	se po(i) [forse] dobbiamo <PAGARE> dobbiamo pagare paghiamo
 PKP125	[s:ì]
 PKP130	ma non penso
 PKP130	anche se sta quel figlio di gianluca del <CAZZO>:
-PKP130	#che ogni vot' s' dev mettr a ricer sono: c'amma fà amma sparecchià?
+PKP130	che ogni vot' s' dev mettr a ricer sono: c'amma fà amma sparecchià?
 PKP125	m:h
 PKP125	sparecchiamo
 PKP125	e ora blocco qua

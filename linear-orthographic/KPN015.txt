@@ -267,7 +267,7 @@ PKP057	cinque o sei e dopo a te rimane da scegliere il vino lì tra quelli propo
 PKP057	e mangi fondamentalmente sì pesce crudo e sushi quindi
 PKP062	e quanto costa
 PKP057	ah lì dipende dai piatti che prendi
-PKP057	c'è il listino dopo te lo faccio vedere c'è il listino p~
+PKP057	c'è il listino dopo te lo faccio vederec'è il listino p~
 PKP061	alla carta
 PKP062	no ma io credevo fosse un pranzo con menù fisso
 PKP057	ah no no no no no scegli tu tra i piatti che vuoi paghi i piatti e poi paghi il vino che prendi
@@ -615,7 +615,7 @@ PKP062	poi dopo c'è da distinguere quando lo metti in bocca
 PKP062	e quando lo mandi giù se il vino dura molto se se sparisce se il gusto sparisce per~ dice il vino è corto oppure lungo
 PKP062	se ti lascia in bocca il sapore per molto tempo il vino è lungo in genere è una caratteristica positiva
 PKP057	mh
-PKP062	s'l'è boun perché sa'l sa ed merda e l'è anca lung l'è un disaster
+PKP062	s'lè boun perché sa'l sa ed merda e l'è anca lung l'è un disaster
 PKP061	mh
 PKP061	il papà le degustazioni le ha fatte
 PKP061	e quindi sa cosa devi andare a a ricercare beh questo te lo può insegnare veramente il papà

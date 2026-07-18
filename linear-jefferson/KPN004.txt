@@ -63,8 +63,8 @@ PKP013	sì
 PKP017	((si_schiarisce_la_voce))
 PKP013	a vignola dov'è
 PKP013	sì no vergato boh
-PKP017	[vergato]
 PKP013	[eh]
+PKP017	[vergato]
 PKP016	con che macchina?
 PKP013	>nella< cinquecento
 PKP016	prenditi anche una giacca un po' più pesantina eh

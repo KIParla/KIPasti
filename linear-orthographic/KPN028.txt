@@ -120,8 +120,8 @@ PKP112	ma perché lo deve perdere per forza
 PKP119	no non è per forza
 PKP118	ah perché evidentemente non si è attaccato non si è
 PKP119	la natura
-PKP119	vede e provvede sarà
 PKP118	boh
+PKP119	vede e provvede sarà
 PKP119	ha paura di rifare un'altra sally
 PKP118	no dai tanto
 PKP119	no scherzo
@@ -178,8 +178,8 @@ PKP118	ho la bocca piena
 PKP119	ah è vero non si parla con la bocca piena
 PKP112	eh non è xxx
 PKP112	eh già
-PKP119	infatti infatti noi stiamo stiamo mangiando però stiamo parlando
 PKP112	non lo so
+PKP119	infatti infatti noi stiamo stiamo mangiando però stiamo parlando
 PKP112	eh
 PKP118	vuoi un'altra fetta di pane chiara
 PKP112	no basta

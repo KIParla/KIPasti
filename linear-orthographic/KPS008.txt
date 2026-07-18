@@ -154,7 +154,7 @@ PKP039	x la bicicletta di
 PKP041	cos'è bologna
 PKP039	penso firenze
 PKP040	firenze
-PKP040	vedi ve'
+PKP040	vedi ve
 PKP041	comunque a sto punto possiamo dire che tutto il mondo è paese mica solo i napoletani hanno fatto ste cose
 PKP041	almeno a brindisi non hanno spaccato i vetri
 PKP039	xxxx
@@ -363,7 +363,7 @@ PKP041	dice che in francia sono andati tutti nelle librerie
 PKP041	ah no no
 PKP040	fiumi di parole fiumi di parole tra noi
 PKP040	so cantante io
-PKP041	pa': non ci devi pensare
+PKP041	pa non ci devi pensare
 PKP040	infatti tu non lo faresti
 PKP040	mo stai attento a non fare
 PKP040	c'ho mal di testa

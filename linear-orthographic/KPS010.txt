@@ -238,7 +238,7 @@ PKP040	ma il migliore a vienna amo
 PKP040	lei non c'era noi a vienna
 PKP039	alla casina di caccia addai
 PKP040	grinzing al grinzing si chiamava
-PKP039	lo mangiammo pure que~ x
+PKP039	lo mangiammo pure que~ xxx
 PKP040	eh si
 PKP039	tornando in italia
 PKP047	la'
@@ -307,7 +307,7 @@ PKP047	eh
 PKP039	un pezzetto di focaccia abbiamo mangiato
 PKP047	vabbè mamma cioè se ordini fuori non è che cioè
 PKP041	però era molto lievitata
-PKP047	a brindisi insalata io non so~ non so chi è che fa l' insalata
+PKP047	a brindisi insalata io non so~ non so chi è che fa l'insalata
 PKP040	no quella focaccia là queste un po' meno
 PKP040	ma quella focaccia là ti assicuro che quando me la mangio io non sto per niente male
 PKP041	xx xx

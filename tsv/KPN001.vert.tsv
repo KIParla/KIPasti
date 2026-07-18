@@ -13,7 +13,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1-10	PKP007	1	1	10	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1-11	PKP007	1	1	11	barca,	barca	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=12.702	_	_	_	_
 2-0	PKP135	2	2	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=12.961	_	_	_	_
-2-1	PKP135	2	2	1	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+2-1	PKP135	2	2	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 2-2	PKP135	2	2	2	direi	direi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 2-3	PKP135	2	2	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 2-4	PKP135	2	2	4	no,	no	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=15.955	_	_	_	_
@@ -45,7 +45,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 6-2	PKP007	6	6	2	messo	messo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 6-3	PKP007	6	6	3	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 6-4	PKP007	6	6	4	mia,	mia	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-6-5	PKP007	6	6	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+6-5	PKP007	6	6	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 6-6	PKP007	6	6	6	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 6-7	PKP007	6	6	7	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 6-8	PKP007	6	6	8	altro	altro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -68,7 +68,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 16-1	PKP007	16	16	1	sta,	sta	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=51.684	_	_	_	_
 17-0	PKP007	17	17	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=53.74	_	_	_	_
 17-1	PKP007	17	17	1	mia::	mia	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	2x2	_	_	_
-17-2	PKP007	17	17	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+17-2	PKP007	17	17	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 17-3	PKP007	17	17	3	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 17-4	PKP007	17	17	4	mio	mio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 17-5	PKP007	17	17	5	thinking	thinking	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -158,7 +158,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 24-10	PKP007	24	24	10	finisco	finisco	_	_	_	_	_	linguistic	_	none	_	End=74.62	_	_	_	_
 25-0	PKP007	25	25	0	sono	sono	_	_	_	_	_	linguistic	_	none	_	Begin=75.735	_	_	_	_
 25-1	PKP007	25	25	1	una:	una	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	2x1	_	_	_
-25-2	PKP007	25	25	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+25-2	PKP007	25	25	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 25-3	PKP007	25	25	3	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 25-4	PKP007	25	25	4	functioning	functioning	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 25-5	PKP007	25	25	5	alcoholic	alcoholic	_	_	_	_	_	linguistic	_	none	_	End=78.88	_	_	_	_
@@ -168,7 +168,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 27-2	PKP135	27	27	2	è:?	è	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=83.932	0x1	_	_	_
 28-0	PKP007	28	28	0	°baby:°	baby	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=85.3	3x1	_	_	_
 28-1	PKP007	28	28	1	brindiamo::,	brindiamo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	8x2	_	_	_
-28-2	PKP007	28	28	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+28-2	PKP007	28	28	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 28-3	PKP007	28	28	3	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 28-4	PKP007	28	28	4	qualcosa,	qualcosa	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=89.55	_	_	_	_
 29-0	PKP007	29	29	0	brindiamo,	brindiamo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=92.38|End=93.248	_	_	_	_
@@ -239,7 +239,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 41-0	PKP135	41	41	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=123.999	_	_	_	_
 41-1	PKP135	41	41	1	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 41-2	PKP135	41	41	2	so	so	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-41-3	PKP135	41	41	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+41-3	PKP135	41	41	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 41-4	PKP135	41	41	4	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 41-5	PKP135	41	41	5	vino	vino	_	_	_	_	_	linguistic	_	none	_	End=125.8	_	_	_	_
 42-0	PKP007	42	42	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=125.824|End=126.235	_	_	_	_
@@ -445,7 +445,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 72-7	PKP007	72	72	7	conosci?	conosci	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=191.772	_	_	_	_
 73-0	PKP007	73	73	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=191.997	_	_	_	_
 73-1	PKP007	73	73	1	io:	io	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	1x1	_	_	_
-73-2	PKP007	73	73	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+73-2	PKP007	73	73	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 73-3	PKP007	73	73	3	no,	no	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
 73-4	PKP007	73	73	4	però:	però	_	_	_	_	_	linguistic	_	none	_	End=193.5	3x1	_	_	_
 74-0	PKP007	74	74	0	ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=193.982	_	_	_	_
@@ -453,7 +453,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 74-2	PKP007	74	74	2	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 74-3	PKP007	74	74	3	dici	dici	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 74-4	PKP007	74	74	4	fantastico	fantastico	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-74-5	PKP007	74	74	5	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=196.636	_	_	_	_
+74-5	PKP007	74	74	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=196.636	_	_	_	_
 75-0	PKP135	75	75	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	Begin=196.784	_	_	_	_
 75-1	PKP135	75	75	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 75-2	PKP135	75	75	2	prossima	prossima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -461,7 +461,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 75-4	PKP135	75	75	4	dico	dico	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 75-5	PKP135	75	75	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 75-6	PKP135	75	75	6	schifo	schifo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-75-7	PKP135	75	75	7	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+75-7	PKP135	75	75	7	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 75-8	PKP135	75	75	8	[cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(32)
 75-9	PKP135	75	75	9	scusa],	scusa	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=200.12	_	_	_	0-5(32)
 76-0	PKP007	76	76	0	[ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=199.0	_	_	_	0-2(32)
@@ -506,7 +506,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 81-1	PKP007	81	81	1	d~]	d~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=208.28	_	_	_	0-2(34)
 82-0	PKP007	82	82	0	del	del	_	_	_	_	_	linguistic	_	none	_	Begin=208.601	_	_	_	_
 82-1	PKP007	82	82	1	lei,	lei	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
-82-2	PKP007	82	82	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+82-2	PKP007	82	82	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 82-3	PKP007	82	82	3	e::h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	_
 82-4	PKP007	82	82	4	lascia	lascia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 82-5	PKP007	82	82	5	perdere	perdere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -543,7 +543,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 85-8	PKP135	85	85	8	l~	l~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
 85-9	PKP135	85	85	9	[all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-4(37)
 85-10	PKP135	85	85	10	ini]zio,	inizio	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	0-3(37)
-85-11	PKP135	85	85	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+85-11	PKP135	85	85	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 85-12	PKP135	85	85	12	do	do	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 85-13	PKP135	85	85	13	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 85-14	PKP135	85	85	14	lei,	lei	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=222.158	_	_	_	_
@@ -716,7 +716,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 99-4	PKP135	99	99	4	[magari	magari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(46)
 99-5	PKP135	99	99	5	vedi]	vedi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(46)
 99-6	PKP135	99	99	6	così	così	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-99-7	PKP135	99	99	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+99-7	PKP135	99	99	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 99-8	PKP135	99	99	8	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 99-9	PKP135	99	99	9	viene::	viene	_	_	_	_	_	linguistic	_	none	_	_	4x2	_	_	_
 99-10	PKP135	99	99	10	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -884,7 +884,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 116-6	PKP007	116	116	6	stupita	stupita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 116-7	PKP007	116	116	7	[perché:]	perché	_	_	_	_	_	linguistic	_	none	_	End=295.709	5x1	_	_	0-6(57)
 117-0	???	117	117	0	[allora]	allora	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=295.269	_	_	_	0-6(57)
-117-1	???	117	117	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+117-1	???	117	117	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 117-2	???	117	117	2	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 117-3	???	117	117	3	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 117-4	???	117	117	4	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -912,7 +912,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 126-0	???	126	126	0	formaggio	formaggio	_	_	_	_	_	linguistic	_	none	_	Begin=309.024	_	_	_	_
 126-1	???	126	126	1	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 126-2	???	126	126	2	piselli	piselli	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-126-3	???	126	126	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+126-3	???	126	126	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 126-4	???	126	126	4	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=311.405	_	_	_	_
 127-0	PKP007	127	127	0	gra[zie	grazie	_	_	_	_	_	linguistic	_	none	_	Begin=311.405	_	_	_	3-6(279)
 127-1	PKP007	127	127	1	mille]	mille	_	_	_	_	_	linguistic	_	none	_	End=312.586	_	_	_	0-5(279)
@@ -949,7 +949,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 133-2	PKP135	133	133	2	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-2(0)	_	_
 133-3	PKP135	133	133	3	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-2(0)	_	_
 133-4	PKP135	133	133	4	problema<	problema	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Fast=0-8(0)	_	_
-133-5	PKP135	133	133	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+133-5	PKP135	133	133	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 133-6	PKP135	133	133	6	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 133-7	PKP135	133	133	7	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 133-8	PKP135	133	133	8	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1000,7 +1000,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 139-6	PKP007	139	139	6	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 139-7	PKP007	139	139	7	voi	voi	_	_	_	_	_	linguistic	_	none	_	End=341.398	_	_	_	_
 140-0	PKP135	140	140	0	boh	boh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=342.447	_	_	_	_
-140-1	PKP135	140	140	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+140-1	PKP135	140	140	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 140-2	PKP135	140	140	2	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 140-3	PKP135	140	140	3	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 140-4	PKP135	140	140	4	dico	dico	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1036,7 +1036,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 143-4	PKP135	143	143	4	li	li	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-5	PKP135	143	143	5	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-6	PKP135	143	143	6	conosciuti	conosciuti	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-143-7	PKP135	143	143	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+143-7	PKP135	143	143	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 143-8	PKP135	143	143	8	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-9	PKP135	143	143	9	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-10	PKP135	143	143	10	napoli	napoli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1045,7 +1045,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 143-13	PKP135	143	143	13	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-14	PKP135	143	143	14	lì	lì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-15	PKP135	143	143	15	loro	loro	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-143-16	PKP135	143	143	16	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+143-16	PKP135	143	143	16	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 143-17	PKP135	143	143	17	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-18	PKP135	143	143	18	primi	primi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 143-19	PKP135	143	143	19	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1110,7 +1110,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 152-0	PKP007	152	152	0	[>comunque	comunque	_	_	_	_	_	linguistic	_	none	_	Begin=378.198	_	Fast=0-8(0)	_	0-8(75)
 152-1	PKP007	152	152	1	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	0-6(75)
 152-2	PKP007	152	152	2	lui<	lui	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Fast=0-3(0)	_	0-3(75)
-152-3	PKP007	152	152	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(75)
+152-3	PKP007	152	152	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 152-4	PKP007	152	152	4	avvocato:]	avvocato	_	_	_	_	_	linguistic	_	none	_	End=381.721	7x1	_	_	0-8(75)
 153-0	PKP135	153	153	0	[no:	no	_	_	_	_	_	linguistic	_	none	_	Begin=378.239	1x1	_	_	0-2(75)
 153-1	PKP135	153	153	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(75)
@@ -1146,13 +1146,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 155-4	PKP007	155	155	4	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-2(0)	_	_
 155-5	PKP007	155	155	5	raccontava	raccontava	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-10(0)	_	_
 155-6	PKP007	155	155	6	elena	elena	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Fast=0-5(0)	_	_
-155-7	PKP007	155	155	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	Fast=0-3(0)	_	_
+155-7	PKP007	155	155	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 155-8	PKP007	155	155	8	praticamente<	praticamente	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-12(0)	_	_
 155-9	PKP007	155	155	9	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 155-10	PKP007	155	155	10	genitori	genitori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 155-11	PKP007	155	155	11	della:	della	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
 155-12	PKP007	155	155	12	mamma	mamma	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-155-13	PKP007	155	155	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+155-13	PKP007	155	155	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 155-14	PKP007	155	155	14	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 155-15	PKP007	155	155	15	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 155-16	PKP007	155	155	16	genitori	genitori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1181,7 +1181,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 163-2	PKP135	163	163	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 163-3	PKP135	163	163	3	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 163-4	PKP135	163	163	4	piccantissimo	piccantissimo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-163-5	PKP135	163	163	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+163-5	PKP135	163	163	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 163-6	PKP135	163	163	6	cioè:	cioè	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
 163-7	PKP135	163	163	7	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 163-8	PKP135	163	163	8	piccante	piccante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1485,7 +1485,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 223-1	PKP135	223	223	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 223-2	PKP135	223	223	2	possibilità	possibilità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 223-3	PKP135	223	223	3	di	di	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-223-4	PKP135	223	223	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+223-4	PKP135	223	223	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 223-5	PKP135	223	223	5	assaggiarlo	assaggiarlo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 223-6	PKP135	223	223	6	meglio	meglio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 223-7	PKP135	223	223	7	rispetto	rispetto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1561,7 +1561,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 235-15	PKP007	235	235	15	mangiare	mangiare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 235-16	PKP007	235	235	16	cucine:	cucine	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	_
 235-17	PKP007	235	235	17	estere	estere	_	_	_	_	_	linguistic	_	none	_	End=564.707	_	_	_	_
-236-0	PKP135	236	236	0	{tossisce}	{tossisce}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=563.551|End=564.481	_	_	_	_
+236-0	PKP135	236	236	0	((tossisce))	((tossisce))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=563.551|End=564.481	_	_	_	_
 237-0	PKP007	237	237	0	ma:	ma	_	_	_	_	_	linguistic	_	none	_	Begin=564.91	1x1	_	_	_
 237-1	PKP007	237	237	1	va	va	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 237-2	PKP007	237	237	2	praticamente	praticamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1622,7 +1622,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 242-7	PKP135	242	242	7	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 242-8	PKP135	242	242	8	dici	dici	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 242-9	PKP135	242	242	9	sai	sai	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-242-10	PKP135	242	242	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+242-10	PKP135	242	242	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 242-11	PKP135	242	242	11	magari	magari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 242-12	PKP135	242	242	12	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 242-13	PKP135	242	242	13	faccio	faccio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1650,7 +1650,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 247-1	PKP135	247	247	1	infatti	infatti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 247-2	PKP135	247	247	2	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 247-3	PKP135	247	247	3	lì	lì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-247-4	PKP135	247	247	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+247-4	PKP135	247	247	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 247-5	PKP135	247	247	5	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 247-6	PKP135	247	247	6	parlavo	parlavo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 247-7	PKP135	247	247	7	appunto	appunto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1724,7 +1724,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 255-11	PKP135	255	255	11	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 255-12	PKP135	255	255	12	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 255-13	PKP135	255	255	13	però	però	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-255-14	PKP135	255	255	14	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+255-14	PKP135	255	255	14	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 255-15	PKP135	255	255	15	magari	magari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 255-16	PKP135	255	255	16	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 255-17	PKP135	255	255	17	vado	vado	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1749,7 +1749,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 255-36	PKP135	255	255	36	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 255-37	PKP135	255	255	37	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 255-38	PKP135	255	255	38	so	so	_	_	_	_	_	linguistic	_	none	_	End=627.126	_	_	_	_
-256-0	PKP007	256	256	0	{si_schiarisce_la_voce}	{si_schiarisce_la_voce}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=623.123|End=623.618	_	_	_	_
+256-0	PKP007	256	256	0	((si_schiarisce_la_voce))	((si_schiarisce_la_voce))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=623.123|End=623.618	_	_	_	_
 257-0	PKP135	257	257	0	spendo	spendo	_	_	_	_	_	linguistic	_	none	_	Begin=628.676	_	_	_	_
 257-1	PKP135	257	257	1	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 257-2	PKP135	257	257	2	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1780,7 +1780,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 260-0	PKP135	260	260	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=635.9	_	_	_	_
 260-1	PKP135	260	260	1	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 260-2	PKP135	260	260	2	borghe~	borghe~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
-260-3	PKP135	260	260	3	{inspira}	{inspira}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+260-3	PKP135	260	260	3	((inspira))	((inspira))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 260-4	PKP135	260	260	4	forghetti	forghetti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 260-5	PKP135	260	260	5	scusami	scusami	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 260-6	PKP135	260	260	6	di:	di	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
@@ -1828,7 +1828,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 271-0	PKP007	271	271	0	[un]	un	_	_	_	_	_	linguistic	_	none	_	Begin=654.094	_	_	_	0-2(106)
 271-1	PKP007	271	271	1	ristorante:	ristorante	_	_	_	_	_	linguistic	_	none	_	_	9x1	_	_	_
 271-2	PKP007	271	271	2	italiano?	italiano	_	_	_	_	_	linguistic	_	none	Intonation=Rising|PauseAfter=Yes	_	_	_	_	_
-271-3	PKP007	271	271	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+271-3	PKP007	271	271	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 271-4	PKP007	271	271	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 271-5	PKP007	271	271	5	roba	roba	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 271-6	PKP007	271	271	6	italia[na]	italiana	_	_	_	_	_	linguistic	_	none	_	End=656.388	_	_	_	6-8(107)
@@ -1901,7 +1901,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 276-12	PKP135	276	276	12	esci	esci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(109)
 276-13	PKP135	276	276	13	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(109)
 276-14	PKP135	276	276	14	lì	lì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	0-2(109)
-276-15	PKP135	276	276	15	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(109)
+276-15	PKP135	276	276	15	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 276-16	PKP135	276	276	16	e::	e	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	0-1(109)
 276-17	PKP135	276	276	17	sei:]	sei	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	0-3(109)
 276-18	PKP135	276	276	18	sazio	sazio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -1934,7 +1934,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 277-12	PKP007	277	277	12	sazio]	sazio	_	_	_	_	_	linguistic	_	none	_	End=680.367	_	_	_	0-5(109)
 278-0	PKP007	278	278	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=684.79|End=685.368	_	_	_	_
 279-0	PKP135	279	279	0	perché	perché	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=685.399	_	_	_	_
-279-1	PKP135	279	279	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+279-1	PKP135	279	279	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 279-2	PKP135	279	279	2	devono	devono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 279-3	PKP135	279	279	3	[sa~	sa~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	0-3(110)
 279-4	PKP135	279	279	4	cioè]	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(110)
@@ -2044,7 +2044,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 290-1	PKP135	290	290	1	diciamo	diciamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 290-2	PKP135	290	290	2	autentica	autentica	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 290-3	PKP135	290	290	3	così	così	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-290-4	PKP135	290	290	4	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+290-4	PKP135	290	290	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 290-5	PKP135	290	290	5	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 290-6	PKP135	290	290	6	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 290-7	PKP135	290	290	7	ovviamente	ovviamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2069,7 +2069,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 291-7	PKP135	291	291	7	sei	sei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 291-8	PKP135	291	291	8	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 291-9	PKP135	291	291	9	ristorante	ristorante	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-291-10	PKP135	291	291	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+291-10	PKP135	291	291	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 291-11	PKP135	291	291	11	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 291-12	PKP135	291	291	12	farti	farti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 291-13	PKP135	291	291	13	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2077,7 +2077,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 291-15	PKP135	291	291	15	tipo	tipo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 291-16	PKP135	291	291	16	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 291-17	PKP135	291	291	17	cena	cena	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-291-18	PKP135	291	291	18	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+291-18	PKP135	291	291	18	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 291-19	PKP135	291	291	19	dove	dove	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 291-20	PKP135	291	291	20	sai	sai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 291-21	PKP135	291	291	21	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2170,7 +2170,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 298-5	PKP007	298	298	5	proprio	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 298-6	PKP007	298	298	6	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 298-7	PKP007	298	298	7	interessa:	interessa	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	8x1	_	_	_
-298-8	PKP007	298	298	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+298-8	PKP007	298	298	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 298-9	PKP007	298	298	9	spendere	spendere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 298-10	PKP007	298	298	10	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 298-11	PKP007	298	298	11	quel:	quel	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
@@ -2351,7 +2351,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 319-0	PKP135	319	319	0	[burguesa	burguesa	_	_	_	_	_	linguistic	_	none	_	Begin=829.391	_	_	_	0-8(124)
 319-1	PKP135	319	319	1	arruinada]	arruinada	_	_	_	_	_	linguistic	_	none	_	End=830.776	_	_	_	0-9(124)
 320-0	PKP007	320	320	0	[burguesa	burguesa	_	_	_	_	_	linguistic	_	none	_	Begin=829.393	_	_	_	0-8(124)
-320-1	PKP007	320	320	1	{ridendo}	{ridendo}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	0-9(124)
+320-1	PKP007	320	320	1	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	0-7(124)
 320-2	PKP007	320	320	2	arrui~]	arrui~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=830.801	_	_	_	0-6(124)
 321-0	PKP135	321	321	0	ovviamente	ovviamente	_	_	_	_	_	linguistic	_	none	_	Begin=830.873	_	_	_	_
 321-1	PKP135	321	321	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2405,7 +2405,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 329-1	PKP007	329	329	1	hudson	hudson	_	_	_	_	_	linguistic	_	none	_	End=855.837	_	_	_	_
 330-0	PKP135	330	330	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=855.883|End=856.455	_	_	_	_
 331-0	PKP007	331	331	0	e::hm	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=860.809|End=861.485	0x2	_	_	_
-332-0	PKP007	332	332	0	{si_schiarisce_la_voce}	{si_schiarisce_la_voce}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=861.857|End=862.643	_	_	_	_
+332-0	PKP007	332	332	0	((si_schiarisce_la_voce))	((si_schiarisce_la_voce))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=861.857|End=862.643	_	_	_	_
 333-0	PKP007	333	333	0	(>cosa	cosa	_	_	_	_	_	linguistic	_	none	_	Begin=863.67	_	Fast=0-4(0)	0-4(0)	_
 333-1	PKP007	333	333	1	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-2(0)	0-2(0)	_
 333-2	PKP007	333	333	2	stavo	stavo	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-5(0)	0-5(0)	_
@@ -2546,7 +2546,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 346-17	PKP135	346	346	17	tipo	tipo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 346-18	PKP135	346	346	18	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 346-19	PKP135	346	346	19	vacanza	vacanza	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-346-20	PKP135	346	346	20	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+346-20	PKP135	346	346	20	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 346-21	PKP135	346	346	21	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 346-22	PKP135	346	346	22	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 346-23	PKP135	346	346	23	vado	vado	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2559,7 +2559,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 347-4	PKP135	347	347	4	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 347-5	PKP135	347	347	5	è:	è	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 347-6	PKP135	347	347	6	e:hm	ehm	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	0x1	_	_	_
-347-7	PKP135	347	347	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+347-7	PKP135	347	347	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 347-8	PKP135	347	347	8	cocktail	cocktail	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 347-9	PKP135	347	347	9	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 347-10	PKP135	347	347	10	albergo	albergo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2601,7 +2601,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 349-3	PKP007	349	349	3	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(130)
 349-4	PKP007	349	349	4	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(130)
 349-5	PKP007	349	349	5	miami	miami	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	0-5(130)
-349-6	PKP007	349	349	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(130)
+349-6	PKP007	349	349	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 349-7	PKP007	349	349	7	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(130)
 349-8	PKP007	349	349	8	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=920.0	_	_	_	0-2(130)
 350-0	PKP007	350	350	0	[>cioè	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=920.865	_	Fast=0-4(0)	_	0-4(131)
@@ -2738,7 +2738,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 360-13	PKP007	360	360	13	julie	julie	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 360-14	PKP007	360	360	14	piuttosto	piuttosto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 360-15	PKP007	360	360	15	che:	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	2x1	_	_	_
-360-16	PKP007	360	360	16	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+360-16	PKP007	360	360	16	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 360-17	PKP007	360	360	17	persone	persone	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 360-18	PKP007	360	360	18	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 360-19	PKP007	360	360	19	magari	magari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2768,7 +2768,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 361-14	PKP135	361	361	14	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 361-15	PKP135	361	361	15	conosciamo	conosciamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 361-16	PKP135	361	361	16	ma:	ma	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	1x1	_	_	_
-361-17	PKP135	361	361	17	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+361-17	PKP135	361	361	17	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 361-18	PKP135	361	361	18	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 361-19	PKP135	361	361	19	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 361-20	PKP135	361	361	20	voglio	voglio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -2912,7 +2912,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 378-10	PKP007	378	378	10	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 378-11	PKP007	378	378	11	soldi	soldi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 378-12	PKP007	378	378	12	abbastanza:	abbastanza	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	9x1	_	_	_
-378-13	PKP007	378	378	13	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+378-13	PKP007	378	378	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 378-14	PKP007	378	378	14	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 378-15	PKP007	378	378	15	cui	cui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 378-16	PKP007	378	378	16	piace	piace	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3182,7 +3182,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 403-5	PKP135	403	403	5	maggio	maggio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 403-6	PKP135	403	403	6	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 403-7	PKP135	403	403	7	dire	dire	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-403-8	PKP135	403	403	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+403-8	PKP135	403	403	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 403-9	PKP135	403	403	9	a::	a	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	_
 403-10	PKP135	403	403	10	settembre	settembre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 403-11	PKP135	403	403	11	inizio	inizio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3212,7 +3212,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 406-9	PKP135	406	406	9	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 406-10	PKP135	406	406	10	cazzo	cazzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 406-11	PKP135	406	406	11	eh	eh	_	_	_	_	_	linguistic	_	none	_	End=1100.154	_	_	_	_
-407-0	PKP007	407	407	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1100.288|End=1100.856	_	_	_	_
+407-0	PKP007	407	407	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1100.288|End=1100.856	_	_	_	_
 408-0	PKP135	408	408	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1100.862	_	_	_	_
 408-1	PKP135	408	408	1	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 408-2	PKP135	408	408	2	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3220,7 +3220,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 408-4	PKP135	408	408	4	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 408-5	PKP135	408	408	5	viaggi	viaggi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 408-6	PKP135	408	408	6	di:	di	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
-408-7	PKP135	408	408	7	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+408-7	PKP135	408	408	7	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 408-8	PKP135	408	408	8	(tre)	tre	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
 408-9	PKP135	408	408	9	mesi	mesi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 408-10	PKP135	408	408	10	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3361,7 +3361,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 424-4	PKP135	424	424	4	sta	sta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 424-5	PKP135	424	424	5	adesso	adesso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 424-6	PKP135	424	424	6	anche	anche	_	_	_	_	_	linguistic	_	none	_	End=1145.758	_	_	_	_
-425-0	PKP007	425	425	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1146.509|End=1147.391	_	_	_	_
+425-0	PKP007	425	425	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1146.509|End=1147.391	_	_	_	_
 426-0	PKP135	426	426	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=1147.29	_	_	_	_
 426-1	PKP135	426	426	1	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 426-2	PKP135	426	426	2	toccare	toccare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3419,7 +3419,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 440-2	PKP007	440	440	2	devo	devo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 440-3	PKP007	440	440	3	dirti	dirti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 440-4	PKP007	440	440	4	una	una	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-440-5	PKP007	440	440	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+440-5	PKP007	440	440	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 440-6	PKP007	440	440	6	riguarda	riguarda	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 440-7	PKP007	440	440	7	principalmente	principalmente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 440-8	PKP007	440	440	8	questa:	questa	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	_
@@ -3836,7 +3836,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 489-2	PKP007	489	489	2	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 489-3	PKP007	489	489	3	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 489-4	PKP007	489	489	4	però	però	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-489-5	PKP007	489	489	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+489-5	PKP007	489	489	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 489-6	PKP007	489	489	6	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 489-7	PKP007	489	489	7	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 489-8	PKP007	489	489	8	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -3937,7 +3937,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 514-7	PKP135	514	514	7	la:	la	_	_	_	_	_	linguistic	_	none	_	End=1374.149	1x1	_	_	_
 515-0	PKP007	515	515	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=1374.239|End=1374.724	_	_	_	_
 516-0	PKP135	516	516	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=1375.521|End=1376.423	_	_	_	_
-517-0	PKP007	517	517	0	{sospira}	{sospira}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1382.092|End=1382.885	_	_	_	_
+517-0	PKP007	517	517	0	((sospira))	((sospira))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1382.092|End=1382.885	_	_	_	_
 518-0	PKP007	518	518	0	(lo	lo	_	_	_	_	_	linguistic	_	none	_	Begin=1387.26	_	_	0-2(0)	_
 518-1	PKP007	518	518	1	vuoi	vuoi	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-4(0)	_
 518-2	PKP007	518	518	2	te?)	te	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1388.068	_	_	0-2(0)	_
@@ -4015,7 +4015,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 539-3	PKP007	539	539	3	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 539-4	PKP007	539	539	4	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 539-5	PKP007	539	539	5	di	di	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-539-6	PKP007	539	539	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+539-6	PKP007	539	539	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 539-7	PKP007	539	539	7	altro	altro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 539-8	PKP007	539	539	8	vino	vino	_	_	_	_	_	linguistic	_	none	_	End=1437.0	_	_	_	_
 540-0	PKP007	540	540	0	>ormai	ormai	_	_	_	_	_	linguistic	_	none	_	Begin=1439.995	_	Fast=0-5(0)	_	_
@@ -4122,7 +4122,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 555-7	PKP007	555	555	7	me	me	_	_	_	_	_	linguistic	_	none	_	End=1481.348	_	_	_	_
 556-0	PKP007	556	556	0	ha	ha	_	_	_	_	_	linguistic	_	none	_	Begin=1481.733	_	_	_	_
 556-1	PKP007	556	556	1	fatto:	fatto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	4x1	_	_	_
-556-2	PKP007	556	556	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+556-2	PKP007	556	556	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 556-3	PKP007	556	556	3	tre	tre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 556-4	PKP007	556	556	4	settimane	settimane	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 556-5	PKP007	556	556	5	e:	e	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
@@ -4243,7 +4243,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 568-0	PKP135	568	568	0	magari	magari	_	_	_	_	_	linguistic	_	none	_	Begin=1521.834	_	_	_	_
 568-1	PKP135	568	568	1	vai	vai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 568-2	PKP135	568	568	2	lì	lì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-568-3	PKP135	568	568	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+568-3	PKP135	568	568	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 568-4	PKP135	568	568	4	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 568-5	PKP135	568	568	5	appunto	appunto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 568-6	PKP135	568	568	6	puoi	puoi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4510,7 +4510,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 596-4	PKP007	596	596	4	sacco	sacco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 596-5	PKP007	596	596	5	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 596-6	PKP007	596	596	6	riso	riso	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-596-7	PKP007	596	596	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+596-7	PKP007	596	596	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 596-8	PKP007	596	596	8	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 596-9	PKP007	596	596	9	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 596-10	PKP007	596	596	10	pane	pane	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4615,7 +4615,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 617-0	PKP135	617	617	0	ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=1667.298	_	_	_	_
 617-1	PKP135	617	617	1	okay	okay	_	_	_	_	_	linguistic	_	none	_	End=1668.296	_	_	_	_
 618-0	PKP007	618	618	0	però	però	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1668.499	_	_	_	_
-618-1	PKP007	618	618	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+618-1	PKP007	618	618	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 618-2	PKP007	618	618	2	secondo	secondo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 618-3	PKP007	618	618	3	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 618-4	PKP007	618	618	4	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4688,7 +4688,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 627-13	PKP135	627	627	13	lato	lato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 627-14	PKP135	627	627	14	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 627-15	PKP135	627	627	15	dovresti	dovresti	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-627-16	PKP135	627	627	16	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+627-16	PKP135	627	627	16	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 627-17	PKP135	627	627	17	adeguare	adeguare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 627-18	PKP135	627	627	18	>quanto	quanto	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	_
 627-19	PKP135	627	627	19	meno<	meno	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	_	_
@@ -4786,7 +4786,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 637-13	PKP135	637	637	13	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 637-14	PKP135	637	637	14	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 637-15	PKP135	637	637	15	FATTO	fatto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes|Volume=high	_	_	_	_	_
-637-16	PKP135	637	637	16	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+637-16	PKP135	637	637	16	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 637-17	PKP135	637	637	17	son	son	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 637-18	PKP135	637	637	18	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 637-19	PKP135	637	637	19	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4815,7 +4815,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 639-5	PKP135	639	639	5	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 639-6	PKP135	639	639	6	chi	chi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 639-7	PKP135	639	639	7	dice	dice	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-639-8	PKP135	639	639	8	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+639-8	PKP135	639	639	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 639-9	PKP135	639	639	9	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 639-10	PKP135	639	639	10	piacciono	piacciono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 639-11	PKP135	639	639	11	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4890,7 +4890,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 646-20	PKP007	646	646	20	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 646-21	PKP007	646	646	21	piccante	piccante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 646-22	PKP007	646	646	22	diverso	diverso	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-646-23	PKP007	646	646	23	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+646-23	PKP007	646	646	23	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 646-24	PKP007	646	646	24	ni:	ni	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
 646-25	PKP007	646	646	25	[°perché°]	perché	_	_	_	_	_	linguistic	_	none	Volume=low	End=1759.15	_	_	_	0-6(212)
 647-0	PKP135	647	647	0	[NO]	no	_	_	_	_	_	linguistic	_	none	Volume=high	Begin=1758.863	_	_	_	0-2(212)
@@ -4910,10 +4910,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 649-4	PKP007	649	649	4	livello	livello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 649-5	PKP007	649	649	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 649-6	PKP007	649	649	6	piccante	piccante	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-649-7	PKP007	649	649	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+649-7	PKP007	649	649	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 649-8	PKP007	649	649	8	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 649-9	PKP007	649	649	9	vol~	vol~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
-649-10	PKP007	649	649	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+649-10	PKP007	649	649	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 649-11	PKP007	649	649	11	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 649-12	PKP007	649	649	12	volte	volte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 649-13	PKP007	649	649	13	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4937,7 +4937,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 649-31	PKP007	649	649	31	a]ltri	altri	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(?)
 649-32	PKP007	649	649	32	salami	salami	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 649-33	PKP007	649	649	33	piccanti	piccanti	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-649-34	PKP007	649	649	34	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+649-34	PKP007	649	649	34	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 649-35	PKP007	649	649	35	e:	e	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 649-36	PKP007	649	649	36	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 649-37	PKP007	649	649	37	piccante	piccante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -4998,7 +4998,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 657-1	PKP007	657	657	1	quel	quel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(220)
 657-2	PKP007	657	657	2	senso]	senso	_	_	_	_	_	linguistic	_	none	_	End=1786.001	_	_	_	0-5(220)
 658-0	PKP135	658	658	0	boh	boh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1788.705	_	_	_	_
-658-1	PKP135	658	658	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+658-1	PKP135	658	658	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 658-2	PKP135	658	658	2	l:a	la	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
 658-3	PKP135	658	658	3	piccantezza	piccantezza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 658-4	PKP135	658	658	4	secondo	secondo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5028,7 +5028,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 660-4	PKP135	660	660	4	abituato	abituato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 660-5	PKP135	660	660	5	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 660-6	PKP135	660	660	6	mangiare	mangiare	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-660-7	PKP135	660	660	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+660-7	PKP135	660	660	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 660-8	PKP135	660	660	8	piccante	piccante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 660-9	PKP135	660	660	9	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 660-10	PKP135	660	660	10	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5190,7 +5190,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 681-21	PKP135	681	681	21	tutta	tutta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 681-22	PKP135	681	681	22	sta	sta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 681-23	PKP135	681	681	23	tavolata	tavolata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-681-24	PKP135	681	681	24	{inspira}	{inspira}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+681-24	PKP135	681	681	24	((inspira))	((inspira))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 681-25	PKP135	681	681	25	tutti	tutti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 681-26	PKP135	681	681	26	davanti	davanti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 681-27	PKP135	681	681	27	col	col	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5257,7 +5257,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 684-22	PKP135	684	684	22	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 684-23	PKP135	684	684	23	altro:	altro	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
 684-24	PKP135	684	684	24	st~	st~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
-684-25	PKP135	684	684	25	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+684-25	PKP135	684	684	25	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 684-26	PKP135	684	684	26	stereotipato	stereotipato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 684-27	PKP135	684	684	27	no?	no	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
 684-28	PKP135	684	684	28	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5302,7 +5302,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 689-0	PKP135	689	689	0	pasta	pasta	_	_	_	_	_	linguistic	_	none	_	Begin=1885.206	_	_	_	_
 689-1	PKP135	689	689	1	(con)	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
 689-2	PKP135	689	689	2	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
-689-3	PKP135	689	689	3	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1886.808	_	_	_	_
+689-3	PKP135	689	689	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1886.808	_	_	_	_
 690-0	PKP007	690	690	0	baby	baby	_	_	_	_	_	linguistic	_	none	_	Begin=1886.978	_	_	_	_
 690-1	PKP007	690	690	1	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 690-2	PKP007	690	690	2	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5323,7 +5323,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 692-11	PKP135	692	692	11	altro	altro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 692-12	PKP135	692	692	12	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 692-13	PKP135	692	692	13	peperoncini	peperoncini	_	_	_	_	_	linguistic	_	none	_	End=1895.454	_	_	_	_
-693-0	PKP007	693	693	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1897.345|End=1898.653	_	_	_	_
+693-0	PKP007	693	693	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1897.345|End=1898.653	_	_	_	_
 694-0	PKP135	694	694	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=1899.372	_	_	_	_
 694-1	PKP135	694	694	1	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 694-2	PKP135	694	694	2	stai	stai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5335,12 +5335,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 694-8	PKP135	694	694	8	hai	hai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 694-9	PKP135	694	694	9	preso?	preso	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1901.77	_	_	_	_
 695-0	PKP007	695	695	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=1901.787|End=1902.275	_	_	_	_
-696-0	PKP135	696	696	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1902.488|End=1903.071	_	_	_	_
+696-0	PKP135	696	696	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1902.488|End=1903.071	_	_	_	_
 697-0	PKP135	697	697	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=1903.481	_	_	_	_
 697-1	PKP135	697	697	1	hai	hai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 697-2	PKP135	697	697	2	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 697-3	PKP135	697	697	3	bene	bene	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-697-4	PKP135	697	697	4	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+697-4	PKP135	697	697	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 697-5	PKP135	697	697	5	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 697-6	PKP135	697	697	6	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 697-7	PKP135	697	697	7	son	son	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5379,7 +5379,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 701-14	PKP135	701	701	14	detto	detto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 701-15	PKP135	701	701	15	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 701-16	PKP135	701	701	16	(non)	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
-701-17	PKP135	701	701	17	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1916.337	_	_	_	_
+701-17	PKP135	701	701	17	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1916.337	_	_	_	_
 702-0	PKP135	702	702	0	e::hm:	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=1920.247|End=1921.885	0x2,2x1	_	_	_
 703-0	PKP135	703	703	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1924.137	_	_	_	_
 703-1	PKP135	703	703	1	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5582,7 +5582,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 729-3	PKP135	729	729	3	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 729-4	PKP135	729	729	4	arrivano	arrivano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 729-5	PKP135	729	729	5	a:	a	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	0x1	_	_	_
-729-6	PKP135	729	729	6	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+729-6	PKP135	729	729	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 729-7	PKP135	729	729	7	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 729-8	PKP135	729	729	8	so	so	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 729-9	PKP135	729	729	9	quanti:	quanti	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	_
@@ -5590,12 +5590,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 729-11	PKP135	729	729	11	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 729-12	PKP135	729	729	12	ricordo	ricordo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 729-13	PKP135	729	729	13	quanti:	quanti	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	5x1	_	_	_
-729-14	PKP135	729	729	14	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+729-14	PKP135	729	729	14	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 729-15	PKP135	729	729	15	tipi	tipi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 729-16	PKP135	729	729	16	ce	ce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 729-17	PKP135	729	729	17	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 729-18	PKP135	729	729	18	siano	siano	_	_	_	_	_	linguistic	_	none	_	End=1997.059	_	_	_	_
-730-0	PKP007	730	730	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1990.133|End=1990.828	_	_	_	_
+730-0	PKP007	730	730	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1990.133|End=1990.828	_	_	_	_
 731-0	PKP135	731	731	0	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1997.139	_	_	_	_
 731-1	PKP135	731	731	1	ovviamente	ovviamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 731-2	PKP135	731	731	2	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
@@ -5607,7 +5607,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 731-8	PKP135	731	731	8	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 731-9	PKP135	731	731	9	venti	venti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 731-10	PKP135	731	731	10	tipi	tipi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-731-11	PKP135	731	731	11	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+731-11	PKP135	731	731	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 731-12	PKP135	731	731	12	dal	dal	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 731-13	PKP135	731	731	13	primo	primo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 731-14	PKP135	731	731	14	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -5766,7 +5766,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 750-11	PKP135	750	750	11	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 750-12	PKP135	750	750	12	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 750-13	PKP135	750	750	13	idea	idea	_	_	_	_	_	linguistic	_	none	_	End=2054.357	_	_	_	_
-751-0	PKP135	751	751	0	{ridendo}	{ridendo}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2054.806	_	_	_	_
+751-0	PKP135	751	751	0	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2054.806	_	_	_	_
 751-1	PKP135	751	751	1	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 751-2	PKP135	751	751	2	modo	modo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 751-3	PKP135	751	751	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6077,7 +6077,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 780-9	PKP135	780	780	9	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 780-10	PKP135	780	780	10	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 780-11	PKP135	780	780	11	wasabi	wasabi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-780-12	PKP135	780	780	12	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+780-12	PKP135	780	780	12	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 780-13	PKP135	780	780	13	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 780-14	PKP135	780	780	14	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 780-15	PKP135	780	780	15	vuoi	vuoi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6389,7 +6389,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 800-18	PKP135	800	800	18	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 800-19	PKP135	800	800	19	pochino:	pochino	_	_	_	_	_	linguistic	_	none	_	_	6x1	_	_	_
 800-20	PKP135	800	800	20	e:h	eh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	0x1	_	_	_
-800-21	PKP135	800	800	21	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+800-21	PKP135	800	800	21	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 800-22	PKP135	800	800	22	sopra	sopra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 800-23	PKP135	800	800	23	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 800-24	PKP135	800	800	24	co:se:	cose	_	_	_	_	_	linguistic	_	none	_	_	1x1,3x1	_	_	_
@@ -6412,7 +6412,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 801-6	PKP007	801	801	6	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 801-7	PKP007	801	801	7	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 801-8	PKP007	801	801	8	prov[a:	prova	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	4x1	_	_	4-5(240)
-801-9	PKP007	801	801	9	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(240)
+801-9	PKP007	801	801	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 801-10	PKP007	801	801	10	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(240)
 801-11	PKP007	801	801	11	video]	video	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(240)
 801-12	PKP007	801	801	12	(però)	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-4(0)	_
@@ -6434,7 +6434,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 804-7	PKP007	804	804	7	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 804-8	PKP007	804	804	8	sentito	sentito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 804-9	PKP007	804	804	9	morire	morire	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-804-10	PKP007	804	804	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+804-10	PKP007	804	804	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 804-11	PKP007	804	804	11	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 804-12	PKP007	804	804	12	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 804-13	PKP007	804	804	13	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6442,7 +6442,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 804-15	PKP007	804	804	15	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 804-16	PKP007	804	804	16	vie	vie	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 804-17	PKP007	804	804	17	respiratorie	respiratorie	_	_	_	_	_	linguistic	_	none	_	End=2269.429	_	_	_	_
-805-0	PKP135	805	805	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2266.997|End=2267.704	_	_	_	_
+805-0	PKP135	805	805	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2266.997|End=2267.704	_	_	_	_
 806-0	PKP135	806	806	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=2269.929	_	_	_	_
 806-1	PKP135	806	806	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 806-2	PKP135	806	806	2	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6700,7 +6700,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 836-1	PKP007	836	836	1	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 836-2	PKP007	836	836	2	puoi	puoi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 836-3	PKP007	836	836	3	uscire	uscire	_	_	_	_	_	linguistic	_	none	_	End=2357.492	_	_	_	_
-837-0	PKP135	837	837	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2357.753|End=2358.737	_	_	_	_
+837-0	PKP135	837	837	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2357.753|End=2358.737	_	_	_	_
 838-0	PKP007	838	838	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=2359.333	_	_	_	_
 838-1	PKP007	838	838	1	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 838-2	PKP007	838	838	2	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6731,7 +6731,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 841-0	PKP135	841	841	0	ho	ho	_	_	_	_	_	linguistic	_	none	_	Begin=2366.332	_	_	_	_
 841-1	PKP135	841	841	1	capito	capito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 841-2	PKP135	841	841	2	baby	baby	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-841-3	PKP135	841	841	3	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2367.617	_	_	_	_
+841-3	PKP135	841	841	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2367.617	_	_	_	_
 842-0	PKP007	842	842	0	ci	ci	_	_	_	_	_	linguistic	_	none	_	Begin=2368.256	_	_	_	_
 842-1	PKP007	842	842	1	sta	sta	_	_	_	_	_	linguistic	_	none	_	End=2369.038	_	_	_	_
 843-0	PKP007	843	843	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=2369.946	_	_	_	_
@@ -6855,7 +6855,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 864-2	PKP135	864	864	2	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 864-3	PKP135	864	864	3	puoi	puoi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 864-4	PKP135	864	864	4	fare	fare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-864-5	PKP135	864	864	5	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2434.679	_	_	_	_
+864-5	PKP135	864	864	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2434.679	_	_	_	_
 865-0	PKP007	865	865	0	posso	posso	_	_	_	_	_	linguistic	_	none	_	Begin=2435.788	_	_	_	_
 865-1	PKP007	865	865	1	mandare	mandare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 865-2	PKP007	865	865	2	quello	quello	_	_	_	_	_	linguistic	_	none	_	End=2437.105	_	_	_	_
@@ -6865,7 +6865,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 866-3	PKP135	866	866	3	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 866-4	PKP135	866	866	4	fare:	fare	_	_	_	_	_	linguistic	_	none	_	End=2440.542	3x1	_	_	_
 867-0	PKP007	867	867	0	mentre	mentre	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=2440.56	_	_	_	_
-867-1	PKP007	867	867	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+867-1	PKP007	867	867	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 867-2	PKP007	867	867	2	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 867-3	PKP007	867	867	3	loro	loro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 867-4	PKP007	867	867	4	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -6950,7 +6950,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 882-2	PKP135	882	882	2	tipo	tipo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 882-3	PKP135	882	882	3	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 882-4	PKP135	882	882	4	feedback	feedback	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-882-5	PKP135	882	882	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+882-5	PKP135	882	882	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 882-6	PKP135	882	882	6	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 882-7	PKP135	882	882	7	sta	sta	_	_	_	_	_	linguistic	_	none	_	End=2476.908	_	_	_	_
 883-0	PKP007	883	883	0	va	va	_	_	_	_	_	linguistic	_	none	_	Begin=2477.502	_	_	_	_
@@ -7025,7 +7025,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 895-1	PKP007	895	895	1	ma)	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-2(0)	_
 895-2	PKP007	895	895	2	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
 895-3	PKP007	895	895	3	così	così	_	_	_	_	_	linguistic	_	none	_	End=2515.553	_	_	_	_
-896-0	PKP135	896	896	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2515.557	_	_	_	_
+896-0	PKP135	896	896	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2515.557	_	_	_	_
 896-1	PKP135	896	896	1	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 896-2	PKP135	896	896	2	sta	sta	_	_	_	_	_	linguistic	_	none	_	End=2517.0	_	_	_	_
 897-0	PKP007	897	897	0	(gua~)	gua~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	Begin=2523.642|End=2524.327	_	_	0-4(0)	_
@@ -7041,7 +7041,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 900-1	PKP007	900	900	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 900-2	PKP007	900	900	2	piccante	piccante	_	_	_	_	_	linguistic	_	none	_	End=2528.937	_	_	_	_
 901-0	PKP135	901	901	0	no	no	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=2529.019	_	_	_	_
-901-1	PKP135	901	901	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+901-1	PKP135	901	901	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 901-2	PKP135	901	901	2	beh	beh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 901-3	PKP135	901	901	3	[io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(252)
 901-4	PKP135	901	901	4	for]se	forse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(252)
@@ -7090,7 +7090,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 906-10	PKP135	906	906	10	detto	detto	_	_	_	_	_	linguistic	_	none	_	End=2539.688	_	_	_	_
 907-0	PKP135	907	907	0	però	però	_	_	_	_	_	linguistic	_	none	_	Begin=2540.446	_	_	_	_
 907-1	PKP135	907	907	1	magari	magari	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-907-2	PKP135	907	907	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+907-2	PKP135	907	907	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 907-3	PKP135	907	907	3	[cioè]	cioè	_	_	_	_	_	linguistic	_	none	_	End=2542.485	_	_	_	0-4(254)
 908-0	PKP007	908	908	0	[però]	però	_	_	_	_	_	linguistic	_	none	_	Begin=2541.668	_	_	_	0-4(254)
 908-1	PKP007	908	908	1	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7129,7 +7129,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 911-7	PKP135	911	911	7	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 911-8	PKP135	911	911	8	senti	senti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 911-9	PKP135	911	911	9	però	però	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-911-10	PKP135	911	911	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+911-10	PKP135	911	911	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 911-11	PKP135	911	911	11	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 911-12	PKP135	911	911	12	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 911-13	PKP135	911	911	13	molesto	molesto	_	_	_	_	_	linguistic	_	none	_	End=2556.35	_	_	_	_
@@ -7225,7 +7225,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 923-9	PKP007	923	923	9	fumiamo	fumiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 923-10	PKP007	923	923	10	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 923-11	PKP007	923	923	11	sigaretta	sigaretta	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-923-12	PKP007	923	923	12	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+923-12	PKP007	923	923	12	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 923-13	PKP007	923	923	13	qua	qua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 923-14	PKP007	923	923	14	vicino	vicino	_	_	_	_	_	linguistic	_	none	_	End=2591.25	_	_	_	_
 924-0	PKP135	924	924	0	ma:	ma	_	_	_	_	_	linguistic	_	none	_	Begin=2591.317	1x1	_	_	_
@@ -7326,7 +7326,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 933-13	PKP007	933	933	13	finito	finito	_	_	_	_	_	linguistic	_	none	_	End=2616.354	_	_	_	_
 934-0	PKP135	934	934	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=2616.405	_	_	_	_
 934-1	PKP135	934	934	1	dico	dico	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-934-2	PKP135	934	934	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+934-2	PKP135	934	934	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 934-3	PKP135	934	934	3	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 934-4	PKP135	934	934	4	unica	unica	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 934-5	PKP135	934	934	5	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7337,7 +7337,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 934-10	PKP135	934	934	10	andiamo	andiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 934-11	PKP135	934	934	11	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 934-12	PKP135	934	934	12	giro	giro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-934-13	PKP135	934	934	13	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+934-13	PKP135	934	934	13	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 934-14	PKP135	934	934	14	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 934-15	PKP135	934	934	15	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 934-16	PKP135	934	934	16	bottiglia	bottiglia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7423,7 +7423,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 950-3	PKP135	950	950	3	sei	sei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 950-4	PKP135	950	950	4	(amo)	amo	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
 950-5	PKP135	950	950	5	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=2662.568	_	_	_	_
-951-0	PKP007	951	951	0	{cantando}	{cantando}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2663.99	_	_	_	_
+951-0	PKP007	951	951	0	((cantando))	((cantando))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2663.99	_	_	_	_
 951-1	PKP007	951	951	1	what	what	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 951-2	PKP007	951	951	2	do	do	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 951-3	PKP007	951	951	3	you	you	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7475,7 +7475,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 962-3	PKP007	962	962	3	chiedo	chiedo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 962-4	PKP007	962	962	4	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 962-5	PKP007	962	962	5	eh	eh	_	_	_	_	_	linguistic	_	none	_	End=2694.725	_	_	_	_
-963-0	PKP135	963	963	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2695.104|End=2696.009	_	_	_	_
+963-0	PKP135	963	963	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2695.104|End=2696.009	_	_	_	_
 964-0	PKP135	964	964	0	te	te	_	_	_	_	_	linguistic	_	none	_	Begin=2697.609	_	_	_	_
 964-1	PKP135	964	964	1	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 964-2	PKP135	964	964	2	chiedo	chiedo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7505,7 +7505,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 970-2	PKP007	970	970	2	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 970-3	PKP007	970	970	3	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 970-4	PKP007	970	970	4	chiederà	chiederà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-970-5	PKP007	970	970	5	{si_schiarisce_la_voce}	{si_schiarisce_la_voce}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+970-5	PKP007	970	970	5	((si_schiarisce_la_voce))	((si_schiarisce_la_voce))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 970-6	PKP007	970	970	6	[mi]	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(263)
 970-7	PKP007	970	970	7	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 970-8	PKP007	970	970	8	prima	prima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7613,7 +7613,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 983-2	PKP135	983	983	2	visto	visto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 983-3	PKP135	983	983	3	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 983-4	PKP135	983	983	4	ilaria:	ilaria	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	5x1	_	_	_
-983-5	PKP135	983	983	5	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+983-5	PKP135	983	983	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 983-6	PKP135	983	983	6	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 983-7	PKP135	983	983	7	parlava	parlava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 983-8	PKP135	983	983	8	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7678,7 +7678,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 988-10	PKP135	988	988	10	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 988-11	PKP135	988	988	11	inglese	inglese	_	_	_	_	_	linguistic	_	none	_	End=2768.703	_	_	_	_
 989-0	PKP135	989	989	0	quindi	quindi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=2768.998	_	_	_	_
-989-1	PKP135	989	989	1	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+989-1	PKP135	989	989	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 989-2	PKP135	989	989	2	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 989-3	PKP135	989	989	3	pensato	pensato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 989-4	PKP135	989	989	4	magari	magari	_	_	_	_	_	linguistic	_	none	_	End=2770.819	_	_	_	_
@@ -7693,7 +7693,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 991-0	???	991	991	0	tutto	tutto	_	_	_	_	_	linguistic	_	none	_	Begin=2773.35	_	_	_	_
 991-1	???	991	991	1	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 991-2	???	991	991	2	posto?	posto	_	_	_	_	_	linguistic	_	none	Intonation=Rising|PauseAfter=Yes	_	_	_	_	_
-991-3	???	991	991	3	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+991-3	???	991	991	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 991-4	???	991	991	4	[posso	posso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(280)
 991-5	???	991	991	5	sparecchiare]?	sparecchiare	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=2774.803	_	_	_	0-12(280)
 992-0	PKP007	992	992	0	[tutto	tutto	_	_	_	_	_	linguistic	_	none	_	Begin=2774.08	_	_	_	0-5(280)
@@ -7810,7 +7810,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1016-1	PKP135	1016	1016	1	vive	vive	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1016-2	PKP135	1016	1016	2	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1016-3	PKP135	1016	1016	3	italia	italia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1016-4	PKP135	1016	1016	4	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+1016-4	PKP135	1016	1016	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 1016-5	PKP135	1016	1016	5	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1016-6	PKP135	1016	1016	6	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1016-7	PKP135	1016	1016	7	po'	po'	_	_	_	_	_	linguistic	_	none	_	End=2807.092	_	_	_	_
@@ -7843,7 +7843,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1020-8	PKP135	1020	1020	8	pulire	pulire	_	_	_	_	_	linguistic	_	none	_	End=2818.975	_	_	_	_
 1021-0	PKP007	1021	1021	0	°grazie	grazie	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=2819.553	_	_	_	_
 1021-1	PKP007	1021	1021	1	(cara)°	cara	_	_	_	_	_	linguistic	_	none	Volume=low	End=2820.758	_	_	0-4(0)	_
-1022-0	PKP135	1022	1022	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2820.758|End=2821.502	_	_	_	_
+1022-0	PKP135	1022	1022	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2820.758|End=2821.502	_	_	_	_
 1023-0	PKP135	1023	1023	0	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=2824.604	_	_	_	_
 1023-1	PKP135	1023	1023	1	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1023-2	PKP135	1023	1023	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7857,7 +7857,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1024-4	PKP135	1024	1024	4	alloro	alloro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1024-5	PKP135	1024	1024	5	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1024-6	PKP135	1024	1024	6	sua:	sua	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	2x1	_	_	_
-1024-7	PKP135	1024	1024	7	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1024-7	PKP135	1024	1024	7	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1024-8	PKP135	1024	1024	8	corona	corona	_	_	_	_	_	linguistic	_	none	_	End=2831.3	_	_	_	_
 1025-0	PKP135	1025	1025	0	adesso	adesso	_	_	_	_	_	linguistic	_	none	_	Begin=2834.276	_	_	_	_
 1025-1	PKP135	1025	1025	1	saprà	saprà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7867,7 +7867,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1025-5	PKP135	1025	1025	5	no:	no	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
 1025-6	PKP135	1025	1025	6	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1025-7	PKP135	1025	1025	7	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1025-8	PKP135	1025	1025	8	{ridendo}	{ridendo}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+1025-8	PKP135	1025	1025	8	((ridendo))	((ridendo))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 1025-9	PKP135	1025	1025	9	vero	vero	_	_	_	_	_	linguistic	_	none	_	End=2837.37	_	_	_	_
 1026-0	PKP007	1026	1026	0	mh?	mh	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=2837.571|End=2838.153	_	_	_	_
 1027-0	PKP135	1027	1027	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2840.722	0x1	_	_	_
@@ -7897,7 +7897,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1034-1	PKP007	1034	1034	1	course	course	_	_	_	_	_	linguistic	_	none	_	End=2850.957	_	_	_	_
 1035-0	PKP135	1035	1035	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2851.486	_	_	_	_
 1035-1	PKP135	1035	1035	1	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1035-2	PKP135	1035	1035	2	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+1035-2	PKP135	1035	1035	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
 1035-3	PKP135	1035	1035	3	madonna	madonna	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1035-4	PKP135	1035	1035	4	(come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-4(0)	_
 1035-5	PKP135	1035	1035	5	t~)	t~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	0-2(0)	_
@@ -7924,7 +7924,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1037-9	PKP135	1037	1037	9	[sputare	sputare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-7(6)
 1037-10	PKP135	1037	1037	10	nei	nei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(6)
 1037-11	PKP135	1037	1037	11	piatti]	piatti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(6)
-1037-12	PKP135	1037	1037	12	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2861.509	_	_	_	_
+1037-12	PKP135	1037	1037	12	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2861.509	_	_	_	_
 1038-0	PKP007	1038	1038	0	[certo]	certo	_	_	_	_	_	linguistic	_	none	_	Begin=2858.524|End=2859.112	_	_	_	0-5(5)
 1039-0	PKP007	1039	1039	0	[sputare	sputare	_	_	_	_	_	linguistic	_	none	_	Begin=2859.782	_	_	_	0-7(6)
 1039-1	PKP007	1039	1039	1	nel	nel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(6)
@@ -7972,7 +7972,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1049-8	PKP135	1049	1049	8	uno	uno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1049-9	PKP135	1049	1049	9	uguale	uguale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1049-10	PKP135	1049	1049	10	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1049-11	PKP135	1049	1049	11	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2875.93	_	_	_	_
+1049-11	PKP135	1049	1049	11	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2875.93	_	_	_	_
 1050-0	PKP007	1050	1050	0	>ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=2878.613	_	Fast=0-2(0)	_	_
 1050-1	PKP007	1050	1050	1	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	_
 1050-2	PKP007	1050	1050	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-1(0)	_	_
@@ -7982,7 +7982,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1050-6	PKP007	1050	1050	6	liquore	liquore	_	_	_	_	_	linguistic	_	none	_	End=2880.213	_	_	_	_
 1051-0	PKP135	1051	1051	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2882.156	_	_	_	_
 1051-1	PKP135	1051	1051	1	perché	perché	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-1051-2	PKP135	1051	1051	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1051-2	PKP135	1051	1051	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1051-3	PKP135	1051	1051	3	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1051-4	PKP135	1051	1051	4	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1051-5	PKP135	1051	1051	5	voleva	voleva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -7994,17 +7994,17 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1052-1	PKP135	1052	1052	1	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1052-2	PKP135	1052	1052	2	subito	subito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1052-3	PKP135	1052	1052	3	prevenuta	prevenuta	_	_	_	_	_	linguistic	_	none	_	End=2887.679	_	_	_	_
-1053-0	PKP135	1053	1053	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2890.587	_	_	_	_
+1053-0	PKP135	1053	1053	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2890.587	_	_	_	_
 1053-1	PKP135	1053	1053	1	(che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
 1053-2	PKP135	1053	1053	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
 1053-3	PKP135	1053	1053	3	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-2(0)	_
 1053-4	PKP135	1053	1053	4	chiama)	chiama	_	_	_	_	_	linguistic	_	none	_	End=2892.423	_	_	0-6(0)	_
-1054-0	PKP007	1054	1054	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2891.55|End=2892.434	_	_	_	_
+1054-0	PKP007	1054	1054	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2891.55|End=2892.434	_	_	_	_
 1055-0	PKP135	1055	1055	0	ti	ti	_	_	_	_	_	linguistic	_	none	_	Begin=2892.546	_	_	_	_
 1055-1	PKP135	1055	1055	1	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1055-2	PKP135	1055	1055	2	apre	apre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1055-3	PKP135	1055	1055	3	tutto	tutto	_	_	_	_	_	linguistic	_	none	_	End=2893.756	_	_	_	_
-1056-0	PKP007	1056	1056	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2892.608|End=2893.705	_	_	_	_
+1056-0	PKP007	1056	1056	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2892.608|End=2893.705	_	_	_	_
 1057-0	PKP135	1057	1057	0	e:	e	_	_	_	_	_	linguistic	_	none	_	Begin=2894.209	0x1	_	_	_
 1057-1	PKP135	1057	1057	1	(vabbè:)	vabbè	_	_	_	_	_	linguistic	_	none	_	End=2895.102	4x1	_	0-5(0)	_
 1058-0	PKP007	1058	1058	0	[(adesso	adesso	_	_	_	_	_	linguistic	_	none	_	Begin=2895.322	_	_	0-6(0)	0-6(13)
@@ -8060,14 +8060,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1066-3	???	1066	1066	3	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(?)
 1066-4	???	1066	1066	4	problema]	problema	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-8(?)
 1066-5	???	1066	1066	5	guarda	guarda	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
-1066-6	???	1066	1066	6	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2913.427	_	_	_	_
+1066-6	???	1066	1066	6	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2913.427	_	_	_	_
 1067-0	PKP135	1067	1067	0	[grazie]	grazie	_	_	_	_	_	linguistic	_	none	_	Begin=2911.969|End=2912.657	_	_	_	0-6(17)
 1068-0	PKP135	1068	1068	0	e:hm:	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=2915.276|End=2917.015	0x1,2x1	_	_	_
 1069-0	PKP135	1069	1069	0	facevi	facevi	_	_	_	_	_	linguistic	_	none	_	Begin=2919.573	_	_	_	_
 1069-1	PKP135	1069	1069	1	quelle	quelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1069-2	PKP135	1069	1069	2	robe?	robe	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
-1069-3	PKP135	1069	1069	3	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2920.997	_	_	_	_
-1070-0	PKP135	1070	1070	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2921.395|End=2922.221	_	_	_	_
+1069-3	PKP135	1069	1069	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2920.997	_	_	_	_
+1070-0	PKP135	1070	1070	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2921.395|End=2922.221	_	_	_	_
 1071-0	PKP007	1071	1071	0	mi	mi	_	_	_	_	_	linguistic	_	none	_	Begin=2921.905	_	_	_	_
 1071-1	PKP007	1071	1071	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1071-2	PKP007	1071	1071	2	capitato	capitato	_	_	_	_	_	linguistic	_	none	_	End=2922.927	_	_	_	_
@@ -8087,11 +8087,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1073-7	PKP007	1073	1073	7	prima	prima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1073-8	PKP007	1073	1073	8	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1073-9	PKP007	1073	1073	9	lo	lo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-1073-10	PKP007	1073	1073	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1073-10	PKP007	1073	1073	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1073-11	PKP007	1073	1073	11	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1073-12	PKP007	1073	1073	12	venisse	venisse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1073-13	PKP007	1073	1073	13	portato	portato	_	_	_	_	_	linguistic	_	none	_	End=2928.58	_	_	_	_
-1074-0	PKP135	1074	1074	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2927.517|End=2928.839	_	_	_	_
+1074-0	PKP135	1074	1074	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=2927.517|End=2928.839	_	_	_	_
 1075-0	PKP007	1075	1075	0	o	o	_	_	_	_	_	linguistic	_	none	_	Begin=2929.219	_	_	_	_
 1075-1	PKP007	1075	1075	1	dopo	dopo	_	_	_	_	_	linguistic	_	none	_	End=2930.255	_	_	_	_
 1076-0	PKP007	1076	1076	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=2931.036	_	_	_	_
@@ -8124,7 +8124,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1081-0	PKP135	1081	1081	0	mh[mh]	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=2942.826|End=2943.205	_	_	_	2-4(21)
 1082-0	PKP007	1082	1082	0	[que]sti	questi	_	_	_	_	_	linguistic	_	none	_	Begin=2942.98	_	_	_	0-3(21)
 1082-1	PKP007	1082	1082	1	prendevano	prendevano	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-1082-2	PKP007	1082	1082	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1082-2	PKP007	1082	1082	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1082-3	PKP007	1082	1082	3	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1082-4	PKP007	1082	1082	4	pollo	pollo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1082-5	PKP007	1082	1082	5	intero	intero	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -8132,7 +8132,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1082-7	PKP007	1082	1082	7	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1082-8	PKP007	1082	1082	8	mangiavano	mangiavano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1082-9	PKP007	1082	1082	9	metà	metà	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-1082-10	PKP007	1082	1082	10	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1082-10	PKP007	1082	1082	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1082-11	PKP007	1082	1082	11	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1082-12	PKP007	1082	1082	12	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
 1082-13	PKP007	1082	1082	13	altra	altra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -8182,7 +8182,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1088-12	PKP135	1088	1088	12	scale	scale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(27)
 1088-13	PKP135	1088	1088	13	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(27)
 1088-14	PKP135	1088	1088	14	cui:	cui	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	0-3(27)
-1088-15	PKP135	1088	1088	15	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	0-6(27)
+1088-15	PKP135	1088	1088	15	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	0-4(27)
 1088-16	PKP135	1088	1088	16	compensavi	compensavi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-10(27)
 1088-17	PKP135	1088	1088	17	benissimo]	benissimo	_	_	_	_	_	linguistic	_	none	_	End=2965.151	_	_	_	0-9(27)
 1089-0	PKP007	1089	1089	0	[sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=2960.691	_	_	_	0-2(26)
@@ -8276,7 +8276,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1101-13	PKP007	1101	1101	13	tu:	tu	_	_	_	_	_	linguistic	_	none	_	End=2982.981	1x1	_	_	_
 1102-0	PKP135	1102	1102	0	[>cioè	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=2979.095	_	Fast=0-4(0)	_	0-4(36)
 1102-1	PKP135	1102	1102	1	dai<	dai	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	Fast=0-3(0)	_	0-3(36)
-1102-2	PKP135	1102	1102	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	0-3(36)
+1102-2	PKP135	1102	1102	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1102-3	PKP135	1102	1102	3	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(36)
 1102-4	PKP135	1102	1102	4	ovvio	ovvio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(36)
 1102-5	PKP135	1102	1102	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(36)
@@ -8329,7 +8329,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1108-9	PKP007	1108	1108	9	[(c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	0-2(0)	0-2(42)
 1108-10	PKP007	1108	1108	10	hai:)]	hai	_	_	_	_	_	linguistic	_	none	_	End=2996.757	2x1	_	0-3(0)	0-3(42)
 1109-0	PKP135	1109	1109	0	[°pucci°]	pucci	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=2996.189	_	_	_	0-5(42)
-1109-1	PKP135	1109	1109	1	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2997.29	_	_	_	_
+1109-1	PKP135	1109	1109	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2997.29	_	_	_	_
 1110-0	PKP007	1110	1110	0	°perché	perché	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=2997.625	_	_	_	_
 1110-1	PKP007	1110	1110	1	come	come	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
 1110-2	PKP007	1110	1110	2	si	si	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
@@ -8587,7 +8587,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1142-23	PKP135	1142	1142	23	covid	covid	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1142-24	PKP135	1142	1142	24	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1142-25	PKP135	1142	1142	25	tocco	tocco	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-1142-26	PKP135	1142	1142	26	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1142-26	PKP135	1142	1142	26	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1142-27	PKP135	1142	1142	27	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1142-28	PKP135	1142	1142	28	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1142-29	PKP135	1142	1142	29	mie	mie	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -8706,11 +8706,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1156-0	PKP007	1156	1156	0	porti	porti	_	_	_	_	_	linguistic	_	none	_	Begin=3158.445	_	_	_	_
 1156-1	PKP007	1156	1156	1	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1156-2	PKP007	1156	1156	2	vino?	vino	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=3159.548	_	_	_	_
-1157-0	PKP135	1157	1157	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=3160.591|End=3161.277	_	_	_	_
+1157-0	PKP135	1157	1157	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=3160.591|End=3161.277	_	_	_	_
 1158-0	PKP135	1158	1158	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=3161.671|End=3162.154	_	_	_	_
 1159-0	PKP135	1159	1159	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=3166.597	_	_	_	_
 1159-1	PKP135	1159	1159	1	no	no	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
-1159-2	PKP135	1159	1159	2	{P}	{P}	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+1159-2	PKP135	1159	1159	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
 1159-3	PKP135	1159	1159	3	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1159-4	PKP135	1159	1159	4	andare	andare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1159-5	PKP135	1159	1159	5	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
@@ -8836,4 +8836,4 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 1179-2	PKP135	1179	1179	2	and]iamo	andiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(79)
 1179-3	PKP135	1179	1179	3	senza	senza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
 1179-4	PKP135	1179	1179	4	pagare	pagare	_	_	_	_	_	linguistic	_	none	_	End=3200.958	_	_	_	_
-1180-0	PKP007	1180	1180	0	{ride}	{ride}	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=3200.634|End=3201.367	_	_	_	_
+1180-0	PKP007	1180	1180	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=3200.634|End=3201.367	_	_	_	_

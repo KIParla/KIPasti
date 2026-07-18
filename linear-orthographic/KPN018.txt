@@ -164,8 +164,8 @@ PKP106	ah che rottura di scatole
 PKP145	anche quello eh allora
 PKP145	cioè io credo che lo farò da non frequentante perché
 PKP106	ben fai tutto quello che puoi fare
-PKP146	e come farai a farlo da frequentante se non vai
 PKP145	no ma è
+PKP146	e come farai a farlo da frequentante se non vai
 PKP145	non è que~ no lo farò da non frequentante
 PKP146	eh e intanto cosa cambia
 PKP145	no la questione è questa che loro volevano fare laboratorio

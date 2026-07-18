@@ -154,7 +154,7 @@ PKP131	i pop corn
 PKP131	non so xxxx quel xx
 PKP131	che comunque
 PKP125	adoro
-PKP125	un urletto
+PKP125	fa un urletto
 PKP131	è successo il panico
 PKP131	nonna tutta sgobellata che non riusciva a
 PKP131	perché veramente
@@ -217,7 +217,7 @@ PKP125	guarda
 PKP131	che poi però
 PKP125	ma quelle sopracciglia sono
 PKP131	tatuate
-PKP125	la lingua
+PKP125	schiocca la lingua
 PKP125	xxx
 PKP131	xxx
 PKP125	sta registrando sto coso
@@ -665,8 +665,8 @@ PKP125	ah mh
 PKP125	non lo so
 PKP125	tanto non durerà a lungo xxx
 PKP131	perché
-PKP131	ti ricordi quando avevi
 PKP125	è così
+PKP131	ti ricordi quando avevi
 PKP131	scusa tutte
 PKP131	quei gatti
 PKP131	squishy
@@ -968,8 +968,8 @@ PKP125	ops
 PKP131	comunque perché sta quell'alcool là dentro
 PKP125	quale alcool
 PKP131	xxx
-PKP131	xx
 PKP125	ah
+PKP131	xx
 PKP125	pensavo la vodka nell'armadio
 PKP131	cosa
 PKP125	cosa
@@ -1135,8 +1135,8 @@ PKP125	che ti mette proprio ansia addosso
 PKP125	mai mai mai mai mai mai mai
 PKP131	mai mai
 PKP125	cioè mi credi
-PKP131	cioè io manco la conosco
 PKP125	proprio
+PKP131	cioè io manco la conosco
 PKP131	ma poco eh
 PKP125	no ma è così
 PKP131	xx
@@ -1180,7 +1180,7 @@ PKP131	no
 PKP125	pensavo ai genitori di e infatti ho detto
 PKP125	madonna queste cose no
 PKP131	e la mamma di antonietta andò là in mezzo
-PKP131	o' centro
+PKP131	o centro
 PKP125	meh no no eh
 PKP131	vicino alla signora che scaturì la lite
 PKP125	è una molto così
@@ -1483,7 +1483,7 @@ PKP125	insomma dai
 PKP125	e xxxx
 PKP125	ma
 PKP125	marò
-PKP125	topo squish
+PKP125	ride topo squish
 PKP131	x
 PKP125	ma quant'è bello questo topo sqush
 PKP125	ja
@@ -1518,16 +1518,16 @@ PKP125	quel tipo pane scu~
 PKP131	ah eccoli
 PKP125	che hai scritto dolci dei coniglietti
 PKP131	eh sì
-PKP131	xxx
 PKP125	ti piacciono
+PKP131	xxx
 PKP125	vedi è un dolce di coniglietti
 PKP131	te prego
 PKP131	ti prego
 PKP131	basta così
 PKP125	che tra l'altro
 PKP125	fanno schifissimo
-PKP131	panini dolci quelli so' panini
 PKP125	xx
+PKP131	panini dolci quelli so' panini
 PKP125	sì
 PKP125	è una specie di
 PKP125	immagina questo è un coniglietto

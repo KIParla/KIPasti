@@ -1070,7 +1070,7 @@ PKP115	°ah°
 PKP115	°poi aspe~°
 PKP115	(gli) fa
 PKP115	°aspetta ad arrivare a casa°
-PKP115	#po te facc veder i
+PKP115	po te facc veder i
 PKP115	poi in diale~ (.) c(io)è
 PKP115	tutto questo in dialetto
 PKP115	rende la c[osa anc]ora più:

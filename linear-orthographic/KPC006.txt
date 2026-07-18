@@ -443,7 +443,7 @@ PKP066	averce la macchina se dice ma
 PKP063	oh
 PKP063	te saluta arianna
 PKP066	grazie ringraziala tanto daglie un bacio da parte mia
-PKP066	quando vene a fa' un giro mo' st'estate
+PKP066	quando vene a fa un giro mo' st'estate
 PKP063	eh sì perché tanto anche lei quando c'ha qualche giorno de pausa torna giù in basilicata
 PKP066	mh giù a casa sua
 PKP063	mh
@@ -557,7 +557,7 @@ PKP063	no perché
 PKP066	no non lo so no
 PKP066	no io ormai è una quindicina de giorni eh sì
 PKP066	da quando dopo semo ndati a mangia' da m~ m~ matteo c'ha chiamato
-PKP066	e da di là m'è venuta a piglia' rosina m'ha arportato a casa e dopo non c'ho rparlato più devo esse sincera
+PKP066	e da di là m'è venuta a piglia rosina m'ha arportato a casa e dopo non c'ho rparlato più devo esse sincera
 PKP063	mh
 PKP063	no perché
 PKP066	perché

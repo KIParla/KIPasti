@@ -146,8 +146,8 @@ PKP080	una ma~ un male alla mano
 PKP080	ho male tutto qua tipo perché ieri sera scrivevo come una dannata
 PKP080	cioè ho detto non so mi farò il tunner ca~ tunnel carpale cioè
 PKP080	è la fine
-PKP070	ma tu sei anche abituata a scrivere perché scrivi sempre
 PKP080	e
+PKP070	ma tu sei anche abituata a scrivere perché scrivi sempre
 PKP080	sì
 PKP070	io non scrivo da
 PKP070	il primo anno di università
@@ -283,8 +283,8 @@ PKP080	e che per risparmiare tempo ed energie
 PKP080	secondo lui bisognerebbe fare o tutti in presenza
 PKP080	o tutti online
 PKP070	ma potete tutti in presenza
-PKP070	siet~
 PKP080	tutti in presenza lui guarda l'aula fa due conti sui posti dice ci staremo
+PKP070	siet~
 PKP070	mhmh
 PKP070	okay
 PKP080	okay
@@ -397,8 +397,8 @@ PKP080	ma
 PKP080	ma eh eh
 PKP070	ma cosa
 PKP080	i militari
-PKP070	sì
 PKP080	a conscio
+PKP070	sì
 PKP070	infatti
 PKP080	a conscio a controllare che in piazza non ci sia nessuno
 PKP080	se non che ehm
@@ -497,8 +497,8 @@ PKP070	sì sì sì
 PKP070	ma non ha nemmeno amici compagni cioè persone che conosce all'interno del corso
 PKP080	me
 PKP080	ma no ma allora
-PKP070	avvisala
 PKP080	calma
+PKP070	avvisala
 PKP080	no eh no calma
 PKP080	professore manda una mail dicendo chi è intenzionato a fare i lavori di gruppo mi scriva
 PKP070	okay
@@ -645,8 +645,8 @@ PKP080	togli anche natale per favore
 PKP070	no no f~ intendo fine dicembre tipo fine
 PKP080	ah
 PKP070	lezioni
-PKP070	non so quando finisci tu
 PKP080	sì cioè
+PKP070	non so quando finisci tu
 PKP080	io ne ho parlato anche con la mia e la isi e la mia mi fa
 PKP080	beh dai vedi il lato positivo almeno non hai un esame a gennaio
 PKP080	sì ho capito
@@ -740,8 +740,8 @@ PKP070	e già prima erano in una situazione di merda
 PKP080	ma è ridicolo
 PKP080	o tutti chiusi o tutti aperti
 PKP070	ma infatti pi~ cioè più che altroci sono posti che
-PKP070	non fanno chiudere
 PKP080	io l'ho detto
+PKP070	non fanno chiudere
 PKP080	anche alla sara e la fede cioè
 PKP080	ieri tipo a treviso c'è stato il disastro di gente
 PKP070	ma era tipo una manifestazione cos'era
@@ -822,8 +822,8 @@ PKP070	vabbè adesso non ha chiuso
 PKP080	eh m~
 PKP070	perché i negozi non chiudono
 PKP080	è una guerra
-PKP070	però
 PKP080	tra chi non ha i so~ cioè
+PKP070	però
 PKP080	tu sei chiuso allora ti schianti sulla vetrina di uno che resta aperto per rubargli la roba dentro
 PKP070	sei stupido e basta
 PKP080	è stato come
@@ -973,8 +973,8 @@ PKP080	praticamente
 PKP080	la la
 PKP080	sta tipa scrive che lei fa ogni due settimane tipo il tampone
 PKP080	perché lavora in una casa di cura
-PKP070	mhmh
 PKP080	e che secondo lei almeno dovrebbero passargli i test rapidi
+PKP070	mhmh
 PKP080	che sono meno invasivi e lei non tipo non ne può più
 PKP080	oh
 PKP080	ma chi ti credi di essere la regina elisabetta cioè
