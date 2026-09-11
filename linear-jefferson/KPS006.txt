@@ -675,7 +675,7 @@ PKP004	quello::
 PKP004	da cui andavamo per il busto
 PKP006	quello della::
 PKP006	°eh°
-PKP006	dell' xx lui non mi ricordo [mai]
+PKP006	dell~ xx lui non mi ricordo [mai]
 PKP004	[tra]etta
 PKP005	traetta
 PKP001	traetta,
