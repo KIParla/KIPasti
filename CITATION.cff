@@ -12,11 +12,12 @@ authors:
 - family-names: "Zucchini"
   given-names: "Eleonora"
   orcid: "https://orcid.org/0000-0001-6497-7310"
-version: 1.1.2
+version: 2.0.0
 identifiers:
   - description: "The concept DOI of the work"
     type: doi
     value: 10.60760/unibo/kipasti
+# TODO: set date-released to the release date of v2.0.0
 date-released: 2024-04-30
 url: "https://github.com/KIParla/KIPasti"
 license: CC-BY-NC-SA-4.0
