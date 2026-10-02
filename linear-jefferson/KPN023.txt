@@ -773,7 +773,7 @@ PKP079	mh
 PKP078	ed era tipo una stanza con sopra (.) e:h la finestra diciamo ma la finestra non c'era il vetro
 PKP079	o[k]
 PKP078	[>qui]ndi era vuoto< tu sentivi tutto della visita dentro
-PKP079	ocio
+PKP079	# ocio
 PKP078	entra sta qua: boh avrà avuto: (.) sessant'an[ni quindi] non vecchia
 PKP070	[mhmh]
 PKP078	c'era il quadro delle lettere,

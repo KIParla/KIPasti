@@ -96,9 +96,9 @@ PKP122	elamadosca
 PKP121	eh mi dispiace ne comprate un altro
 PKP120	quindi questo pezzo te lo devi godere proprio perché se no
 PKP123	mh eh eh si eh perché
-PKP120	è un casein
+PKP120	# è un casein
 PKP121	il tuo turno
-PKP120	in romagna si dice l'è un casein
+PKP120	# in romagna si dice l'è un casein
 PKP122	è veramente buona
 PKP121	no no no
 PKP122	lo devo mettere adesso

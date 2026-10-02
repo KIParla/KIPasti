@@ -1109,7 +1109,7 @@ PKP015	più che altro sei completamente xx
 ???	anche da cese da lassù in cima da casa
 ???	là vai ai fienili e alla stalla
 ???	ah è un bel sasso questo
-PKP014	ah par furz
+PKP014	# ah par furz
 PKP018	allora
 PKP014	è abitata dai cerbiatti
 PKP018	io ho saputo
@@ -1475,7 +1475,7 @@ PKP018	fa ma insomma la solita storia di marzo
 PKP018	dico sì la gente è disperata vuole una risposta
 PKP018	io gli dò il numero verde
 PKP018	dico però il medico di base o il sostituto che è non può dire chiami il centodiciotto per andare a fare il tampone non funziona così
-PKP018	cioè hm
+PKP018	cioè mh
 PKP018	e quindi capito ci mancherebbe figurati
 PKP013	sì sì è che la gente sì si impanica perché poi appunto non hanno risposte precise
 PKP018	e hanno ragione dice ma scusi ma se io sono c'è

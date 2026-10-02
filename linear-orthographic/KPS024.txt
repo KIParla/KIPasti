@@ -81,7 +81,7 @@ PKP125	vabbè
 PKP131	no in realtà anche no cioè
 PKP131	non lo vogliono nemmeno
 PKP125	no
-PKP131	vonno u telefono
+PKP131	# vonno u telefono
 PKP125	giustamente
 PKP131	tiktok
 PKP125	tiktok xxx
@@ -135,7 +135,7 @@ PKP131	mamma ha detto vabbè vai
 PKP131	si è affacciata
 PKP131	mamma
 PKP131	stavano facendo i tiktok
-PKP131	quindi tutt'appost
+PKP131	# quindi tutt'appost
 PKP125	okay
 PKP131	fin quì tutto bene
 PKP131	poi
@@ -156,7 +156,7 @@ PKP131	che comunque
 PKP125	adoro
 PKP125	fa un urletto
 PKP131	è successo il panico
-PKP131	nonna tutta sgobellata che non riusciva a
+PKP131	# nonna tutta sgobellata che non riusciva a
 PKP131	perché veramente
 PKP131	boh
 PKP131	guarda che hanno fatto
@@ -178,7 +178,7 @@ PKP125	che dimostra grande
 PKP131	grande
 PKP125	cioè
 PKP125	vabbè ha organizzato una cena a casa
-PKP125	non ce ne vo una xx
+PKP125	# non ce ne vo una xx
 PKP125	non le faccio io le fai lei
 PKP131	comunque mamma il giorno dopo è dovuta anche andare a pulire
 PKP131	xx che non ce la faceva
@@ -250,7 +250,7 @@ PKP125	ancora
 PKP131	eh
 PKP131	praticamente non gliel'hanno dati
 PKP131	perché gli è uscito
-PKP125	vuoi u xx
+PKP125	# vuoi u xx
 PKP131	eh un attimo
 PKP131	cioè piano
 PKP131	sta iniziando
@@ -270,7 +270,7 @@ PKP131	dei poveri
 PKP131	che vabbè
 PKP131	eh
 PKP125	vabbè
-PKP131	vabbuò comunque quel cristiano si è sposato
+PKP131	# vabbuò comunque quel cristiano si è sposato
 PKP125	mh
 PKP131	si è sposato
 PKP125	top
@@ -347,8 +347,8 @@ PKP131	che tra l'altro questa è una cosa bruttissima
 PKP131	perché pure la famiglia glielo dice
 PKP131	gli dice no
 PKP131	tu vai là perché
-PKP131	non lo vuoi fà venì ca perché ille
-PKP131	se trova n'ata
+PKP131	# non lo vuoi fà venì ca perché ille
+PKP131	# se trova n'ata
 PKP125	beh
 PKP125	beh
 PKP125	ma
@@ -385,8 +385,8 @@ PKP131	quello si trova un altro
 PKP131	quello ti lascia
 PKP131	quello ti mette le corna te ne devi andare
 PKP131	gli fai venire
-PKP131	i complessi d'inferiorità dice perché xxxx
-PKP131	tengo pure o' figl suoi m l'ha xxxx
+PKP131	# i complessi d'inferiorità dice perché xxxx
+PKP131	# tengo pure o' figl suoi mh l'ha xxxx
 PKP131	beh
 PKP125	mh
 PKP131	non vorrei dire
@@ -829,8 +829,8 @@ PKP131	non me di'
 PKP131	paura
 PKP125	sa ne ve ki uttant'anni che vanno a pesc pure loro
 PKP131	mh
-PKP131	o parent u t'avuta
-PKP125	la gente che'ha i soldi lu xxx pure lui
+PKP131	# o parent u t'avuta
+PKP125	# la gente che'ha i soldi lu xxx pure lui
 PKP125	mh
 PKP125	c'è anche luciana
 PKP125	oh
@@ -952,7 +952,7 @@ PKP131	ma tutte queste formiche perché
 PKP131	sì xxxx
 PKP125	ah
 PKP125	wap challenge
-PKP125	mangia questo tutto o pesce
+PKP125	# mangia questo tutto o pesce
 PKP131	no mangialo tu
 PKP125	no mangialo tu
 PKP131	puoi ballare quì
@@ -1114,7 +1114,7 @@ PKP125	cioè a me piace antonietta
 PKP125	perché non è la tipa che si perde molto in ragioname~
 PKP125	cioè si perde però
 PKP125	le fa le cose capito
-PKP131	vabbuò sì
+PKP131	# vabbuò sì
 PKP131	mi trovo molto bene xxx
 PKP131	xxx
 PKP125	e cambia
@@ -1152,7 +1152,7 @@ PKP125	non è così
 PKP125	ma pure il pa~
 PKP125	no il padre è tranquillo per esempio
 PKP131	a me pare esattamente diversi dai loro
-PKP131	il padre è così mucro
+PKP131	# il padre è così mucro
 PKP131	zitto che xx
 PKP125	eh
 PKP131	amo
@@ -1233,7 +1233,7 @@ PKP125	lui subito s'è
 PKP125	messo a fa'
 PKP125	lo scemo con lei o nel frattempo della relazione
 PKP131	no no no
-PKP125	ah vabbuò dai
+PKP125	# ah vabbuò dai
 PKP125	allora ecco okay ci s~ cioè
 PKP125	d~ lo puoi comprendere
 PKP131	eh sì però sai
@@ -1460,7 +1460,7 @@ PKP131	che cazzo è il servizio civile
 PKP125	d~ tu fai un bando
 PKP131	sopra il booster
 PKP131	xxx
-PKP125	fai u bando
+PKP125	# fai u bando
 PKP125	e de~ che devi vincere
 PKP125	ti dev~ ti devono raccomandare praticamente
 PKP125	perché non vinci mai

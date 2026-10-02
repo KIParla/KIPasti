@@ -1828,26 +1828,26 @@ PKP086	[stria]ta
 PKP085	[esattamente]
 PKP087	[e le altre sono] vongol[e]
 PKP086	[eh]
-PKP086	[i]n sardo di dice cocciula
+PKP086	# [i]n sardo di dice cocciula
 PKP085	o[kay]
 PKP083	[goc]ciola o [co]
 PKP087	[co]
-PKP086	[co]cciul[a]
+PKP086	# [co]cciul[a]
 PKP087	[co]
 PKP083	[co]
 PKP083	[co]
-PKP087	[cocciula]
-PKP086	[cocciula]
+PKP087	# [cocciula]
+PKP086	# [cocciula]
 PKP085	[e l'ars]e~ però l'[arsella]
-PKP086	[cocciula] cao
+PKP086	# [cocciula] cao
 PKP086	è la q~
 PKP086	quelle arselle NERE belle grandi
 PKP086	capito?
 PKP085	okay
 PKP083	[mhmh]
 PKP086	[eh]
-PKP086	e cocciula imbriaga
-PKP086	imbriaga
+PKP086	# e cocciula imbriaga
+PKP086	# imbriaga
 PKP086	lo s[ai perché]?
 PKP083	[ubriaca]
 PKP086	era
@@ -1867,7 +1867,7 @@ PKP083	((ride))
 PKP085	[a:h] okay
 PKP086	((ride))
 PKP083	((ride))
-PKP086	poi ti umbriaga
+PKP086	# poi ti umbriaga
 PKP085	è perché invece ca~ cau o cao?
 PKP086	cau (.) cocciola cau era [era quelle gra]ndi
 PKP085	[cos~ vuol dire cau]

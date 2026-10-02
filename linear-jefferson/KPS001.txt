@@ -624,7 +624,7 @@ PKP103	po::i
 PKP100	[(no i~)]
 PKP103	[(noi) le] stupide m:h
 PKP100	sì
-PKP100	m boi e:h m::h boia:te
+PKP100	mh boi e:h m::h boia:te
 PKP100	e poi que[sti qua che poi] devo vedere [da:: da x]
 PKP101	[ci siamo eh]
 PKP102	[senti la metto] su:: la mando su coso allora sta foto che dici eh?
@@ -1450,7 +1450,7 @@ PKP100	[l]a cena norma:le
 PKP101	le solite cene che fanno lo:ro insomma °primo seco:ndo [x°]
 PKP103	[mhmh]
 PKP100	però sarebbe bello un capodanno con e: °>cioè ti~<°
-PKP100	m m:h EH
+PKP100	mh m:h EH
 PKP100	come giu:lia coso: °e i genitori di e::h°
 PKP101	be~ be~ bello (.) dispendioso ((ride)) chissà che ((ride))
 PKP100	vabbé non p~ qa per fo:rza °>insomma<° ((ride))
@@ -1472,7 +1472,7 @@ PKP101	[e:h] (.) il ventiqattro non lo so se ci siamo anche noi magari poi
 PKP101	capit(o)?
 PKP101	poi diventa::: eh complica:ta la co:sa
 PKP101	ci dobbiamo riprendere economicame:nte
-PKP100	hh m
+PKP100	hh mh
 PKP101	là tre giorni per tre:: pranzo, cena, e colazione, s~ abbiamo fatto tutto::
 PKP102	quella casa c'è sempre quella::
 PKP101	eh ieri fino a ieri c'era mo (fa) oggi non ho guarda:to
@@ -1900,7 +1900,7 @@ PKP101	mh
 PKP102	>lavorava< e quindi (stanno) [x x]
 PKP100	[e an]che:: marco, in [fratello ci] lavo:ra x
 PKP101	[x]
-PKP102	(ehm he em)
+PKP102	(ehm eh em)
 PKP101	nel lo[ca:le? no]n lavora con la:: la: quella d[i:tta lì::]
 PKP100	[sì]
 PKP100	[no vabb~]. qualche vo:lta ci ha lavorato a sette:mbre finché [c'erano le] sera:te
@@ -2613,7 +2613,7 @@ PKP101	lui è be:llo (l'as~ l'azio:ne)
 PKP103	eh infatti mamma è u: u:
 PKP100	((ride))
 PKP101	eh?
-PKP100	quello he °tro:mba° (.) (°forse non è normale°)
+PKP100	quello eh °tro:mba° (.) (°forse non è normale°)
 PKP103	((ride))
 PKP100	mado lu:i non so come [si fa a pre]ndere sul se:rio
 PKP103	[e:cco]
@@ -2889,7 +2889,7 @@ PKP101	[eh]
 PKP101	[eh]
 PKP103	(oh) >che poi ho vomitato< e eh
 PKP100	((ride))
-PKP103	poi abbiamo fatto pure un gi:ro, >siamo andat~< m mi sentivo già, inviavo già a sentirmi male, poi, ho vomitato proprio in via mascare:lla gua~
+PKP103	poi abbiamo fatto pure un gi:ro, >siamo andat~< mh mi sentivo già, inviavo già a sentirmi male, poi, ho vomitato proprio in via mascare:lla gua~
 PKP101	((ride))
 PKP100	in una delle piantine davanti il negozio di erboristeri:a ((ride))
 PKP101	((ride))
@@ -3074,7 +3074,7 @@ PKP103	NO:: amy winehouse fa parte del c[ircolo ventise:tte]
 PKP101	[no no no e~ no:: whitney houston] no è gra::nde [no: no: è morta ade:sso (mo) ha fatto]
 PKP100	[anche:: whitney houston]
 PKP103	whitney housto è morta gra:nde esa:tto
-PKP101	aveva fato il co::so è m orta da poco, da poco te[mpo (eh)]
+PKP101	aveva fato il co::so è mh orta da poco, da poco te[mpo (eh)]
 PKP103	[sì, da] una decina d'a:nni [più o me:no]
 PKP101	[sì: sì:]
 PKP101	aveva:: fatto:: il coso avev~ una? (.) >ventina<? (.) tren'a:nni >forse< [ma pure xx mi se::~]

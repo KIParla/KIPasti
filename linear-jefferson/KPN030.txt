@@ -45,7 +45,7 @@ PKP141	[abbiamo ucciso qual]cuno
 PKP141	ma no n: non è niente tutti si girano dietro
 PKP141	perché cred(a)vamo quindi che poi fosse scoppiata una ruota
 PKP136	eh
-PKP141	e quindi diciam(o) vabbe dai la ruota c(io)è al massimo okay che è un bus però
+PKP141	e quindi diciam(o) vabbè dai la ruota c(io)è al massimo okay che è un bus però
 PKP136	[c'avranno]
 PKP141	[la camb]iano sicuramente perché cioè immagino che succeda spesso
 PKP141	no raga(zzi) non era la ((ridendo)) la ruota
@@ -118,7 +118,7 @@ PKP141	et~ oh raga' c(io)è
 PKP141	tecnicamente so' partiti insie:me
 PKP141	arrivano insie:me
 PKP141	qualche minuti di differenza okay però
-PKP141	vabbe raga' pa:ssa il tempo niente non arriva
+PKP141	vabbè raga' pa:ssa il tempo niente non arriva
 PKP141	ritorniamo su a chiedere:
 PKP141	a qualcu:no
 PKP141	magari boh sapessero qualcosa
@@ -225,10 +225,10 @@ PKP136	stava a bologna sì
 PKP141	xx[x eh sì c(io)è]
 PKP142	[a sto pu:nto a questo (tizio)]
 PKP141	erano:: comunque in ritardo di un botto siamo praticamente attivati che erano le u:ndici e dovevamo arrivare >t'ho detto< massimo alle o:tto noi alle otto [eravamo fuo:ri (ni) mezzo a]lla ne:ve
-PKP136	[mado::]
+PKP136	# [mado::]
 PKP142	c(io)è ponti: ponti voi ne avete fatti tipo qua:ttro, tre qu[attro]
 PKP141	[dovevamo andare] tre ore e die:ci tre:: o:re (.) [considera il f]atto che (anche) il taxi poteva andare più velo:ce
-PKP142	mado:
+PKP142	# mado:
 PKP136	eh s[ì sì]
 PKP141	[perché altrime]nti saremmo arrivati molto più ta:rdi con:
 PKP136	[con l'autobus]
@@ -323,7 +323,7 @@ PKP141	no ma erano tipo le prime lezio:ni però
 PKP141	c'è anche il fatto pesano di meno sono
 PKP141	hanno il baricentro ba:sso
 PKP141	rispetto magari a me
-PKP136	vabbè mo tu inizi a parlare di fi:sica però io qua non è che: >stavo dicendo< NO SONO RI:CCHI E B[ASTA LA BORGHESI]:A
+PKP136	# vabbè mo tu inizi a parlare di fi:sica però io qua non è che: >stavo dicendo< NO SONO RI:CCHI E B[ASTA LA BORGHESI]:A
 PKP142	((ride))
 PKP141	[(in gruppo)]
 PKP141	in gruppo era[no tutti inge]gne:ri quindi

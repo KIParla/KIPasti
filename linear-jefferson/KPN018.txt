@@ -2,7 +2,7 @@ PKP145	bene
 PKP145	sì sulla carne secca
 PKP106	°brava°
 PKP145	eh
-PKP145	va:ra
+PKP145	# va:ra
 PKP146	e insomma sai com'è fatta questa carne secca sì o no?
 PKP145	sì perché no aspetta [DEVE STARE ALL'ARIA]
 PKP146	((ride))
@@ -31,8 +31,8 @@ PKP145	l'abbiamo ordinato alle (.) <sei>
 PKP145	e ci fa >gli facciamo< eh sì volevo ordinare ehm lo veniamo a prendere
 PKP145	lei fa sì sì tra un quarto d'ora alle sei e un quarto?
 PKP145	cioè >secondo te vengo a prendere cinese< alle sei e un quarto devo cenare (.) non lo so,
-PKP145	vara
-PKP145	e:: >siamo andati< a prenderlo e fatalità hm poi mi ha scritto marco
+PKP145	# vara
+PKP145	e:: >siamo andati< a prenderlo e fatalità mh poi mi ha scritto marco
 PKP145	non mi ricordo::
 PKP146	°che sta sta facendo (dopo)?°
 PKP145	eh niente lavora poi vede la morosa (.) [che la~]
@@ -72,7 +72,7 @@ PKP145	°eh eh°
 PKP106	io non ci riesco a tenerla tutto il giorno
 PKP146	e se no ti (porto) un bel pezzo di (.) (dronalin) (.) [che assorbe]
 PKP106	[altre persone non c'erano::]
-PKP145	((°ride°))
+PKP145	[((°ride°))]
 PKP106	cosa assorbe ti?
 PKP106	poi >abbiamo tenuto aperto< anche la porta comunque la porta [finestra (perché)]
 PKP146	[arieggiare] è la cosa fondamentale.
@@ -89,7 +89,7 @@ PKP145	fatalità lui è andato a mangiare: cinese il giorno dopo però fuori
 PKP145	gli hanno portato una scodella di ramen buonissima sì
 PKP145	praticamente mi fa sa da detersivo l'ho dovuta mandare indietro
 PKP145	>allora< gli ho fatto una foto del menù °che abbiamo in cassetto° gli ho fatto senti vai dall'aspo[rto]? ((ride))
-PKP106	((°ride°))
+PKP106	[((°ride°))]
 PKP145	almeno riesci a mangiare qualcosa
 PKP146	°(sono olive) immangiabili,°
 PKP145	infatti gli ho detto guarda non costa neanche tanto ha delle porzioni comunque <grandi>
@@ -345,7 +345,7 @@ PKP146	[(>e allora<) devo continuare a paga]re il pizzo? fammi capire
 PKP145	[purtroppo]
 PKP146	(da te) è uguale eh
 PKP106	°non so°
-PKP146	bisogna che capiscano quelli che l'assumono che uno ga studià da una parte uno ha studiato dall'altra
+PKP146	# bisogna che capiscano quelli che l'assumono che uno ga studià da una parte uno ha studiato dall'altra
 PKP145	ma non è che che funziona solo se assumono di la eh
 PKP106	no: (.) [xxxxxx]
 PKP145	[AH EH che non pensi che]
@@ -369,7 +369,7 @@ PKP146	[e de]vi solo [tirarli fuori da là]
 PKP145	[(finita) xxvare],
 PKP106	no::: [m:::h] (.) [ma no]: ((ride))
 PKP145	[°dai mamma°]
-PKP145	((°ride°))
+PKP145	[((°ride°))]
 PKP145	°domani la vuoi la pa~° domani io al <pomeriggio> (.) finita la: le lezioni (.) <fuggiamo>
 PKP106	[fuggiamo]?
 PKP145	andiamo a pendere le palline (.) [di na]tale

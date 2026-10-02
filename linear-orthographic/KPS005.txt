@@ -603,7 +603,7 @@ PKP001	e quello è
 PKP001	no sì ci sta
 PKP004	mh
 PKP004	perché quando fa caldo fa caldo non puoi stare
-PKP001	no no infatti m madò l'altro giorno che fatica perché stavamo pulendo la mia camera no
+PKP001	no no infatti mh madò l'altro giorno che fatica perché stavamo pulendo la mia camera no
 PKP001	allora io stavo facendo l'armadio e luca stava facendo le finestre da dentro
 PKP001	quelle di fuori non le abbiam fatte tanto poi piove cazzi e mazzi
 PKP004	e vabbè

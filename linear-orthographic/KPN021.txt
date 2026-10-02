@@ -138,7 +138,7 @@ PKP073	a marzo
 PKP072	quando
 PKP073	mamma non fare xx
 PKP072	mamma non sta suggerir guardami me guardami me guardam~
-PKP074	no no no no no non glielo dico perché vara veramente sono s~
+PKP074	# no no no no no non glielo dico perché vara veramente sono s~
 PKP073	diciotto
 PKP073	cinque marzo
 PKP072	mh
@@ -171,7 +171,7 @@ PKP074	infatti me li faccio tagliare
 PKP074	no lunghi no
 PKP074	domani faccio tagliare da papi
 PKP074	no pa~ appena sta bene papà
-PKP073	area sono i miei capelli ho fatto diciannove anni
+PKP073	# area sono i miei capelli ho fatto diciannove anni
 PKP074	hai visto
 PKP074	avevi avuto sempre senza brufoli e cose da quando tieni i capelli qua guard~ guarda che fronte che hai fatto
 PKP070	eh normale
@@ -352,7 +352,7 @@ PKP072	acqua frizzi
 PKP070	sì grazie
 PKP072	ma non è questo
 PKP073	e quindi sì è stato xxx
-PKP072	tu areo vuoi bere
+PKP072	# tu areo vuoi bere
 PKP073	no
 PKP073	oddio
 PKP073	ma guarda che puoi dire a ale che c'è c'è il succo o alla pera o all'ace
@@ -597,7 +597,7 @@ PKP070	ah beh sì l'altra volta a casa mia tipo
 PKP072	era un po'
 PKP073	cioè è stra figo tipo
 PKP072	de bojo
-PKP072	de boja
+PKP072	# de boja
 PKP072	vabbè
 PKP070	boia
 PKP072	in italiano
@@ -1254,11 +1254,11 @@ PKP073	e co
 PKP072	sono iperconnessi sono multimediali sono autonomi mirano alla rapidità più che all'accuratezza sono attenti ai problemi globali riescono a gestire il flusso continuo di informazioni
 PKP073	sono credo entropi
 PKP073	ah sì sono prop~ sono proprio io
-PKP070	okay va beh ci sta
+PKP070	okay vabbè ci sta
 PKP072	cioè io praticamente son una merda
 PKP070	sì praticamente
-PKP073	ne laura ma va beh non s~ n~ il n~ l'importante non è esserlo è s~ è sentirselo
-PKP070	poi va beh ci sono le eccezioni
+PKP073	ne laura ma vabbè non s~ n~ il n~ l'importante non è esserlo è s~ è sentirselo
+PKP070	poi vabbè ci sono le eccezioni
 PKP073	sì infatti c'è la laura che
 PKP073	mh interferenza raga scusate
 PKP072	le generazioni spiegate
@@ -1544,7 +1544,7 @@ PKP072	e che tu sei uno e tu sei uno che mangia tutto
 PKP070	sì
 PKP070	tu infatti ancora meno robe
 PKP072	cioè io mangio dieci robe bon se tutto va ben
-PKP072	cioè dies robe xxx cavarne sinque ciao basta
+PKP072	# cioè dies robe xxx cavarne sinque ciao basta
 PKP072	trovami che non mangio più niente bevo acqua e neanche tutte le acque perché non tutte le acque mi piacciono
 PKP072	quindi è abbastanza c~ complex come situazione
 PKP070	come vita la vita in generale

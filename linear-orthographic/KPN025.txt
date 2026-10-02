@@ -676,8 +676,8 @@ PKP110	anche la ciga
 PKP110	qua non si dice
 PKP110	tipo
 PKP107	la che
-PKP110	la ciga
-PKP110	tipo mi ha dato una ciga della madonna xx
+PKP110	# la ciga
+PKP110	# tipo mi ha dato una ciga della madonna xx
 PKP109	sgridata
 PKP110	eh una sgridata
 PKP110	però a me tipo ieri l'ho detto con giovanni

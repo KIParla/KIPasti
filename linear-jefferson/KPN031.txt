@@ -711,7 +711,7 @@ PKP033	[ah okay okay okay]
 PKP036	[quindi ci vedi:] tutti i templi eccetera
 PKP036	però la città in sè (.) non è tanto bella
 PKP037	mh
-PKP036	un po' un ammacco di cose
+PKP036	# un po' un ammacco di cose
 PKP036	mh
 PKP033	ma è sempre: una metropoli
 PKP036	no
@@ -770,7 +770,7 @@ PKP037	[tipo il polpo]
 PKP037	[il polpo fr]itto lo fanno mol[to]
 PKP036	un sacco di pesce in generale
 PKP037	eh:m:
-PKP037	gli s~ (.) ~paghetti di soia m
+PKP037	gli s~ (.) ~paghetti di soia mh
 PKP036	mh
 PKP037	mangiano sempre molto scomposto quindi c'è sempre una ciotolina di riso,
 PKP036	sì tante ciotoline: e poi (le met[tono tutte così)]
@@ -1079,7 +1079,7 @@ PKP037	[no è vero è vero è vero]
 PKP033	[eh ecco]
 PKP037	[però xxx]
 PKP037	sì sì sì (.) [ci ha visto (avere un colpo)]
-PKP036	[vah vah vah] ((ride))
+PKP036	[vah va vah] ((ride))
 PKP037	[poi ha fatto] o::h
 PKP036	((ride))
 PKP033	((ride))
@@ -1800,7 +1800,7 @@ PKP036	michi se n'è andata °la mia coinquilina°
 PKP037	s'è licenziata
 PKP036	xx
 PKP033	ah (.) e per: (.) perché ha trovato altro o:?
-PKP036	sì ha trovato un altro lavoro: m
+PKP036	sì ha trovato un altro lavoro: mh
 PKP036	ha detto: vabbè
 PKP036	°me ne vado°
 PKP033	ma m:

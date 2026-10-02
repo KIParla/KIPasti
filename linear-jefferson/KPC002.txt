@@ -41,7 +41,7 @@ PKP094	ma non c'andava [neanche quest'estate col] pieno sole eh:
 PKP093	[eh so non è mica il bronx]
 PKP094	ecco quindi figurati se ci va ora ora nci (va) non torna da sola nem[meno: (.) se la paghi]
 PKP093	[sì ma io gli dicevo ascolta] (.) vai a piedi e non rompere le pa[lle]
-PKP094	[no:] po(ve)ra citta dai su [lasci]ala stare
+PKP094	# [no:] po(ve)ra citta dai su [lasci]ala stare
 PKP093	[eh:]
 PKP094	(ogg~ a te) quando so~ tornato
 PKP056	mh

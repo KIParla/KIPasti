@@ -1721,26 +1721,26 @@ PKP086	striata
 PKP085	esattamente
 PKP087	e le altre sono vongole
 PKP086	eh
-PKP086	in sardo di dice cocciula
+PKP086	# in sardo di dice cocciula
 PKP085	okay
 PKP083	gocciola o co
 PKP087	co
-PKP086	cocciula
+PKP086	# cocciula
 PKP087	co
 PKP083	co
 PKP083	co
-PKP087	cocciula
-PKP086	cocciula
+PKP087	# cocciula
+PKP086	# cocciula
 PKP085	e l'arse~ però l'arsella
-PKP086	cocciula cao
+PKP086	# cocciula cao
 PKP086	è la q~
 PKP086	quelle arselle nere belle grandi
 PKP086	capito
 PKP085	okay
 PKP083	mhmh
 PKP086	eh
-PKP086	e cocciula imbriaga
-PKP086	imbriaga
+PKP086	# e cocciula imbriaga
+PKP086	# imbriaga
 PKP086	lo sai perché
 PKP083	ubriaca
 PKP086	era
@@ -1755,7 +1755,7 @@ PKP086	che non hanno molto sapore sono
 PKP083	ho capito
 PKP086	allora devi bere molto vino per poter~
 PKP085	ah okay
-PKP086	poi ti umbriaga
+PKP086	# poi ti umbriaga
 PKP085	è perché invece ca~ cau o cao
 PKP086	cau cocciola cau era era quelle grandi
 PKP085	cos~ vuol dire cau

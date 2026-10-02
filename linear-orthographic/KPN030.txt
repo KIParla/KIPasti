@@ -43,7 +43,7 @@ PKP141	abbiamo ucciso qualcuno
 PKP141	ma no n non è niente tutti si girano dietro
 PKP141	perché credavamo quindi che poi fosse scoppiata una ruota
 PKP136	eh
-PKP141	e quindi diciamo vabbe dai la ruota cioè al massimo okay che è un bus però
+PKP141	e quindi diciamo vabbè dai la ruota cioè al massimo okay che è un bus però
 PKP136	c'avranno
 PKP141	la cambiano sicuramente perché cioè immagino che succeda spesso
 PKP141	no ragazzi non era la la ruota
@@ -116,7 +116,7 @@ PKP141	et~ oh raga' cioè
 PKP141	tecnicamente so' partiti insieme
 PKP141	arrivano insieme
 PKP141	qualche minuti di differenza okay però
-PKP141	vabbe raga' passa il tempo niente non arriva
+PKP141	vabbè raga' passa il tempo niente non arriva
 PKP141	ritorniamo su a chiedere
 PKP141	a qualcuno
 PKP141	magari boh sapessero qualcosa
@@ -214,10 +214,10 @@ PKP136	stava a bologna sì
 PKP141	xxx eh sì cioè
 PKP142	a sto punto a questo tizio
 PKP141	erano comunque in ritardo di un botto siamo praticamente attivati che erano le undici e dovevamo arrivare t'ho detto massimo alle otto noi alle otto eravamo fuori ni mezzo alla neve
-PKP136	mado
+PKP136	# mado
 PKP142	cioè ponti ponti voi ne avete fatti tipo quattro tre quattro
 PKP141	dovevamo andare tre ore e dieci tre ore considera il fatto che anche il taxi poteva andare più veloce
-PKP142	mado
+PKP142	# mado
 PKP136	eh sì sì
 PKP141	perché altrimenti saremmo arrivati molto più tardi con
 PKP136	con l'autobus
@@ -300,7 +300,7 @@ PKP141	no ma erano tipo le prime lezioni però
 PKP141	c'è anche il fatto pesano di meno sono
 PKP141	hanno il baricentro basso
 PKP141	rispetto magari a me
-PKP136	vabbè mo tu inizi a parlare di fisica però io qua non è che stavo dicendo no sono ricchi e basta la borghesia
+PKP136	# vabbè mo tu inizi a parlare di fisica però io qua non è che stavo dicendo no sono ricchi e basta la borghesia
 PKP141	in gruppo
 PKP141	in gruppo erano tutti ingegneri quindi
 PKP142	uh scusami

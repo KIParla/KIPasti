@@ -30,7 +30,7 @@ PKP048	come
 PKP048	valentina cosa fai a scuola pappa
 PKP040	la merenda
 PKP048	gioia
-PKP039	è pigghiato vedi eh il fuoco
+PKP039	# è pigghiato vedi eh il fuoco
 PKP040	è andato
 PKP040	mh ha preso il fuoco
 PKP048	ma sto cristiano non capisco se non c'ha collo se ha le spalle più alte del collo
@@ -207,7 +207,7 @@ PKP040	il sole non è mica xx
 PKP041	ho letto che in veneto è la festa dei fidanzati
 PKP048	ah sì
 PKP048	e allora vai x paese vai là eh
-PKP040	invece qua si dice santa lucia tanta la notte e tanta la dia
+PKP040	# invece qua si dice santa lucia tanta la notte e tanta la dia
 PKP040	allora siccome gli mando il pupazzo
 PKP040	allora giulia
 PKP040	e lui auguri giulia
@@ -310,7 +310,7 @@ PKP041	eh
 PKP040	eh
 PKP040	per uno basta
 PKP041	stavo dicendo gli amici miei
-PKP041	quando sono tornati da milano samo sentito un freddo assurdo
+PKP041	# quando sono tornati da milano samo sentito un freddo assurdo
 PKP040	beh che le case di milano sono più calde e le case loro
 PKP048	senti te ne ho fatto abbastanza
 PKP048	tua madre te lo fa i zucchino e ti ha xxxxxxxx
@@ -604,9 +604,9 @@ PKP039	va bene
 PKP039	eh sì
 PKP048	per la xxxx no
 PKP039	xxxx
-PKP040	chiederemo anche vah se telefoniamo già da qua
+PKP040	chiederemo anche va se telefoniamo già da qua
 PKP039	un servizio xxxx
-PKP041	ma sono stati quiddro xxx la crepa
+PKP041	# ma sono stati quiddro xxx la crepa
 PKP041	ti ricordi la cre~
 PKP041	no non quella che si fece da sola eh vah quella quando
 PKP040	sbattuto la porta
@@ -654,7 +654,7 @@ PKP040	la regalai ai venticinque anni di matrimonio
 PKP040	a me e a papà
 PKP041	ma chi
 PKP040	zia mariella chi
-PKP040	a papà lu braccialetto
+PKP040	# a papà lu braccialetto
 PKP041	ma che stai dicendo
 PKP039	a me il braccialetto
 PKP040	sì

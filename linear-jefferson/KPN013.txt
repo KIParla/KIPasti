@@ -398,7 +398,7 @@ PKP058	cioè tu hai un mega maglione
 PKP059	sì
 PKP057	bellissimo
 PKP058	sì veramente
-PKP059	solo che è un po' lungo perché (.) non c'era la s ho preso la m
+PKP059	solo che è un po' lungo perché (.) non c'era la s ho preso la mh
 PKP057	però:
 PKP058	però non so (.) >xx non ti ho vista in piedi<
 PKP059	eh ma per[ché:]
@@ -1421,10 +1421,10 @@ PKP058	[meno ma]le che (non) è una persona normale se no
 PKP057	allora (.) se la tira (.) mi aspettavo peggio
 PKP059	mh
 PKP057	è che proprio
-PKP057	cioè è un (.) [è un] bambi~ cioè un bamboccio fa delle battute veramente da cinno cioè sembra
+PKP057	# cioè è un (.) [è un] bambi~ cioè un bamboccio fa delle battute veramente da cinno cioè sembra
 PKP058	[>è stupido<] ((ride))
 PKP058	cosa (ridi) e:h e:h
-PKP057	sembra veramente un cinnazzo stupido delle medie cioè non fa
+PKP057	# sembra veramente un cinnazzo stupido delle medie cioè non fa
 PKP057	non fanno per niente ridere le sue battute
 PKP058	tremendo
 PKP057	infatti ci son stati dei momenti molto imbarazzanti ma

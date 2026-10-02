@@ -368,7 +368,7 @@ PKP015	beh se qualcuno vuole assaggiare:
 PKP015	è sempre:
 PKP014	buon appetito
 PKP015	il benvenuto
-PKP014	mmh
+PKP014	mhmh
 PKP013	ocche::i azzanniamo sta bestia
 PKP014	azzanniam~ ((ride))
 PKP014	((ride))
@@ -1401,7 +1401,7 @@ PKP015	già fatto
 PKP015	e ci facciamo gli: spazi [con i nu]meri
 PKP014	[sì]
 PKP014	sì
-PKP015	e poi stampiamo: su carta fotograf~ f~ emh carta ade[siva]
+PKP015	e poi stampiamo: su carta fotograf~ f~ ehm carta ade[siva]
 PKP014	[ade]siva
 PKP015	e le [fo:to]
 PKP014	[tanto lo f~] ce l'hanno

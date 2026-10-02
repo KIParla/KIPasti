@@ -62,7 +62,7 @@ PKP096	oh
 PKP095	le pianole
 PKP096	i canti sul balcone
 PKP095	eh
-PKP097	fa nu fridd
+PKP097	# fa nu fridd
 PKP096	momenti di aggregazione distanziata
 PKP095	anche perché
 PKP096	di empatia
@@ -116,7 +116,7 @@ PKP096	beh basta
 PKP097	basta comunismo
 PKP096	ma scusate ma
 PKP096	di che ci meravigliamo
-PKP097	ma sta angor pcciet xxx
+PKP097	# ma sta angor pcciet xxx
 PKP096	del fatto che che la curva è in ascesa
 PKP096	se era stato già preannunciato che in autunno sarebbe arrivato tutto questo
 PKP097	infatti io non mi meraviglio
@@ -148,12 +148,12 @@ PKP095	state fonte di gravi danni
 PKP097	di gravidanze
 PKP095	di gravi danni
 PKP095	tant'è vero che che i i primi contagi so cominciati a scoppiati al bil~ al billionaire
-PKP095	tant p fa n'esempio
+PKP095	# tant p fa n'esempio
 PKP096	tra i vips
 PKP095	eh
 PKP096	che poi si scopriva che invece era prostratite
 PKP096	eh
-PKP095	ni ev prostratite jev quache ata qualche altra cosa insomma prostratite
+PKP095	# ni ev prostratite jev quache ata qualche altra cosa insomma prostratite
 PKP095	malattie veneree
 PKP096	malattie di testa
 PKP096	ma dopo che facciamo
@@ -176,9 +176,9 @@ PKP096	e lavati le mani
 PKP095	mettiti i guanti eh individua la prossima banca
 PKP096	e togliti il naso
 PKP095	di individua la banca più vicina p~
-PKP096	p fa che
-PKP095	p fa a rapin a rapin
-PKP097	p fa a rapin
+PKP096	# p fa che
+PKP095	# p fa a rapin a rapin
+PKP097	# p fa a rapin
 PKP095	qua nei pressi ci sono parecchie banche
 PKP097	sì sì perccato che sono tutte vuote
 PKP096	tieni mi dai l'acqua
@@ -188,12 +188,12 @@ PKP096	sono di proprietà privata
 PKP097	sì sono unipersonali
 PKP095	quella quella dell'avvocato x
 PKP096	evvé
-PKP097	la pubblictà la farina uè
+PKP097	# la pubblictà la farina uè
 PKP096	oh oh
 PKP095	la farina per far le torte
 PKP097	eh si
 PKP095	sempre nel corso del lockdown
-PKP097	na fest jè
+PKP097	# na fest jè
 PKP095	un'alt~ un'altra volta da sola sta mara mara venier
 PKP096	cì scusa ma noi finora di cosa abbiamo parlato
 PKP096	io non ho più voce
@@ -241,7 +241,7 @@ PKP097	sì tamponi come se piovesse oramai
 PKP097	che sarà mai
 PKP095	e adesso devono chiudere la televisione italiana perché carlo conti faceva c'aveva tutte le trasmissioni lui
 PKP096	che è successo a questo qua
-PKP095	tè u covid
+PKP095	# tè u covid
 PKP096	no il fratello di
 PKP095	di panariello
 PKP095	avrà perso il panarello x per andare all'asilo
@@ -310,7 +310,7 @@ PKP096	tu hai detto andavi a scuola col panarello
 PKP095	eh
 PKP096	ma il panarello
 PKP096	era incluso a te o era in aggiunta a te
-PKP095	no c'era una diciamo una cosa a parte dcim una sorta di propaggine del panariello centrale
+PKP095	# no c'era una diciamo una cosa a parte dcim una sorta di propaggine del panariello centrale
 PKP095	c'era una una succursale una propaggine
 PKP096	e questa propaggine
 PKP095	eh

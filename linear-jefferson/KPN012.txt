@@ -1,5 +1,5 @@
 PKP045	e quindi praticamente
-PKP045	quando ho scoperto che: che stava passando: la seconda volta mi sono preciato perché
+PKP045	# quando ho scoperto che: che stava passando: la seconda volta mi sono preciato perché
 PKP045	[ho scoperto che sta~]
 PKP044	[ma su che cos'era] il webinar
 PKP045	il webinar su: °aspe che ca~° a:h si
@@ -60,7 +60,7 @@ PKP043	allora la guidavi con le mani con le dita
 PKP043	>mentre invece se non avevi cioè se avevi mobilità< del busto: ti infilavi un pochino e la facevi andare: tu
 PKP045	però sì [stai:<]
 PKP044	[oddio]
-PKP043	[ma:] vagnu' (.) u[na rottura di coglio:ni]
+PKP043	# [ma:] vagnu' (.) u[na rottura di coglio:ni]
 PKP044	[alo~ però ah cioè è inter]essante solo che poi: [evvi~) (.) è è pal]losissimo quand[o:]
 PKP043	[solo la (questa cosa) è interessante perché poi c'ha fatto all'inizio tutta la parte di disegno meccanico: ma (.) due coglio:ni]
 PKP043	[perc]hé poi c'ha fatto >all'inizio t[utta la parte di disegno mecca]nico< ma (.) [due coglio:ni]
@@ -138,7 +138,7 @@ PKP044	[possiamo parlare di] amore unioni di qualsiasi cosa (.) non puoi fare nu
 PKP046	mh
 PKP046	comunque laura ha scritto (.) sul gruppo
 PKP044	mhmh
-PKP046	vagnu' ho appena scoperto che la figlia del c~ ehm della cugina di mio padre ha avuto il mutismo selettivo per un anno
+PKP046	# vagnu' ho appena scoperto che la figlia del c~ ehm della cugina di mio padre ha avuto il mutismo selettivo per un anno
 PKP046	e poi da un giorno all'altro le l~ le è passato
 PKP043	beh è passato checco zalone gliel'ha fat[to passare]
 PKP044	[madonna che] eh infatti
@@ -206,7 +206,7 @@ PKP043	[io tre ne ho fa]tte solo per me (.) ma perché: avevo messo troppe zucch
 PKP045	zafferano giallo diceva tre diceva sei
 PKP045	per sei persone
 PKP046	eh
-PKP043	sangu
+PKP043	# sangu
 PKP046	ma noi siamo d[ue]
 PKP043	[cos]ì poche
 PKP045	e io ho calcolato: vabbè noi mangiamo come tre persone
@@ -437,7 +437,7 @@ PKP044	[trentacinque]
 PKP046	[no:] pure di più qua[rant'anni]
 PKP044	[xxx (.) ma pure] sessanta dai ((ride))
 PKP043	[(no)]
-PKP043	stamo a esagerà
+PKP043	# stamo a esagerà
 PKP044	vediamola
 PKP046	non mettere like mi ra[ccomando]
 PKP044	[non mett]erò li~ me: si vede che è (un) xx[xx e:h]
@@ -494,7 +494,7 @@ PKP044	((ride)) pinuccio
 PKP043	lui è devoto
 PKP046	le ho scritto [poi se (tu)]
 PKP043	[xxxx (se] il d~) rettorato ti viene pinuccio (.) porca puttana
-PKP044	assai soldi si pigghia
+PKP044	# assai soldi si pigghia
 PKP043	no il rettorato: l'edificio del rettorato
 PKP043	c'ha tutte le colonne: di marmo bianc[o: con le s]cale: mh classiche
 PKP045	[mhmh]

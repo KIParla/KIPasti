@@ -600,7 +600,7 @@ PKP103	poi
 PKP100	no i~
 PKP103	noi le stupide mh
 PKP100	sì
-PKP100	m boi eh mh boiate
+PKP100	mh boi eh mh boiate
 PKP100	e poi questi qua che poi devo vedere da da x
 PKP101	ci siamo eh
 PKP102	senti la metto su la mando su coso allora sta foto che dici eh
@@ -1409,7 +1409,7 @@ PKP100	la cena normale
 PKP101	le solite cene che fanno loro insomma primo secondo x
 PKP103	mhmh
 PKP100	però sarebbe bello un capodanno con e cioè ti~
-PKP100	m mh eh
+PKP100	mh mh eh
 PKP100	come giulia coso e i genitori di eh
 PKP101	be~ be~ bello dispendioso chissà che
 PKP100	vabbé non p~ qa per forza insomma
@@ -1430,7 +1430,7 @@ PKP101	eh il ventiqattro non lo so se ci siamo anche noi magari poi
 PKP101	capito
 PKP101	poi diventa eh complicata la cosa
 PKP101	ci dobbiamo riprendere economicamente
-PKP100	hh m
+PKP100	hh mh
 PKP101	là tre giorni per tre pranzo cena e colazione s~ abbiamo fatto tutto
 PKP102	quella casa c'è sempre quella
 PKP101	eh ieri fino a ieri c'era mo fa oggi non ho guardato
@@ -1835,7 +1835,7 @@ PKP101	mh
 PKP102	lavorava e quindi stanno x x
 PKP100	e anche marco in fratello ci lavora x
 PKP101	x
-PKP102	ehm he em
+PKP102	ehm eh em
 PKP101	nel locale non lavora con la la quella ditta lì
 PKP100	sì
 PKP100	no vabb~ qualche volta ci ha lavorato a settembre finché c'erano le serate
@@ -2536,7 +2536,7 @@ PKP100	mh mh mh mh
 PKP101	lui è bello l'as~ l'azione
 PKP103	eh infatti mamma è u u
 PKP101	eh
-PKP100	quello he tromba forse non è normale
+PKP100	quello eh tromba forse non è normale
 PKP100	mado lui non so come si fa a prendere sul serio
 PKP103	ecco
 PKP103	ecco va allora x
@@ -2776,7 +2776,7 @@ PKP103	il pri~ il primo anno mamma che lei è venuta a trovarmi eh abbiamo mangi
 PKP101	eh
 PKP101	eh
 PKP103	oh che poi ho vomitato e eh
-PKP103	poi abbiamo fatto pure un giro siamo andat~ m mi sentivo già inviavo già a sentirmi male poi ho vomitato proprio in via mascarella gua~
+PKP103	poi abbiamo fatto pure un giro siamo andat~ mh mi sentivo già inviavo già a sentirmi male poi ho vomitato proprio in via mascarella gua~
 PKP100	in una delle piantine davanti il negozio di erboristeria
 PKP103	sto male
 PKP101	vabbé mo io a a a gerusalemme xxx
@@ -2936,7 +2936,7 @@ PKP103	no amy winehouse fa parte del circolo ventisette
 PKP101	no no no e~ no whitney houston no è grande no no è morta adesso mo ha fatto
 PKP100	anche whitney houston
 PKP103	whitney housto è morta grande esatto
-PKP101	aveva fato il coso è m orta da poco da poco tempo eh
+PKP101	aveva fato il coso è mh orta da poco da poco tempo eh
 PKP103	sì da una decina d'anni più o meno
 PKP101	sì sì
 PKP101	aveva fatto il coso avev~ una ventina tren'anni forse ma pure xx mi se~

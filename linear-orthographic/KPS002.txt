@@ -785,7 +785,7 @@ PKP103	eh si
 PKP103	ma non ci ho più p~ lei ha detto x x voi che fate ma non lo so proprio che non le è giunta notizia ma
 PKP104	vabbè ma giustamente ma che ce ne frega
 PKP103	si son prorio con
-PKP104	cioè vabbè apparte il fatto che era difficile che le giungesse notizia perché penso che con la m persone della classe non è che abbia rapporti con nessuno tranne forse appunto con matteo
+PKP104	cioè vabbè apparte il fatto che era difficile che le giungesse notizia perché penso che con la mh persone della classe non è che abbia rapporti con nessuno tranne forse appunto con matteo
 PKP103	vabbè sì
 PKP103	mattia non so se alice
 PKP104	eh forse con alice giustame~

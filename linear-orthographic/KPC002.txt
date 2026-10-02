@@ -41,7 +41,7 @@ PKP094	ma non c'andava neanche quest'estate col pieno sole eh
 PKP093	eh so non è mica il bronx
 PKP094	ecco quindi figurati se ci va ora ora nci va non torna da sola nemmeno se la paghi
 PKP093	sì ma io gli dicevo ascolta vai a piedi e non rompere le palle
-PKP094	no povera citta dai su lasciala stare
+PKP094	# no povera citta dai su lasciala stare
 PKP093	eh
 PKP094	ogg~ a te quando so~ tornato
 PKP056	mh

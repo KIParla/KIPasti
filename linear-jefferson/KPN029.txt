@@ -688,7 +688,7 @@ PKP139	tre giorni fa eh [sullo snowboard]
 PKP136	[a scia~ no]::
 PKP139	sì
 PKP136	no no troppa paura troppa paura
-PKP136	he poi come cazzo fai a fre~ no no no
+PKP136	eh poi come cazzo fai a fre~ no no no
 PKP136	terribile io ho i brividi
 PKP140	ma in realtà
 PKP140	non è difficile se fai la pista quella: tranquilla

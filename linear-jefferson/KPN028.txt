@@ -827,7 +827,7 @@ PKP112	[tutto intero]?
 PKP119	sta a vedere chiara
 PKP118	no beh tutto intero no
 PKP119	sta a vedere
-PKP118	è smagoso dai
+PKP118	# è smagoso dai
 PKP112	°sì°
 PKP118	buono
 PKP119	>ma secondo te< c'è aggiunta di zucchero qui
