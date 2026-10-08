@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP085	0	0	[x]	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	Begin=0.435|End=0.635	_	_	_	0-1(0)
 1-0	PKP083	1	0	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.435	_	_	_	0-1(?)
 1-1	PKP083	1	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(?)
@@ -7694,30 +7694,30 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1828-3	PKP087	1828	3	sono]	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(998)
 1828-4	PKP087	1828	4	vongol[e]	vongole	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1927.384	_	_	_	6-7(675)
 1829-0	PKP086	1829	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1926.466|End=1926.74	_	_	_	0-2(998)
-1830-0	PKP086	1830	0	# [i]n	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1927.265	_	_	_	0-1(675)
-1830-1	PKP086	1830	1	sardo	sardo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1830-2	PKP086	1830	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1830-3	PKP086	1830	3	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1830-4	PKP086	1830	4	cocciula	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1928.832	_	_	_	_
+1830-0	PKP086	1830	0	# [i]n	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1927.265	_	_	_	0-1(675)
+1830-1	PKP086	1830	1	sardo	sardo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1830-2	PKP086	1830	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1830-3	PKP086	1830	3	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1830-4	PKP086	1830	4	cocciula	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1928.832	_	_	_	_
 1831-0	PKP085	1831	0	o[kay]	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1929.935|End=1930.377	_	_	_	1-4(676)
 1832-0	PKP083	1832	0	[goc]ciola	gocciola	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1930.051	_	_	_	0-3(676)
 1832-1	PKP083	1832	1	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1832-2	PKP083	1832	2	[co]	co	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1931.115	_	_	_	0-2(999)
 1833-0	PKP087	1833	0	[co]	co	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1930.888|End=1931.232	_	_	_	0-2(999)
-1834-0	PKP086	1834	0	# [co]cciul[a]	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1930.899|End=1931.899	_	_	_	0-2(999),7-8(1000)
+1834-0	PKP086	1834	0	# [co]cciul[a]	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1930.899|End=1931.899	_	_	_	0-2(999),7-8(1000)
 1835-0	PKP087	1835	0	[co]	co	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1931.411|End=1931.688	_	_	_	0-2(1000)
 1836-0	PKP083	1836	0	[co]	co	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1931.675|End=1931.911	_	_	_	0-2(1000)
 1837-0	PKP083	1837	0	[co]	co	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1932.088|End=1932.321	_	_	_	0-2(677)
-1838-0	PKP087	1838	0	# [cocciula]	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1932.121|End=1932.788	_	_	_	0-8(677)
-1839-0	PKP086	1839	0	# [cocciula]	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1932.411|End=1933.028	_	_	_	0-8(1001)
+1838-0	PKP087	1838	0	# [cocciula]	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1932.121|End=1932.788	_	_	_	0-8(677)
+1839-0	PKP086	1839	0	# [cocciula]	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1932.411|End=1933.028	_	_	_	0-8(1001)
 1840-0	PKP085	1840	0	[e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1932.688	_	_	_	0-1(1001)
 1840-1	PKP085	1840	1	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(1001)
 1840-2	PKP085	1840	2	ars]e~	arse~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	0-3(1001)
 1840-3	PKP085	1840	3	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1840-4	PKP085	1840	4	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	1-2(678)
 1840-5	PKP085	1840	5	[arsella]	arsella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1933.87	_	_	_	0-6(678)
-1841-0	PKP086	1841	0	# [cocciula]	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1933.433	_	_	_	0-8(678)
-1841-1	PKP086	1841	1	cao	cao	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1934.599	_	_	_	_
+1841-0	PKP086	1841	0	# [cocciula]	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1933.433	_	_	_	0-8(678)
+1841-1	PKP086	1841	1	cao	cao	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1934.599	_	_	_	_
 1842-0	PKP086	1842	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1934.71	_	_	_	_
 1842-1	PKP086	1842	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1842-2	PKP086	1842	2	q~	q~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=1935.15	_	_	_	_
@@ -7730,10 +7730,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1845-0	PKP085	1845	0	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1938.632|End=1939.043	_	_	_	_
 1846-0	PKP083	1846	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1939.155|End=1939.566	_	_	_	0-4(679)
 1847-0	PKP086	1847	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1939.224|End=1939.55	_	_	_	0-2(679)
-1848-0	PKP086	1848	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1939.711	_	_	_	_
-1848-1	PKP086	1848	1	cocciula	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1848-2	PKP086	1848	2	imbriaga	imbriaga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1941.022	_	_	_	_
-1849-0	PKP086	1849	0	# imbriaga	imbriaga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1941.621|End=1942.199	_	_	_	_
+1848-0	PKP086	1848	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1939.711	_	_	_	_
+1848-1	PKP086	1848	1	cocciula	cocciula	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1848-2	PKP086	1848	2	imbriaga	imbriaga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1941.022	_	_	_	_
+1849-0	PKP086	1849	0	# imbriaga	imbriaga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1941.621|End=1942.199	_	_	_	_
 1850-0	PKP086	1850	0	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1942.354	_	_	_	_
 1850-1	PKP086	1850	1	s[ai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	1-3(680)
 1850-2	PKP086	1850	2	perché]?	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1943.177	_	_	_	0-6(680)
@@ -7804,9 +7804,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1866-1	PKP085	1866	1	okay	okay	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1964.521	_	_	_	_
 1867-0	PKP086	1867	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1964.121|End=1964.599	_	_	_	_
 1868-0	PKP083	1868	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1964.121|End=1965.099	_	_	_	_
-1869-0	PKP086	1869	0	# poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1964.622	_	_	_	_
-1869-1	PKP086	1869	1	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1869-2	PKP086	1869	2	umbriaga	umbriaga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1965.737	_	_	_	_
+1869-0	PKP086	1869	0	# poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1964.622	_	_	_	_
+1869-1	PKP086	1869	1	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1869-2	PKP086	1869	2	umbriaga	umbriaga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1965.737	_	_	_	_
 1870-0	PKP085	1870	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1965.766	_	_	_	_
 1870-1	PKP085	1870	1	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1870-2	PKP085	1870	2	invece	invece	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

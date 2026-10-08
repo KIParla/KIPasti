@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP136	0	0	avviata,	avviata	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	Begin=0.49	_	_	_	_
 0-1	PKP136	0	1	ok	ok	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2.214	_	_	_	_
 1-0	PKP136	1	0	perfetto	perfetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.856	_	_	_	_
@@ -1294,7 +1294,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 226-29	PKP141	226	29	mezzo	mezzo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(46)
 226-30	PKP141	226	30	a]lla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(46)
 226-31	PKP141	226	31	ne:ve	neve	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=448.386	1x1	_	_	_
-227-0	PKP136	227	0	# [mado::]	mado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=446.883|End=447.824	3x2	_	_	0-4(46)
+227-0	PKP136	227	0	# [mado::]	mado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=446.883|End=447.824	3x2	_	_	0-4(46)
 228-0	PKP142	228	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Reduced=Yes	Begin=448.613	_	_	_	_
 228-1	PKP142	228	1	ponti:	ponti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x1	_	_	_
 228-2	PKP142	228	2	ponti	ponti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1326,7 +1326,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 229-17	PKP141	229	17	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 229-18	PKP141	229	18	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 229-19	PKP141	229	19	velo:ce	veloce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=456.889	3x1	_	_	_
-230-0	PKP142	230	0	# mado:	mado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=453.681|End=454.555	3x1	_	_	_
+230-0	PKP142	230	0	# mado:	mado	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=453.681|End=454.555	3x1	_	_	_
 231-0	PKP136	231	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=457.146	_	_	_	_
 231-1	PKP136	231	1	s[ì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	1-2(49)
 231-2	PKP136	231	2	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=457.832	_	_	_	0-2(49)
@@ -1877,29 +1877,29 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 324-1	PKP141	324	1	magari	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 324-2	PKP141	324	2	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 324-3	PKP141	324	3	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=621.091	_	_	_	_
-325-0	PKP136	325	0	# vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=621.513	_	_	_	_
-325-1	PKP136	325	1	mo	mo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-325-2	PKP136	325	2	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-325-3	PKP136	325	3	inizi	inizi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-325-4	PKP136	325	4	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-325-5	PKP136	325	5	parlare	parlare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-325-6	PKP136	325	6	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-325-7	PKP136	325	7	fi:sica	fisica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	1x1	_	_	_
-325-8	PKP136	325	8	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-325-9	PKP136	325	9	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-325-10	PKP136	325	10	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-325-11	PKP136	325	11	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-325-12	PKP136	325	12	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-325-13	PKP136	325	13	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	2x1	_	_	_
-325-14	PKP136	325	14	>stavo	stavo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Fast=0-5(0)	_	_
-325-15	PKP136	325	15	dicendo<	dicendo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Fast=0-7(0)	_	_
-325-16	PKP136	325	16	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=high	_	_	_	_	_
-325-17	PKP136	325	17	SONO	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=high	_	_	_	_	_
-325-18	PKP136	325	18	RI:CCHI	ricchi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=high	_	1x1	_	_	_
-325-19	PKP136	325	19	E	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=high	_	_	_	_	_
-325-20	PKP136	325	20	B[ASTA	basta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=high	_	_	_	_	1-5(78)
-325-21	PKP136	325	21	LA	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=high	_	_	_	_	0-2(78)
-325-22	PKP136	325	22	BORGHESI]:A	borghesia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=high	End=627.313	7x1	_	_	0-8(78)
+325-0	PKP136	325	0	# vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=621.513	_	_	_	_
+325-1	PKP136	325	1	mo	mo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+325-2	PKP136	325	2	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+325-3	PKP136	325	3	inizi	inizi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+325-4	PKP136	325	4	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+325-5	PKP136	325	5	parlare	parlare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+325-6	PKP136	325	6	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+325-7	PKP136	325	7	fi:sica	fisica	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	1x1	_	_	_
+325-8	PKP136	325	8	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+325-9	PKP136	325	9	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+325-10	PKP136	325	10	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+325-11	PKP136	325	11	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+325-12	PKP136	325	12	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+325-13	PKP136	325	13	che:	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	2x1	_	_	_
+325-14	PKP136	325	14	>stavo	stavo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-5(0)	_	_
+325-15	PKP136	325	15	dicendo<	dicendo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-7(0)	_	_
+325-16	PKP136	325	16	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	_	_	_	_
+325-17	PKP136	325	17	SONO	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	_	_	_	_
+325-18	PKP136	325	18	RI:CCHI	ricchi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	1x1	_	_	_
+325-19	PKP136	325	19	E	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	_	_	_	_
+325-20	PKP136	325	20	B[ASTA	basta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	_	_	_	1-5(78)
+325-21	PKP136	325	21	LA	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	_	_	_	0-2(78)
+325-22	PKP136	325	22	BORGHESI]:A	borghesia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	End=627.313	7x1	_	_	0-8(78)
 326-0	PKP142	326	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=623.543|End=624.423	_	_	_	_
 327-0	PKP141	327	0	[(in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=626.129	_	_	0-2(0)	0-2(78)
 327-1	PKP141	327	1	gruppo)]	gruppo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=626.693	_	_	0-6(0)	0-6(78)

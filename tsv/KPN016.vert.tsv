@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP061	0	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=4.408	_	_	_	_
 0-1	PKP061	0	1	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PKP061	0	2	devi	devi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2859,21 +2859,21 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 491-5	PKP057	491	5	moroso	moroso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1555.11	_	_	_	_
 492-0	PKP057	492	0	basta	basta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1555.511	_	_	_	_
 492-1	PKP057	492	1	praticamente.	praticamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=1557.13	_	_	_	_
-493-0	PKP061	493	0	# °ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=low	Begin=1557.285	_	_	_	_
-493-1	PKP061	493	1	messo	messo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=low	_	_	_	_	_
-493-2	PKP061	493	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=low	_	_	_	_	_
-493-3	PKP061	493	3	bocca	bocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=low	_	_	_	_	_
-493-4	PKP061	493	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=low	_	_	_	_	_
-493-5	PKP061	493	5	tazzina°	tazzina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=low	_	_	_	_	_
-493-6	PKP061	493	6	se~	se~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-493-7	PKP061	493	7	va~	va~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-493-8	PKP061	493	8	vara	vara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-493-9	PKP061	493	9	com'	com'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-493-10	PKP061	493	10	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-493-11	PKP061	493	11	<cicciona>	cicciona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	Slow=0-8(0)	_	_
-493-12	PKP061	493	12	senti	senti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-493-13	PKP061	493	13	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-493-14	PKP061	493	14	bocca	bocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1561.282	_	_	_	_
+493-0	PKP061	493	0	# °ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=low	Begin=1557.285	_	_	_	_
+493-1	PKP061	493	1	messo	messo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=low	_	_	_	_	_
+493-2	PKP061	493	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=low	_	_	_	_	_
+493-3	PKP061	493	3	bocca	bocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=low	_	_	_	_	_
+493-4	PKP061	493	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=low	_	_	_	_	_
+493-5	PKP061	493	5	tazzina°	tazzina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=low	_	_	_	_	_
+493-6	PKP061	493	6	se~	se~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+493-7	PKP061	493	7	va~	va~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+493-8	PKP061	493	8	vara	vara	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+493-9	PKP061	493	9	com'	com'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+493-10	PKP061	493	10	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+493-11	PKP061	493	11	<cicciona>	cicciona	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Slow=0-8(0)	_	_
+493-12	PKP061	493	12	senti	senti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+493-13	PKP061	493	13	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+493-14	PKP061	493	14	bocca	bocca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1561.282	_	_	_	_
 494-0	PKP061	494	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1564.558|End=1565.592	_	_	_	_
 495-0	PKP061	495	0	buono	buono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1567.843	_	_	_	_
 495-1	PKP061	495	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

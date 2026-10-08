@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP037	0	0	xx[x]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=0.56|End=1.22	_	_	_	2-3(0)
 1-0	PKP033	1	0	[no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.94	_	_	_	0-2(0)
 1-1	PKP033	1	1	no]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(0)
@@ -3657,12 +3657,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 711-8	PKP036	711	8	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 711-9	PKP036	711	9	bella	bella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1194.21	_	_	_	_
 712-0	PKP037	712	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1194.71|End=1195.12	_	_	_	_
-713-0	PKP036	713	0	# un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1195.52	_	_	_	_
-713-1	PKP036	713	1	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-713-2	PKP036	713	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-713-3	PKP036	713	3	ammacco	ammacco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-713-4	PKP036	713	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-713-5	PKP036	713	5	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1196.99	_	_	_	_
+713-0	PKP036	713	0	# un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1195.52	_	_	_	_
+713-1	PKP036	713	1	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+713-2	PKP036	713	2	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+713-3	PKP036	713	3	ammacco	ammacco	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+713-4	PKP036	713	4	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+713-5	PKP036	713	5	cose	cose	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1196.99	_	_	_	_
 714-0	PKP036	714	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1200.32|End=1200.62	_	_	_	_
 715-0	PKP033	715	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1200.89	_	_	_	_
 715-1	PKP033	715	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

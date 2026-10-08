@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP010	0	0	°eh°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2.26|End=2.52	_	_	_	_
 1-0	PKP010	1	0	°non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3.78	_	_	_	_
 1-1	PKP010	1	1	abbaiare	abbaiare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_

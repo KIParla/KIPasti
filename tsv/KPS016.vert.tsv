@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP083	0	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.7	_	_	_	_
 0-1	PKP083	0	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PKP083	0	2	buonissimo	buonissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.45	_	_	_	_
@@ -468,19 +468,19 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 129-3	PKP084	129	3	ma~	ma~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 129-4	PKP084	129	4	fai	fai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 129-5	PKP084	129	5	risottare	risottare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=199.299	_	_	_	_
-130-0	PKP084	130	0	# [binu	binu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=199.74	_	_	_	0-4(20)
-130-1	PKP084	130	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(20)
-130-2	PKP084	130	2	'o]llisi?	'ollisi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Rising|Truncated=Yes	End=200.783	_	_	_	0-2(20)
+130-0	PKP084	130	0	# [binu	binu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=199.74	_	_	_	0-4(20)
+130-1	PKP084	130	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(20)
+130-2	PKP084	130	2	'o]llisi?	'ollisi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising|Truncated=Yes	End=200.783	_	_	_	0-2(20)
 131-0	PKP085	131	0	[perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=199.74	_	_	_	0-6(20)
 131-1	PKP085	131	1	tu]	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=200.267	_	_	_	0-2(20)
-132-0	PKP085	132	0	# du	du	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=201.344	_	_	_	_
-132-1	PKP085	132	1	'ollu	'ollu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Truncated=Yes	End=201.82	_	_	_	_
+132-0	PKP085	132	0	# du	du	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=201.344	_	_	_	_
+132-1	PKP085	132	1	'ollu	'ollu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	End=201.82	_	_	_	_
 133-0	PKP085	133	0	gra[zie]	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=203.745|End=204.1	_	_	_	3-6(21)
 134-0	PKP083	134	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=203.986|End=204.347	_	_	_	0-2(21)
 135-0	PKP085	135	0	perché:	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=204.704|End=205.258	5x1	_	_	_
-136-0	PKP084	136	0	# binu	binu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=205.738	_	_	_	_
-136-1	PKP084	136	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-136-2	PKP084	136	2	'ollisi?	'ollisi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Rising|Truncated=Yes	End=206.598	_	_	_	_
+136-0	PKP084	136	0	# binu	binu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=205.738	_	_	_	_
+136-1	PKP084	136	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+136-2	PKP084	136	2	'ollisi?	'ollisi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising|Truncated=Yes	End=206.598	_	_	_	_
 137-0	PKP083	137	0	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=206.618	_	_	_	_
 137-1	PKP083	137	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 137-2	PKP083	137	2	buono	buono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=207.235	_	_	_	_
@@ -994,7 +994,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 246-2	PKP085	246	2	vocale	vocale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=352.039	_	_	_	_
 247-0	PKP084	247	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=352.652|End=352.987	_	_	_	_
 248-0	PKP084	248	0	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	Begin=355.834|End=356.451	_	_	_	_
-249-0	PKP083	249	0	# puresciu	puresciu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=361.665|End=362.195	_	_	_	_
+249-0	PKP083	249	0	# puresciu	puresciu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=361.665|End=362.195	_	_	_	_
 250-0	PKP083	250	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=363.213|End=363.65	_	_	_	_
 251-0	PKP085	251	0	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=363.421	_	_	_	_
 251-1	PKP085	251	1	vocale	vocale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=364.208	_	_	_	_
@@ -1023,7 +1023,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 260-2	PKP085	260	2	[ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(48)
 260-3	PKP085	260	3	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(48)
 260-4	PKP085	260	4	s~]	s~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=379.296	_	_	_	0-2(48)
-261-0	PKP084	261	0	# [dessi]u	dessiu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=378.809|End=379.526	_	_	_	0-5(48)
+261-0	PKP084	261	0	# [dessi]u	dessiu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=378.809|End=379.526	_	_	_	0-5(48)
 262-0	PKP085	262	0	preceduta	preceduta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=382.182	_	_	_	_
 262-1	PKP085	262	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 262-2	PKP085	262	2	seguita	seguita	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1049,11 +1049,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 266-8	PKP085	266	8	caso	caso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 266-9	PKP085	266	9	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=391.393	_	_	_	_
 267-0	PKP084	267	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=391.529|End=391.785	_	_	_	_
-268-0	PKP085	268	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=391.786	_	_	_	_
+268-0	PKP085	268	0	# e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=391.786	_	_	_	_
 268-1	PKP085	268	1	x	x	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=1	_	_	_	_	_
-268-2	PKP085	268	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-268-3	PKP085	268	3	diresti	diresti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-268-4	PKP085	268	4	dessiu	dessiu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=392.867	_	_	_	_
+268-2	PKP085	268	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+268-3	PKP085	268	3	diresti	diresti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+268-4	PKP085	268	4	dessiu	dessiu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=392.867	_	_	_	_
 269-0	PKP083	269	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=397.707	_	_	_	_
 269-1	PKP083	269	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 269-2	PKP083	269	2	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1736,14 +1736,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 397-9	PKP085	397	9	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 397-10	PKP085	397	10	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 397-11	PKP085	397	11	leghiamo	leghiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=615.389	_	_	_	_
-398-0	PKP085	398	0	# per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=615.447	_	_	_	_
-398-1	PKP085	398	1	esempio	esempio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-398-2	PKP085	398	2	deu	deu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-398-3	PKP085	398	3	seu	seu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-398-4	PKP085	398	4	diventa	diventa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+398-0	PKP085	398	0	# per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=615.447	_	_	_	_
+398-1	PKP085	398	1	esempio	esempio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+398-2	PKP085	398	2	deu	deu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+398-3	PKP085	398	3	seu	seu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+398-4	PKP085	398	4	diventa	diventa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 398-5	PKP085	398	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-398-6	PKP085	398	6	deu	deu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-398-7	PKP085	398	7	seu	seu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=617.125	_	_	_	_
+398-6	PKP085	398	6	deu	deu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+398-7	PKP085	398	7	seu	seu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=617.125	_	_	_	_
 399-0	PKP083	399	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=617.273|End=617.558	_	_	_	_
 400-0	PKP085	400	0	capito?	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=617.758|End=618.142	_	_	_	_
 401-0	PKP084	401	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=618.323	_	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP134	0	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.23	_	_	_	_
 0-1	PKP134	0	1	belli:no,	bellino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=1.101	4x1	_	_	_
 1-0	PKP135	1	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.28	_	_	_	_

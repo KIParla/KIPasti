@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP115	0	0	buona	buona	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.65	_	_	_	_
 0-1	PKP115	0	1	cena	cena	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.206	_	_	_	_
 1-0	PKP116	1	0	grazie	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.685|End=2.169	_	_	_	_
@@ -4052,11 +4052,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1071-2	PKP115	1071	2	arrivare	arrivare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 1071-3	PKP115	1071	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
 1071-4	PKP115	1071	4	casa°	casa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1390.53	_	_	_	_
-1072-0	PKP115	1072	0	# po	po	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1391.099	_	_	_	_
-1072-1	PKP115	1072	1	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1072-2	PKP115	1072	2	facc	facc	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1072-3	PKP115	1072	3	veder	veder	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1072-4	PKP115	1072	4	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1392.256	_	_	_	_
+1072-0	PKP115	1072	0	# po	po	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1391.099	_	_	_	_
+1072-1	PKP115	1072	1	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1072-2	PKP115	1072	2	facc	facc	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1072-3	PKP115	1072	3	veder	veder	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1072-4	PKP115	1072	4	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1392.256	_	_	_	_
 1073-0	PKP115	1073	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1392.352	_	_	_	_
 1073-1	PKP115	1073	1	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1073-2	PKP115	1073	2	diale~	diale~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_

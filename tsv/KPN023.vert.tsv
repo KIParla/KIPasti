@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP078	0	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.55	_	_	_	_
 0-1	PKP078	0	1	[vero:]	vero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1.64	3x1	_	_	0-4(0)
 1-0	PKP070	1	0	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.81	_	_	_	0-1(0)
@@ -3782,7 +3782,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 774-6	PKP078	774	6	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 774-7	PKP078	774	7	visita	visita	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 774-8	PKP078	774	8	dentro	dentro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1175.9	_	_	_	_
-775-0	PKP079	775	0	# ocio	ocio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1176.06|End=1176.46	_	_	_	_
+775-0	PKP079	775	0	# ocio	ocio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1176.06|End=1176.46	_	_	_	_
 776-0	PKP078	776	0	entra	entra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1176.46	_	_	_	_
 776-1	PKP078	776	1	sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 776-2	PKP078	776	2	qua:	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_

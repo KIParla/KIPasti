@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	???	0	0	((televisione_accesa_di_sottofondo))	((televisione_accesa_di_sottofondo))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.0|End=4.732	_	_	_	_
 1-0	PKP061	1	0	sentiamo	sentiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.0	_	_	_	_
 1-1	PKP061	1	1	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -145,12 +145,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 30-6	PKP061	30	6	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	_	_	_	_	_
 30-7	PKP061	30	7	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=87.347	_	_	_	_
 31-0	PKP057	31	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=89.197|End=89.619	_	_	_	_
-32-0	PKP057	32	0	# a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=91.394	_	_	_	_
-32-1	PKP057	32	1	gh'	gh'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-32-2	PKP057	32	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-32-3	PKP057	32	3	mìa	mìa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-32-4	PKP057	32	4	piasù	piasù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-32-5	PKP057	32	5	dimondi	dimondi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=92.591	_	_	_	_
+32-0	PKP057	32	0	# a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=91.394	_	_	_	_
+32-1	PKP057	32	1	gh'	gh'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+32-2	PKP057	32	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+32-3	PKP057	32	3	mìa	mìa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+32-4	PKP057	32	4	piasù	piasù	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+32-5	PKP057	32	5	dimondi	dimondi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=92.591	_	_	_	_
 33-0	PKP061	33	0	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=92.591	_	_	_	_
 33-1	PKP061	33	1	delle	delle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 33-2	PKP061	33	2	tagliatelle	tagliatelle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

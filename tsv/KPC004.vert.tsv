@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP028	0	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=0.42	_	_	_	_
 0-1	PKP028	0	1	°stupido°	stupido	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1.25	_	_	_	_
 1-0	PKP028	1	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1.97	_	_	_	_
@@ -3760,9 +3760,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 599-0	PKP027	599	0	°m::::::h°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1241.078|End=1242.674	0x6	_	_	_
 600-0	PKP027	600	0	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1243.471	_	_	_	_
 600-1	PKP027	600	1	vabbè°	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1243.93	_	_	_	_
-601-0	PKP028	601	0	# °c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No|Volume=low	Begin=1245.225	_	_	_	_
-601-1	PKP028	601	1	amma	amma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=low	_	_	_	_	_
-601-2	PKP028	601	2	fa°	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=low	End=1245.766	_	_	_	_
+601-0	PKP028	601	0	# °c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No|Volume=low	Begin=1245.225	_	_	_	_
+601-1	PKP028	601	1	amma	amma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=low	_	_	_	_	_
+601-2	PKP028	601	2	fa°	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=low	End=1245.766	_	_	_	_
 602-0	PKP028	602	0	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1246.784	_	_	_	_
 602-1	PKP028	602	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 602-2	PKP028	602	2	vero	vero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

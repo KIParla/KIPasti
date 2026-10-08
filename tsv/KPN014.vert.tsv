@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP057	0	0	sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.25	_	_	_	_
 0-1	PKP057	0	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PKP057	0	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2131,14 +2131,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 399-3	PKP057	399	3	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 399-4	PKP057	399	4	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 399-5	PKP057	399	5	tuo	tuo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1179.985	_	_	_	_
-400-0	PKP057	400	0	# perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1179.985	_	_	_	_
-400-1	PKP057	400	1	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-400-2	PKP057	400	2	tuoi	tuoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-400-3	PKP057	400	3	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-400-4	PKP057	400	4	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-400-5	PKP057	400	5	tacconenti	tacconenti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-400-6	PKP057	400	6	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-400-7	PKP057	400	7	appiccicosi	appiccicosi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1182.812	_	_	_	_
+400-0	PKP057	400	0	# perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1179.985	_	_	_	_
+400-1	PKP057	400	1	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+400-2	PKP057	400	2	tuoi	tuoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+400-3	PKP057	400	3	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+400-4	PKP057	400	4	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+400-5	PKP057	400	5	tacconenti	tacconenti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+400-6	PKP057	400	6	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+400-7	PKP057	400	7	appiccicosi	appiccicosi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1182.812	_	_	_	_
 401-0	PKP060	401	0	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1183.32	_	_	_	_
 401-1	PKP060	401	1	saprà	saprà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 401-2	PKP060	401	2	meglio	meglio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3327,20 +3327,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 643-10	PKP057	643	10	li	li	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 643-11	PKP057	643	11	metti	metti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 643-12	PKP057	643	12	dentro	dentro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2375.133	_	_	_	_
-644-0	PKP057	644	0	# subito	subito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=2376.047	_	_	_	_
-644-1	PKP057	644	1	metti	metti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-2	PKP057	644	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-3	PKP057	644	3	verdure	verdure	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-4	PKP057	644	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-5	PKP057	644	5	stan	stan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-6	PKP057	644	6	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-7	PKP057	644	7	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-8	PKP057	644	8	padire	padire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-9	PKP057	644	9	eccetera	eccetera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-10	PKP057	644	10	eccetera	eccetera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-644-11	PKP057	644	11	eh,	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	End=2379.74	_	_	_	_
+644-0	PKP057	644	0	# subito	subito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2376.047	_	_	_	_
+644-1	PKP057	644	1	metti	metti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-2	PKP057	644	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-3	PKP057	644	3	verdure	verdure	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-4	PKP057	644	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-5	PKP057	644	5	stan	stan	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-6	PKP057	644	6	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-7	PKP057	644	7	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-8	PKP057	644	8	padire	padire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-9	PKP057	644	9	eccetera	eccetera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-10	PKP057	644	10	eccetera	eccetera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+644-11	PKP057	644	11	eh,	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	End=2379.74	_	_	_	_
 645-0	PKP057	645	0	ehm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2380.74|End=2381.96	2x1	_	_	_
-646-0	PKP060	646	0	# padire?	padire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Rising	Begin=2382.56|End=2383.25	_	_	_	_
+646-0	PKP060	646	0	# padire?	padire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising	Begin=2382.56|End=2383.25	_	_	_	_
 647-0	PKP057	647	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2383.45	_	_	_	_
 647-1	PKP057	647	1	ehm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2385.47	2x1	_	_	_
 648-0	PKP057	648	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2387.127	_	_	_	_

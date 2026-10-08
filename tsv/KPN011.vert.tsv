@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP122	0	0	[o:h]	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.351|End=1.796	0x1	_	_	0-2(0)
 1-0	PKP120	1	0	[O:H]	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1.676|End=2.451	0x1	_	_	0-2(?)
 2-0	PKP122	2	0	bella	bella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.907	_	_	_	_
@@ -370,20 +370,20 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 101-5	PKP123	101	5	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-2(494)
 101-6	PKP123	101	6	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(494)
 101-7	PKP123	101	7	perché:]	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=136.942	5x1	_	_	0-6(494)
-102-0	PKP120	102	0	# [è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=135.364	_	_	_	0-1(494)
-102-1	PKP120	102	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(494)
-102-2	PKP120	102	2	casein]	casein	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=136.558	_	_	_	0-6(494)
+102-0	PKP120	102	0	# [è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=135.364	_	_	_	0-1(494)
+102-1	PKP120	102	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(494)
+102-2	PKP120	102	2	casein]	casein	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=136.558	_	_	_	0-6(494)
 103-0	PKP121	103	0	[il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=135.755	_	_	_	0-2(494)
 103-1	PKP121	103	1	tuo	tuo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(494)
 103-2	PKP121	103	2	turno]	turno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=137.157	_	_	_	0-5(494)
-104-0	PKP120	104	0	# [in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=137.272	_	_	_	0-2(43)
-104-1	PKP120	104	1	romagna	romagna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-7(43)
-104-2	PKP120	104	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(43)
-104-3	PKP120	104	3	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-4(43)
-104-4	PKP120	104	4	l]'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	0-1(43)
-104-5	PKP120	104	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-104-6	PKP120	104	6	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-104-7	PKP120	104	7	case[in]	casein	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=139.581	_	_	_	3-6(44)
+104-0	PKP120	104	0	# [in	in	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=137.272	_	_	_	0-2(43)
+104-1	PKP120	104	1	romagna	romagna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-7(43)
+104-2	PKP120	104	2	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(43)
+104-3	PKP120	104	3	dice	dice	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(43)
+104-4	PKP120	104	4	l]'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	0-1(43)
+104-5	PKP120	104	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+104-6	PKP120	104	6	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+104-7	PKP120	104	7	case[in]	casein	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=139.581	_	_	_	3-6(44)
 105-0	PKP122	105	0	[è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=137.298	_	_	_	0-1(43)
 105-1	PKP122	105	1	veramente	veramente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-9(43)
 105-2	PKP122	105	2	buona]	buona	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=138.567	_	_	_	0-5(43)

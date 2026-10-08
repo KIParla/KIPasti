@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP029	0	0	ta:c	tac	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.5|End=3.079	1x1	_	_	_
 1-0	PKP029	1	0	madonna	madonna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.238	_	_	_	_
 1-1	PKP029	1	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1144,8 +1144,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 239-0	PKP029	239	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=562.239	_	_	_	_
 239-1	PKP029	239	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 239-2	PKP029	239	2	cazz~	cazz~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=563.331	_	_	_	_
-240-0	PKP024	240	0	# pora	pora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=568.47	_	_	_	_
-240-1	PKP024	240	1	citta	citta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=569.205	_	_	_	_
+240-0	PKP024	240	0	# pora	pora	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=568.47	_	_	_	_
+240-1	PKP024	240	1	citta	citta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=569.205	_	_	_	_
 241-0	PKP092	241	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=569.61|End=569.925	_	_	_	0-2(44)
 242-0	PKP029	242	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=569.664|End=569.925	_	_	_	0-2(44)
 243-0	PKP024	243	0	madonna	madonna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=572.659	_	_	_	_

@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP019	0	0	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=1.39	_	_	_	_
 0-1	PKP019	0	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PKP019	0	2	due	due	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4435,9 +4435,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1060-6	PKP019	1060	6	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1060-7	PKP019	1060	7	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1060-8	PKP019	1060	8	sia:mo	siamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1503.601	2x1	_	_	_
-1061-0	PKP020	1061	0	# ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1503.661	_	_	_	_
-1061-1	PKP020	1061	1	tal	tal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1061-2	PKP020	1061	2	deg	deg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1504.311	_	_	_	_
+1061-0	PKP020	1061	0	# ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1503.661	_	_	_	_
+1061-1	PKP020	1061	1	tal	tal	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1061-2	PKP020	1061	2	deg	deg	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1504.311	_	_	_	_
 1062-0	PKP019	1062	0	no:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1504.666	1x1	_	_	_
 1062-1	PKP019	1062	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1062-2	PKP019	1062	2	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

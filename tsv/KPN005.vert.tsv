@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP014	0	0	[sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.38|End=0.61	_	_	_	0-2(0)
 1-0	PKP018	1	0	[ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.44	_	_	_	0-2(?)
 1-1	PKP018	1	1	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(?)
@@ -5816,9 +5816,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1140-4	???	1140	4	sasso	sasso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1140-5	???	1140	5	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1140-6	???	1140	6	((dal_video))	((dal_video))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1870.559	_	_	_	_
-1141-0	PKP014	1141	0	# ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1871.295	_	_	_	_
-1141-1	PKP014	1141	1	par	par	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-1141-2	PKP014	1141	2	furz	furz	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1872.125	_	_	_	_
+1141-0	PKP014	1141	0	# ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1871.295	_	_	_	_
+1141-1	PKP014	1141	1	par	par	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1141-2	PKP014	1141	2	furz	furz	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1872.125	_	_	_	_
 1142-0	PKP018	1142	0	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1873.313|End=1873.803	_	_	_	_
 1143-0	PKP015	1143	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1873.909|End=1874.335	_	_	_	_
 1144-0	PKP014	1144	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1874.228	_	_	_	_

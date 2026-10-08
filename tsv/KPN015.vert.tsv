@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP061	0	0	sto	sto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3.04	_	_	_	_
 0-1	PKP061	0	1	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PKP061	0	2	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -143,14 +143,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 29-0	PKP057	29	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=64.55	_	_	_	_
 29-1	PKP057	29	1	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 29-2	PKP057	29	2	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=65.18	_	_	_	_
-30-0	PKP061	30	0	# questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=65.19	_	_	_	_
-30-1	PKP061	30	1	devo	devo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-30-2	PKP061	30	2	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-30-3	PKP061	30	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+30-0	PKP061	30	0	# questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=65.19	_	_	_	_
+30-1	PKP061	30	1	devo	devo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+30-2	PKP061	30	2	dire	dire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+30-3	PKP061	30	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 30-4	PKP061	30	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-30-5	PKP061	30	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-30-6	PKP061	30	6	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-30-7	PKP061	30	7	liffo	liffo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=68.77	_	_	_	_
+30-5	PKP061	30	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+30-6	PKP061	30	6	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+30-7	PKP061	30	7	liffo	liffo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=68.77	_	_	_	_
 31-0	PKP062	31	0	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=69.94	_	_	_	_
 31-1	PKP062	31	1	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 31-2	PKP062	31	2	vicentina	vicentina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -211,17 +211,17 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 39-5	PKP061	39	5	più:	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
 39-6	PKP061	39	6	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 39-7	PKP061	39	7	[denso]	denso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=88.23	_	_	_	0-5(6)
-40-0	PKP057	40	0	# [più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=87.83	_	_	_	0-3(6)
-40-1	PKP057	40	1	giotto]	giotto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	0-6(6)
+40-0	PKP057	40	0	# [più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=87.83	_	_	_	0-3(6)
+40-1	PKP057	40	1	giotto]	giotto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	0-6(6)
 40-2	PKP057	40	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-40-3	PKP057	40	3	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Volume=high	_	_	_	_	_
-40-4	PKP057	40	4	dio	dio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-40-5	PKP057	40	5	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-40-6	PKP057	40	6	c~	c~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-40-7	PKP057	40	7	c~	c~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Interrupted=Yes	_	_	_	_	_
-40-8	PKP057	40	8	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-40-9	PKP057	40	9	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-40-10	PKP057	40	10	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=90.287	_	_	_	_
+40-3	PKP057	40	3	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	_	_	_	_
+40-4	PKP057	40	4	dio	dio	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+40-5	PKP057	40	5	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+40-6	PKP057	40	6	c~	c~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+40-7	PKP057	40	7	c~	c~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
+40-8	PKP057	40	8	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+40-9	PKP057	40	9	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+40-10	PKP057	40	10	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=90.287	_	_	_	_
 41-0	PKP057	41	0	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=90.64	_	_	_	_
 41-1	PKP057	41	1	dito	dito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 41-2	PKP057	41	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -395,15 +395,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 65-0	PKP057	65	0	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=149.68	_	_	_	_
 65-1	PKP057	65	1	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 65-2	PKP057	65	2	buono	buono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=150.53	_	_	_	_
-66-0	PKP061	66	0	# sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=151.38	_	_	_	_
-66-1	PKP061	66	1	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-66-2	PKP061	66	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-66-3	PKP061	66	3	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-66-4	PKP061	66	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-66-5	PKP061	66	5	nonna	nonna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-66-6	PKP061	66	6	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-66-7	PKP061	66	7	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-66-8	PKP061	66	8	tacconento	tacconento	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=153.03	_	_	_	_
+66-0	PKP061	66	0	# sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=151.38	_	_	_	_
+66-1	PKP061	66	1	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+66-2	PKP061	66	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+66-3	PKP061	66	3	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+66-4	PKP061	66	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+66-5	PKP061	66	5	nonna	nonna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+66-6	PKP061	66	6	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+66-7	PKP061	66	7	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+66-8	PKP061	66	8	tacconento	tacconento	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=153.03	_	_	_	_
 67-0	PKP062	67	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=154.805|End=155.26	_	_	_	_
 68-0	PKP057	68	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=158.53|End=158.85	_	_	_	_
 69-0	PKP061	69	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=159.307	_	_	_	_
@@ -1049,15 +1049,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 148-7	PKP062	148	7	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 148-8	PKP062	148	8	pesce	pesce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 148-9	PKP062	148	9	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=406.05	_	_	_	_
-149-0	PKP062	149	0	# te	te	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=406.58	_	_	_	_
-149-1	PKP062	149	1	tel	tel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-149-2	PKP062	149	2	fe	fe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-149-3	PKP062	149	3	coser	coser	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-149-4	PKP062	149	4	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-149-5	PKP062	149	5	eh:	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	1x1	_	_	_
-149-6	PKP062	149	6	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-149-7	PKP062	149	7	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-149-8	PKP062	149	8	cipolla	cipolla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=409.31	_	_	_	_
+149-0	PKP062	149	0	# te	te	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=406.58	_	_	_	_
+149-1	PKP062	149	1	tel	tel	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+149-2	PKP062	149	2	fe	fe	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+149-3	PKP062	149	3	coser	coser	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+149-4	PKP062	149	4	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+149-5	PKP062	149	5	eh:	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	1x1	_	_	_
+149-6	PKP062	149	6	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+149-7	PKP062	149	7	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+149-8	PKP062	149	8	cipolla	cipolla	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=409.31	_	_	_	_
 150-0	PKP061	150	0	beh	beh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=410.08	_	_	_	_
 150-1	PKP061	150	1	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 150-2	PKP061	150	2	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1163,7 +1163,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 163-1	PKP057	163	1	sughetto	sughetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 163-2	PKP057	163	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 163-3	PKP057	163	3	proprio:	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=461.9	6x1	_	_	_
-164-0	PKP061	164	0	# liffo	liffo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=464.67|End=465.07	_	_	_	_
+164-0	PKP061	164	0	# liffo	liffo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=464.67|End=465.07	_	_	_	_
 165-0	PKP057	165	0	mh.	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=465.35|End=465.73	_	_	_	_
 166-0	PKP061	166	0	eh?	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=466.16|End=466.71	_	_	_	_
 167-0	PKP057	167	0	mh.	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=466.75|End=467.19	_	_	_	_
@@ -1307,55 +1307,55 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 185-11	PKP062	185	11	mh:	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
 185-12	PKP062	185	12	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 185-13	PKP062	185	13	nonna	nonna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=521.9	_	_	_	_
-186-0	PKP061	186	0	# che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=521.919	_	_	_	_
-186-1	PKP061	186	1	sicuramente	sicuramente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-186-2	PKP061	186	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-186-3	PKP061	186	3	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	0x1	_	_	_
+186-0	PKP061	186	0	# che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=521.919	_	_	_	_
+186-1	PKP061	186	1	sicuramente	sicuramente	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+186-2	PKP061	186	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+186-3	PKP061	186	3	e:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	0x1	_	_	_
 186-4	PKP061	186	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-186-5	PKP061	186	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-186-6	PKP061	186	6	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-186-7	PKP061	186	7	liffo	liffo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+186-5	PKP061	186	5	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+186-6	PKP061	186	6	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+186-7	PKP061	186	7	liffo	liffo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 186-8	PKP061	186	8	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-186-9	PKP061	186	9	però:	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	3x1	_	_	_
-186-10	PKP061	186	10	dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-186-11	PKP061	186	11	ragazzi.	ragazzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Falling	_	_	_	_	_
-186-12	PKP061	186	12	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-186-13	PKP061	186	13	indigeribile.	indigeribile	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Falling	End=528.01	_	_	_	_
-187-0	PKP057	187	0	# per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=528.91	_	_	_	_
-187-1	PKP057	187	1	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+186-9	PKP061	186	9	però:	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	3x1	_	_	_
+186-10	PKP061	186	10	dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+186-11	PKP061	186	11	ragazzi.	ragazzi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Falling	_	_	_	_	_
+186-12	PKP061	186	12	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+186-13	PKP061	186	13	indigeribile.	indigeribile	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Falling	End=528.01	_	_	_	_
+187-0	PKP057	187	0	# per	per	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=528.91	_	_	_	_
+187-1	PKP057	187	1	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 187-2	PKP057	187	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-187-3	PKP057	187	3	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-187-4	PKP057	187	4	diventa	diventa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-187-5	PKP057	187	5	neanche	neanche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-187-6	PKP057	187	6	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-187-7	PKP057	187	7	liffo	liffo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-187-8	PKP057	187	8	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-187-9	PKP057	187	9	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-187-10	PKP057	187	10	troppo	troppo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-187-11	PKP057	187	11	grasso	grasso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-187-12	PKP057	187	12	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=533.49	_	_	_	_
-188-0	PKP062	188	0	# no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=533.92	_	_	_	_
-188-1	PKP062	188	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-188-2	PKP062	188	2	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-188-3	PKP062	188	3	liffo	liffo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-188-4	PKP062	188	4	giada	giada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
+187-3	PKP057	187	3	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+187-4	PKP057	187	4	diventa	diventa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+187-5	PKP057	187	5	neanche	neanche	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+187-6	PKP057	187	6	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+187-7	PKP057	187	7	liffo	liffo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+187-8	PKP057	187	8	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+187-9	PKP057	187	9	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+187-10	PKP057	187	10	troppo	troppo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+187-11	PKP057	187	11	grasso	grasso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+187-12	PKP057	187	12	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=533.49	_	_	_	_
+188-0	PKP062	188	0	# no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=533.92	_	_	_	_
+188-1	PKP062	188	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+188-2	PKP062	188	2	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+188-3	PKP062	188	3	liffo	liffo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+188-4	PKP062	188	4	giada	giada	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 188-5	PKP062	188	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	End=536.17	_	_	_	_
-189-0	PKP057	189	0	# no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=535.355	_	_	_	_
-189-1	PKP057	189	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-189-2	PKP057	189	2	okay,	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-189-3	PKP057	189	3	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-189-4	PKP057	189	4	dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-189-5	PKP057	189	5	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-189-6	PKP057	189	6	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-189-7	PKP057	189	7	diventa	diventa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-189-8	PKP057	189	8	stonoso.	stonoso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=Falling	_	_	_	_	_
-189-9	PKP057	189	9	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+189-0	PKP057	189	0	# no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=535.355	_	_	_	_
+189-1	PKP057	189	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+189-2	PKP057	189	2	okay,	okay	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+189-3	PKP057	189	3	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+189-4	PKP057	189	4	dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+189-5	PKP057	189	5	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+189-6	PKP057	189	6	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+189-7	PKP057	189	7	diventa	diventa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+189-8	PKP057	189	8	stonoso.	stonoso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Falling	_	_	_	_	_
+189-9	PKP057	189	9	cioè	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 189-10	PKP057	189	10	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-189-11	PKP057	189	11	[dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-4(29)
-189-12	PKP057	189	12	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-2(29)
-189-13	PKP057	189	13	po']	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-3(29)
-189-14	PKP057	189	14	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-189-15	PKP057	189	15	fermi	fermi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=540.19	_	_	_	_
+189-11	PKP057	189	11	[dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-4(29)
+189-12	PKP057	189	12	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(29)
+189-13	PKP057	189	13	po']	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(29)
+189-14	PKP057	189	14	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+189-15	PKP057	189	15	fermi	fermi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=540.19	_	_	_	_
 190-0	PKP061	190	0	[no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=538.75	_	_	_	0-2(29)
 190-1	PKP061	190	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(29)
 190-2	PKP061	190	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(29)
@@ -2599,27 +2599,27 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 363-8	PKP062	363	8	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	0x1	_	_	_
 363-9	PKP062	363	9	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 363-10	PKP062	363	10	allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1022.76	_	_	_	_
-364-0	PKP062	364	0	# aveva	aveva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1023.54	_	_	_	_
-364-1	PKP062	364	1	visto	visto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-2	PKP062	364	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-3	PKP062	364	3	vetreria	vetreria	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-4	PKP062	364	4	era,	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-364-5	PKP062	364	5	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	0x1	_	_	_
-364-6	PKP062	364	6	aveva	aveva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-7	PKP062	364	7	chiesto	chiesto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-8	PKP062	364	8	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-9	PKP062	364	9	bottiglia	bottiglia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-10	PKP062	364	10	lì,	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-364-11	PKP062	364	11	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-12	PKP062	364	12	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-13	PKP062	364	13	g'	g'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-364-14	PKP062	364	14	ahn	ahn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-15	PKP062	364	15	det	det	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-16	PKP062	364	16	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-17	PKP062	364	17	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-18	PKP062	364	18	possiamo	possiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-19	PKP062	364	19	fare	fare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-364-20	PKP062	364	20	fa'	fa'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Truncated=Yes	End=1028.48	_	_	_	_
+364-0	PKP062	364	0	# aveva	aveva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1023.54	_	_	_	_
+364-1	PKP062	364	1	visto	visto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-2	PKP062	364	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-3	PKP062	364	3	vetreria	vetreria	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-4	PKP062	364	4	era,	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+364-5	PKP062	364	5	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	0x1	_	_	_
+364-6	PKP062	364	6	aveva	aveva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-7	PKP062	364	7	chiesto	chiesto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-8	PKP062	364	8	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-9	PKP062	364	9	bottiglia	bottiglia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-10	PKP062	364	10	lì,	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+364-11	PKP062	364	11	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-12	PKP062	364	12	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-13	PKP062	364	13	g'	g'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+364-14	PKP062	364	14	ahn	ahn	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-15	PKP062	364	15	det	det	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-16	PKP062	364	16	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-17	PKP062	364	17	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-18	PKP062	364	18	possiamo	possiamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-19	PKP062	364	19	fare	fare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+364-20	PKP062	364	20	fa'	fa'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	End=1028.48	_	_	_	_
 365-0	PKP062	365	0	però.	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=1028.71	_	_	_	_
 365-1	PKP062	365	1	cambiamo	cambiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 365-2	PKP062	365	2	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5660,26 +5660,26 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 630-18	PKP062	630	18	caratteristica	caratteristica	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 630-19	PKP062	630	19	positiva,	positiva	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2110.044	_	_	_	_
 631-0	PKP057	631	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2110.044|End=2110.333	_	_	_	_
-632-0	PKP062	632	0	# s'	s'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	Begin=2110.1	_	_	_	_
-632-1	PKP062	632	1	l'è	l'è	_	_	_	_	_	error	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-632-2	PKP062	632	2	boun	boun	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	_	_	_	_
+632-0	PKP062	632	0	# s'	s'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	Begin=2110.1	_	_	_	_
+632-1	PKP062	632	1	l'è	l'è	_	_	_	_	_	error	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+632-2	PKP062	632	2	boun	boun	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	_	_	_	_
 632-3	PKP062	632	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-632-4	PKP062	632	4	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-632-5	PKP062	632	5	sa'	sa'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-632-6	PKP062	632	6	l	l	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-632-7	PKP062	632	7	sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-632-8	PKP062	632	8	ed	ed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-632-9	PKP062	632	9	merda,	merda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	Intonation=WeaklyRising	_	_	_	_	_
-632-10	PKP062	632	10	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	PauseAfter=Yes	_	0x1	_	_	_
+632-4	PKP062	632	4	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+632-5	PKP062	632	5	sa'	sa'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+632-6	PKP062	632	6	l	l	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+632-7	PKP062	632	7	sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+632-8	PKP062	632	8	ed	ed	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+632-9	PKP062	632	9	merda,	merda	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	_	_	_	_	_
+632-10	PKP062	632	10	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	0x1	_	_	_
 632-11	PKP062	632	11	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
-632-12	PKP062	632	12	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-632-13	PKP062	632	13	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-632-14	PKP062	632	14	anca	anca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-632-15	PKP062	632	15	lung	lung	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-632-16	PKP062	632	16	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	SpaceAfter=No	_	_	_	_	_
-632-17	PKP062	632	17	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-632-18	PKP062	632	18	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-632-19	PKP062	632	19	disaster	disaster	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=2114.16	_	_	_	_
+632-12	PKP062	632	12	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+632-13	PKP062	632	13	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+632-14	PKP062	632	14	anca	anca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+632-15	PKP062	632	15	lung	lung	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+632-16	PKP062	632	16	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
+632-17	PKP062	632	17	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+632-18	PKP062	632	18	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+632-19	PKP062	632	19	disaster	disaster	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2114.16	_	_	_	_
 633-0	PKP061	633	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2111.212|End=2111.505	_	_	_	_
 634-0	PKP061	634	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2114.16	_	_	_	_
 634-1	PKP061	634	1	papà	papà	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_

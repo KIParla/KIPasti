@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP108	0	0	[buon	buon	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.364	_	_	_	0-4(0)
 0-1	PKP108	0	1	appe]tito	appetito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2.11	_	_	_	0-4(0)
 1-0	PKP107	1	0	[mangiam(o)]	mangiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.372|End=1.811	_	_	7-8(0)	0-8(0)
@@ -2441,16 +2441,16 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 711-0	PKP110	711	0	ti[po:]	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=703.283|End=703.708	3x1	_	_	2-4(171)
 712-0	PKP107	712	0	[la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=703.363	_	_	_	0-2(171)
 712-1	PKP107	712	1	che]?	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=703.712	_	_	_	0-3(171)
-713-0	PKP110	713	0	# la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=703.756	_	_	_	_
-713-1	PKP110	713	1	ci:ga	ciga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=704.363	1x1	_	_	_
-714-0	PKP110	714	0	# tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=704.684	_	_	_	_
-714-1	PKP110	714	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-714-2	PKP110	714	2	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-714-3	PKP110	714	3	dato	dato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-714-4	PKP110	714	4	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-714-5	PKP110	714	5	ciga	ciga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-714-6	PKP110	714	6	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-714-7	PKP110	714	7	madonna	madonna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
+713-0	PKP110	713	0	# la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=703.756	_	_	_	_
+713-1	PKP110	713	1	ci:ga	ciga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=704.363	1x1	_	_	_
+714-0	PKP110	714	0	# tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=704.684	_	_	_	_
+714-1	PKP110	714	1	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+714-2	PKP110	714	2	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+714-3	PKP110	714	3	dato	dato	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+714-4	PKP110	714	4	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+714-5	PKP110	714	5	ciga	ciga	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+714-6	PKP110	714	6	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+714-7	PKP110	714	7	madonna	madonna	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 714-8	PKP110	714	8	[xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	End=706.858	_	_	_	0-2(172)
 715-0	PKP109	715	0	[sgrida]:[ta]?	sgridata	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=706.509|End=707.16	5x1	_	_	0-6(172),6-8(173)
 716-0	PKP110	716	0	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=707.004	_	_	_	0-2(173)

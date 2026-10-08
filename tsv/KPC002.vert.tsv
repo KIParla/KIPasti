@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP094	0	0	~gari	~gari	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=0.01|End=0.53	_	_	_	_
 1-0	PKP094	1	0	vuoi	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.633	_	_	_	_
 1-1	PKP094	1	1	andare	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -344,13 +344,13 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 42-12	PKP093	42	12	rompere	rompere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 42-13	PKP093	42	13	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 42-14	PKP093	42	14	pa[lle]	palle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=96.452	_	_	_	2-5(19)
-43-0	PKP094	43	0	# [no:]	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=96.046	1x1	_	_	0-2(19)
-43-1	PKP094	43	1	po(ve)ra	povera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	2-4(0)	_
-43-2	PKP094	43	2	citta	citta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-43-3	PKP094	43	3	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-43-4	PKP094	43	4	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-43-5	PKP094	43	5	[lasci]ala	lasciala	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	0-5(20)
-43-6	PKP094	43	6	stare	stare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=98.649	_	_	_	_
+43-0	PKP094	43	0	# [no:]	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=96.046	1x1	_	_	0-2(19)
+43-1	PKP094	43	1	po(ve)ra	povera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	2-4(0)	_
+43-2	PKP094	43	2	citta	citta	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+43-3	PKP094	43	3	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+43-4	PKP094	43	4	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+43-5	PKP094	43	5	[lasci]ala	lasciala	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-5(20)
+43-6	PKP094	43	6	stare	stare	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=98.649	_	_	_	_
 44-0	PKP093	44	0	[eh:]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=97.692|End=98.051	1x1	_	_	0-2(20)
 45-0	PKP094	45	0	(ogg~	ogg~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=102.55	_	_	0-4(0)	_
 45-1	PKP094	45	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-1(0)	_

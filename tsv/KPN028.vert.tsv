@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP119	0	0	(°che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=0.525	_	_	0-3(0)	_
 0-1	PKP119	0	1	tensione°)	tensione	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1.378	_	_	0-8(0)	_
 1-0	PKP112	1	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1.42|End=1.946	_	_	_	_
@@ -4161,9 +4161,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 828-0	PKP119	828	0	sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1748.641	_	_	_	_
 828-1	PKP119	828	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 828-2	PKP119	828	2	vedere	vedere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1749.05	_	_	_	_
-829-0	PKP118	829	0	# è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	Begin=1749.08	_	_	_	_
-829-1	PKP118	829	1	smagoso	smagoso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	_	_	_	_	_
-829-2	PKP118	829	2	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Variety=Unsure	_	End=1750.04	_	_	_	_
+829-0	PKP118	829	0	# è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1749.08	_	_	_	_
+829-1	PKP118	829	1	smagoso	smagoso	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+829-2	PKP118	829	2	dai	dai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1750.04	_	_	_	_
 830-0	PKP112	830	0	°sì°	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1750.228|End=1750.466	_	_	_	_
 831-0	PKP118	831	0	buono	buono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1757.169|End=1757.657	_	_	_	_
 832-0	PKP119	832	0	>ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1757.67	_	Fast=0-2(0)	_	_
