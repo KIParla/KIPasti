@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP039	0	0	m:	m	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.74	0x1	_	_	_
 0-1	PKP039	0	1	très	très	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PKP039	0	2	jolie	jolie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -280,8 +280,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 47-2	PKP041	47	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(12)
 47-3	PKP041	47	3	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(12)
 47-4	PKP041	47	4	so]no	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(12)
-47-5	PKP041	47	5	[PIU	piu	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-3(13)
-47-6	PKP041	47	6	PICCOLI]	piccoli	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=169.86	_	_	_	0-7(13)
+47-5	PKP041	47	5	[PIU	piu	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-3(13)
+47-6	PKP041	47	6	PICCOLI]	piccoli	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=169.86	_	_	_	0-7(13)
 48-0	PKP039	48	0	[non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=169.2	_	_	_	0-3(13)
 48-1	PKP039	48	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(13)
 48-2	PKP039	48	2	hanno	hanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(13)
@@ -422,11 +422,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 68-5	PKP040	68	5	guardava	guardava	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 68-6	PKP040	68	6	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 68-7	PKP040	68	7	cane	cane	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-68-8	PKP040	68	8	°che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-68-9	PKP040	68	9	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-68-10	PKP040	68	10	entrato	entrato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-68-11	PKP040	68	11	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-68-12	PKP040	68	12	conad°	conad	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
+68-8	PKP040	68	8	°che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+68-9	PKP040	68	9	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+68-10	PKP040	68	10	entrato	entrato	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+68-11	PKP040	68	11	alla	alla	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+68-12	PKP040	68	12	conad°	conad	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 68-13	PKP040	68	13	stava	stava	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 68-14	PKP040	68	14	guardando	guardando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=274.34	_	_	_	_
 69-0	PKP040	69	0	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=275.68	_	_	_	_
@@ -1008,7 +1008,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 155-3	PKP041	155	3	((riferimento_alla_tv))	((riferimento_alla_tv))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=614.75	_	_	_	_
 156-0	PKP039	156	0	penso	penso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=615.76	_	_	_	_
 156-1	PKP039	156	1	firenze	firenze	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=616.82	_	_	_	_
-157-0	PKP040	157	0	°<firenze>°	firenze	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=617.52|End=617.99	_	Slow=0-7(0)	_	_
+157-0	PKP040	157	0	°<firenze>°	firenze	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=617.52|End=617.99	_	Slow=0-7(0)	_	_
 158-0	PKP040	158	0	vedi	vedi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=633.57	_	_	_	_
 158-1	PKP040	158	1	ve':	ve':	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
 158-2	PKP040	158	2	((riferimento_tv))	((riferimento_tv))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=634.29	_	_	_	_
@@ -1426,9 +1426,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 195-0	PKP040	195	0	dove?	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=1024.545|End=1025.125	_	_	_	_
 196-0	PKP040	196	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1027.26	_	_	_	_
 196-1	PKP040	196	1	bello	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1027.867	_	_	_	_
-197-0	PKP039	197	0	°barolo	barolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1029.586	_	_	_	_
-197-1	PKP039	197	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-197-2	PKP039	197	2	montalcino?°	montalcino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	End=1030.972	_	_	_	_
+197-0	PKP039	197	0	°barolo	barolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1029.586	_	_	_	_
+197-1	PKP039	197	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+197-2	PKP039	197	2	montalcino?°	montalcino	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=1030.972	_	_	_	_
 198-0	PKP041	198	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1031.46	_	_	_	_
 198-1	PKP041	198	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 198-2	PKP041	198	2	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1472,7 +1472,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 203-1	PKP040	203	1	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 203-2	PKP040	203	2	paparella	paparella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 203-3	PKP040	203	3	alta	alta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1047.5	_	_	_	_
-204-0	PKP041	204	0	°capito°	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1047.73|End=1048.339	_	_	_	_
+204-0	PKP041	204	0	°capito°	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1047.73|End=1048.339	_	_	_	_
 205-0	PKP039	205	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=1050.13	_	_	_	_
 205-1	PKP039	205	1	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	_	_	_	_	_
 205-2	PKP039	205	2	[xx]	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	End=1051.12	_	_	_	0-2(49)

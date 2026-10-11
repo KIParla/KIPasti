@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP063	0	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1.41	_	_	_	_
 0-1	PKP063	0	1	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PKP063	0	2	sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -563,7 +563,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 92-1	PKP066	92	1	orm[ai]	ormai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=206.007	_	_	_	3-5(26)
 93-0	PKP063	93	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=205.818	_	_	_	_
 93-1	PKP063	93	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-93-2	PKP063	93	2	AH	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+93-2	PKP063	93	2	AH	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 93-3	PKP063	93	3	quindi	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 93-4	PKP063	93	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 93-5	PKP063	93	5	anziani	anziani	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=207.779	_	_	_	_
@@ -3519,7 +3519,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 624-2	PKP066	624	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 624-3	PKP066	624	3	tazza	tazza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1373.944	_	_	_	_
 625-0	PKP066	625	0	xx[x]	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=1374.08|End=1374.555	_	_	_	2-3(30)
-626-0	PKP063	626	0	[NO]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1374.436	_	_	_	0-2(30)
+626-0	PKP063	626	0	[NO]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1374.436	_	_	_	0-2(30)
 626-1	PKP063	626	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 626-2	PKP063	626	2	ancora	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 626-3	PKP063	626	3	devo	devo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3603,7 +3603,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 641-1	PKP063	641	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 641-2	PKP063	641	2	scherzi?	scherzi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1413.858	_	_	_	_
 642-0	PKP066	642	0	m[h:]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1413.88|End=1414.341	1x1	_	_	1-2(34)
-643-0	PKP063	643	0	[PI]ERI'	pieri'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes|Volume=high	Begin=1414.26|End=1414.853	_	_	_	0-2(34)
+643-0	PKP063	643	0	[PI]ERI'	pieri'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes|Volume=High	Begin=1414.26|End=1414.853	_	_	_	0-2(34)
 644-0	PKP066	644	0	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1415.042	_	_	_	_
 644-1	PKP066	644	1	molto	molto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 644-2	PKP066	644	2	contenta	contenta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3755,10 +3755,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 671-7	PKP066	671	7	speriamo	speriamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 671-8	PKP066	671	8	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 671-9	PKP066	671	9	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1492.627	_	_	_	_
-672-0	PKP063	672	0	# OH	oh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	Begin=1493.227	_	_	_	_
-672-1	PKP063	672	1	E	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	_	_	_	_
-672-2	PKP063	672	2	DAglie	daglie	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	_	_	_	_
-672-3	PKP063	672	3	MBO'	mbo'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes|Volume=high	End=1494.728	_	_	_	_
+672-0	PKP063	672	0	# OH	oh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	Begin=1493.227	_	_	_	_
+672-1	PKP063	672	1	E	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	_	_	_	_	_
+672-2	PKP063	672	2	DAglie	daglie	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	_	_	_	_	_
+672-3	PKP063	672	3	MBO'	mbo'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes|Volume=High	End=1494.728	_	_	_	_
 673-0	PKP066	673	0	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=1494.845	_	_	_	_
 673-1	PKP066	673	1	ignoranza	ignoranza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 673-2	PKP066	673	2	ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4236,8 +4236,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 773-3	PKP063	773	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 773-4	PKP063	773	4	fatta	fatta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 773-5	PKP063	773	5	descrivimela	descrivimela	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1697.545	_	_	_	_
-774-0	PKP066	774	0	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1697.736	_	_	_	_
-774-1	PKP066	774	1	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+774-0	PKP066	774	0	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1697.736	_	_	_	_
+774-1	PKP066	774	1	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 774-2	PKP066	774	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 774-3	PKP066	774	3	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 774-4	PKP066	774	4	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_

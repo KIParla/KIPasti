@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP096	0	0	pino	pino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=0.26	_	_	_	_
 0-1	PKP096	0	1	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PKP096	0	2	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -16,7 +16,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 0-14	PKP096	0	14	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-15	PKP096	0	15	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-16	PKP096	0	16	sottili,	sottili	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=5.259	_	_	_	_
-1-0	PKP097	1	0	>SI<	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=5.259|End=6.073	_	Fast=0-2(0)	_	_
+1-0	PKP097	1	0	>SI<	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=5.259|End=6.073	_	Fast=0-2(0)	_	_
 2-0	PKP096	2	0	a::::::::h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=6.073|End=6.724	0x8	_	_	_
 3-0	PKP095	3	0	>allor<	allor	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=7.0	_	Fast=0-5(0)	_	_
 3-1	PKP095	3	1	ade(sso)	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Slow=0-6(0)	3-6(0)	_
@@ -317,7 +317,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 54-2	PKP096	54	2	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 54-3	PKP096	54	3	dettagliati	dettagliati	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 54-4	PKP096	54	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-54-5	PKP096	54	5	VELOCI	veloci	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+54-5	PKP096	54	5	VELOCI	veloci	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 54-6	PKP096	54	6	telegrafici	telegrafici	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 54-7	PKP096	54	7	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 54-8	PKP096	54	8	dettagliati.	dettagliati	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	End=258.846	_	_	_	_
@@ -722,8 +722,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 127-3	PKP097	127	3	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 127-4	PKP097	127	4	meraviglio	meraviglio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=505.897	_	_	_	_
 128-0	PKP096	128	0	e:::h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=505.926|End=506.961	0x3	_	_	_
-129-0	PKP096	129	0	NON	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=508.268	_	_	_	_
-129-1	PKP096	129	1	SOLO	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=509.332	_	_	_	_
+129-0	PKP096	129	0	NON	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=508.268	_	_	_	_
+129-1	PKP096	129	1	SOLO	solo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=509.332	_	_	_	_
 130-0	PKP096	130	0	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=510.889	_	_	_	_
 130-1	PKP096	130	1	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 130-2	PKP096	130	2	state	state	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1824,7 +1824,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 332-0	PKP096	332	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1218.08	_	_	_	_
 332-1	PKP096	332	1	questa	questa	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 332-2	PKP096	332	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-332-3	PKP096	332	3	PROPA:GGINE,	propaggine	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=high	End=1221.619	4x1	_	_	_
+332-3	PKP096	332	3	PROPA:GGINE,	propaggine	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Volume=High	End=1221.619	4x1	_	_	_
 333-0	PKP095	333	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1221.619|End=1221.963	_	_	_	_
 334-0	PKP096	334	0	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1222.634	_	_	_	_
 334-1	PKP096	334	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2566,9 +2566,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 432-7	PKP096	432	7	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 432-8	PKP096	432	8	durata	durata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 432-9	PKP096	432	9	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-432-10	PKP096	432	10	[PO'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes|Volume=high	_	_	_	_	0-3(112)
-432-11	PKP096	432	11	DI	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-2(112)
-432-12	PKP096	432	12	PIU'],	piu'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Truncated=Yes|Volume=high	End=1508.885	_	_	_	0-4(112)
+432-10	PKP096	432	10	[PO'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes|Volume=High	_	_	_	_	0-3(112)
+432-11	PKP096	432	11	DI	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-2(112)
+432-12	PKP096	432	12	PIU'],	piu'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|Truncated=Yes|Volume=High	End=1508.885	_	_	_	0-4(112)
 433-0	PKP095	433	0	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1508.49	_	_	_	_
 433-1	PKP095	433	1	diciamo	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 433-2	PKP095	433	2	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

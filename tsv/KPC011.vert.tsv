@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP147	0	0	secondo	secondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=15.124	_	_	_	_
 0-1	PKP147	0	1	me,	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 0-2	PKP147	0	2	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -110,7 +110,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 23-7	PKP148	23	7	giù	giù	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 23-8	PKP148	23	8	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 23-9	PKP148	23	9	palazzetto	palazzetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=66.478	_	_	_	_
-24-0	PKP147	24	0	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=66.602|End=66.858	_	_	_	_
+24-0	PKP147	24	0	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=66.602|End=66.858	_	_	_	_
 25-0	PKP148	25	0	tieni	tieni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=67.51|End=67.865	_	_	_	_
 26-0	PKP149	26	0	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	Begin=68.278|End=69.099	_	_	_	_
 27-0	PKP147	27	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=69.099	_	_	_	_
@@ -276,7 +276,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 64-4	PKP147	64	4	davanti,	davanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 64-5	PKP147	64	5	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 64-6	PKP147	64	6	[palazzetto]	palazzetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=132.367	_	_	_	0-10(16)
-65-0	PKP149	65	0	[NO::	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=131.549	1x2	_	_	0-2(16)
+65-0	PKP149	65	0	[NO::	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=131.549	1x2	_	_	0-2(16)
 65-1	PKP149	65	1	quel]lo	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(16)
 65-2	PKP149	65	2	dav[an~]	davan~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=132.9	_	_	_	3-6(17)
 66-0	PKP147	66	0	[per]ché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=132.801	_	_	_	0-3(17)
@@ -495,7 +495,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 108-1	PKP147	108	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(30)
 108-2	PKP147	108	2	comp]agnie	compagnie	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	0-4(30)
 108-3	PKP147	108	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-108-4	PKP147	108	4	[°normale°]	normale	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=214.198	_	_	_	0-7(31)
+108-4	PKP147	108	4	[°normale°]	normale	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=214.198	_	_	_	0-7(31)
 109-0	PKP148	109	0	[le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=213.574	_	_	_	0-2(31)
 109-1	PKP148	109	1	compa]gnie	compagnie	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=214.557	_	_	_	0-5(31)
 110-0	PKP149	110	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=215.028	_	_	_	_
@@ -553,7 +553,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 119-7	PKP148	119	7	carino	carino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=236.969	_	_	_	_
 120-0	PKP147	120	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=237.002	_	_	_	_
 120-1	PKP147	120	1	già	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=237.312	_	_	_	_
-121-0	PKP148	121	0	°eh°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=237.621|End=237.796	_	_	_	_
+121-0	PKP148	121	0	°eh°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=237.621|End=237.796	_	_	_	_
 122-0	PKP149	122	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=239.668|End=240.038	_	_	_	_
 123-0	PKP149	123	0	carino	carino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=240.895|End=241.469	_	_	_	_
 124-0	PKP149	124	0	ah	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=242.806|End=242.976	_	_	_	_
@@ -569,10 +569,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 125-9	PKP147	125	9	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 125-10	PKP147	125	10	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 125-11	PKP147	125	11	sara	sara	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-125-12	PKP147	125	12	°sicuro°	sicuro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
+125-12	PKP147	125	12	°sicuro°	sicuro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 125-13	PKP147	125	13	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 125-14	PKP147	125	14	[xxxxx]	xxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=5	End=246.995	_	_	_	0-5(33)
-126-0	PKP149	126	0	[EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=high	Begin=246.303	_	_	_	0-2(33)
+126-0	PKP149	126	0	[EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=High	Begin=246.303	_	_	_	0-2(33)
 126-1	PKP149	126	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(33)
 126-2	PKP149	126	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(33)
 126-3	PKP149	126	3	sa]ra	sara	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(33)
@@ -726,7 +726,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 155-17	PKP147	155	17	pochino	pochino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 155-18	PKP147	155	18	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 155-19	PKP147	155	19	limitare	limitare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-155-20	PKP147	155	20	°perché°	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=309.489	_	_	_	_
+155-20	PKP147	155	20	°perché°	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=309.489	_	_	_	_
 156-0	PKP148	156	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=305.434|End=305.639	_	_	_	0-2(40)
 157-0	PKP149	157	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=307.06|End=307.23	_	_	_	0-2(41)
 158-0	PKP147	158	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=310.216	_	_	_	_
@@ -1013,7 +1013,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 216-1	PKP149	216	1	xxxx]	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	End=442.586	_	_	_	0-4(425)
 217-0	PKP147	217	0	[sicché	sicché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=441.811	_	_	_	0-6(425)
 217-1	PKP147	217	1	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(425)
-217-2	PKP147	217	2	°preso°]	preso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=442.585	_	_	_	0-5(425)
+217-2	PKP147	217	2	°preso°]	preso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=442.585	_	_	_	0-5(425)
 218-0	PKP148	218	0	[come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=442.28	_	_	_	0-4(425)
 218-1	PKP148	218	1	tut]te	tutte	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(425)
 218-2	PKP148	218	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1072,7 +1072,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 231-3	PKP147	231	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 231-4	PKP147	231	4	pochino	pochino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 231-5	PKP147	231	5	me:glio	meglio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=465.583	1x1	_	_	_
-232-0	PKP148	232	0	°ah°	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=466.172|End=466.326	_	_	_	_
+232-0	PKP148	232	0	°ah°	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=466.172|End=466.326	_	_	_	_
 233-0	PKP149	233	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=467.172|End=467.396	_	_	_	_
 234-0	PKP149	234	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=470.084	_	_	_	_
 234-1	PKP149	234	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1225,7 +1225,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 258-1	PKP148	258	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 258-2	PKP148	258	2	let[to]	letto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=514.03	_	_	_	3-5(66)
 259-0	PKP149	259	0	[sì]:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=513.9|End=514.178	1x1	_	_	0-2(66)
-260-0	PKP147	260	0	°gnocco°	gnocco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=514.283|End=514.664	_	_	_	_
+260-0	PKP147	260	0	°gnocco°	gnocco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=514.283|End=514.664	_	_	_	_
 261-0	PKP147	261	0	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=520.433	_	_	_	_
 261-1	PKP147	261	1	capito	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=520.855	_	_	_	_
 262-0	PKP149	262	0	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=522.855	_	_	_	_
@@ -1742,10 +1742,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 369-13	PKP147	369	13	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=718.592	_	_	_	_
 370-0	PKP148	370	0	[anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=716.957	_	_	_	0-5(95)
 370-1	PKP148	370	1	questo]?	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=717.816	_	_	_	0-6(95)
-371-0	PKP147	371	0	SPERA	spera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=719.497	_	_	_	_
+371-0	PKP147	371	0	SPERA	spera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=719.497	_	_	_	_
 371-1	PKP147	371	1	insomma	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 371-2	PKP147	371	2	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-371-3	PKP147	371	3	°che°	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=721.01	_	_	_	_
+371-3	PKP147	371	3	°che°	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=721.01	_	_	_	_
 372-0	PKP148	372	0	[e:h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=722.026|End=722.245	0x1	_	_	0-2(96)
 373-0	PKP147	373	0	[vab]bè.	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=722.078	_	_	_	0-3(96)
 373-1	PKP147	373	1	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1944,7 +1944,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 411-5	PKP149	411	5	fa'	fa'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes	_	_	_	_	_
 411-6	PKP149	411	6	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 411-7	PKP149	411	7	castagnole	castagnole	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=795.534	_	_	_	_
-412-0	PKP148	412	0	[O:::H	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=high	Begin=796.164	0x3	_	_	0-2(102)
+412-0	PKP148	412	0	[O:::H	oh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=High	Begin=796.164	0x3	_	_	0-2(102)
 412-1	PKP148	412	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(102)
 412-2	PKP148	412	2	già]	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=796.986	_	_	_	0-3(102)
 413-0	PKP147	413	0	[ecco	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=796.246	_	_	_	0-4(102)
@@ -2222,7 +2222,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 481-5	PKP149	481	5	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 481-6	PKP149	481	6	marzo	marzo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=927.483	_	_	_	_
 482-0	PKP149	482	0	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	Begin=929.447|End=929.749	_	_	_	_
-483-0	PKP147	483	0	°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=930.743|End=930.895	_	_	_	_
+483-0	PKP147	483	0	°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=930.743|End=930.895	_	_	_	_
 484-0	PKP149	484	0	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=930.895	_	_	_	_
 484-1	PKP149	484	1	ultima	ultima	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 484-2	PKP149	484	2	domenica	domenica	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2337,8 +2337,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 509-3	PKP147	509	3	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 509-4	PKP147	509	4	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 509-5	PKP147	509	5	freddo	freddo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-509-6	PKP147	509	6	°mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-509-7	PKP147	509	7	sa°	sa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=973.319	_	_	_	_
+509-6	PKP147	509	6	°mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+509-7	PKP147	509	7	sa°	sa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=973.319	_	_	_	_
 510-0	PKP149	510	0	eh?	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=973.689|End=974.007	_	_	_	_
 511-0	PKP147	511	0	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=974.283	_	_	_	_
 511-1	PKP147	511	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2387,7 +2387,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 520-1	PKP148	520	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 520-2	PKP148	520	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 520-3	PKP148	520	3	venuto	venuto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=991.01	_	_	_	_
-521-0	PKP148	521	0	°cioè°	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	Begin=992.173	_	_	_	_
+521-0	PKP148	521	0	°cioè°	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	Begin=992.173	_	_	_	_
 521-1	PKP148	521	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 521-2	PKP148	521	2	[l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(126)
 521-3	PKP148	521	3	inverno]	inverno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(126)
@@ -3015,7 +3015,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 663-1	PKP149	663	1	(gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-3(0)	_
 663-2	PKP149	663	2	torna	torna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-5(0)	_
 663-3	PKP149	663	3	be[ne)]	bene	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-4(0)	2-4(164)
-663-4	PKP149	663	4	C	c	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=1234.971	_	_	_	_
+663-4	PKP149	663	4	C	c	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=1234.971	_	_	_	_
 664-0	PKP147	664	0	[a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1234.714	_	_	_	0-1(164)
 664-1	PKP147	664	1	mag]gior	maggior	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(164)
 664-2	PKP147	664	2	ragione	ragione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3103,7 +3103,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 681-0	PKP147	681	0	e:	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1274.0	0x1	_	_	_
 681-1	PKP147	681	1	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 681-2	PKP147	681	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-681-3	PKP147	681	3	[°m::h°]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1275.037	0x2	_	_	0-2(170)
+681-3	PKP147	681	3	[°m::h°]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1275.037	0x2	_	_	0-2(170)
 682-0	PKP148	682	0	[praticame]nte	praticamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1274.568	_	_	_	0-9(170)
 682-1	PKP148	682	1	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 682-2	PKP148	682	2	vendi	vendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3195,11 +3195,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 699-7	PKP147	699	7	insomma::	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	6x2	_	_	_
 699-8	PKP147	699	8	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 699-9	PKP147	699	9	vendere	vendere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-699-10	PKP147	699	10	°perché°	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1303.989	_	_	_	_
+699-10	PKP147	699	10	°perché°	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1303.989	_	_	_	_
 700-0	PKP149	700	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1304.769	_	_	_	_
 700-1	PKP149	700	1	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1305.258	1x1	_	_	_
-701-0	PKP149	701	0	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1305.537	_	_	_	_
-701-1	PKP149	701	1	infat[ti°]	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1306.323	_	_	_	5-7(176)
+701-0	PKP149	701	0	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1305.537	_	_	_	_
+701-1	PKP149	701	1	infat[ti°]	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1306.323	_	_	_	5-7(176)
 702-0	PKP147	702	0	[se]	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1306.213	_	_	_	0-2(176)
 702-1	PKP147	702	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 702-2	PKP147	702	2	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3631,7 +3631,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 783-6	PKP147	783	6	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 783-7	PKP147	783	7	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 783-8	PKP147	783	8	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1475.627	_	_	_	_
-784-0	PKP148	784	0	°mh°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1475.966|End=1476.057	_	_	_	_
+784-0	PKP148	784	0	°mh°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1475.966|End=1476.057	_	_	_	_
 785-0	PKP147	785	0	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=1476.057	_	_	_	_
 785-1	PKP147	785	1	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 785-2	PKP147	785	2	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4056,7 +4056,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 868-4	PKP149	868	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 868-5	PKP149	868	5	foni	foni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 868-6	PKP149	868	6	piscine	piscine	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1642.553	_	_	_	_
-869-0	PKP148	869	0	°mh°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1643.093|End=1643.299	_	_	_	_
+869-0	PKP148	869	0	°mh°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1643.093|End=1643.299	_	_	_	_
 870-0	PKP149	870	0	fino	fino	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1643.989	_	_	_	_
 870-1	PKP149	870	1	davanti	davanti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 870-2	PKP149	870	2	al	al	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4186,8 +4186,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 897-2	PKP149	897	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 897-3	PKP149	897	3	gente	gente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 897-4	PKP149	897	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-897-5	PKP149	897	5	°deve	deve	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-897-6	PKP149	897	6	an[dare:°]	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1685.885	5x1	_	_	2-6(215)
+897-5	PKP149	897	5	°deve	deve	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+897-6	PKP149	897	6	an[dare:°]	andare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1685.885	5x1	_	_	2-6(215)
 898-0	PKP148	898	0	[la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1685.498	_	_	_	0-2(215)
 898-1	PKP148	898	1	gen]te	gente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(215)
 898-2	PKP148	898	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4585,7 +4585,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 992-0	PKP148	992	0	quant'	quant'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=1829.346	_	_	_	_
 992-1	PKP148	992	1	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 992-2	PKP148	992	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-992-3	PKP148	992	3	°[e:::h°]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1830.526	0x3	_	_	0-2(244)
+992-3	PKP148	992	3	°[e:::h°]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1830.526	0x3	_	_	0-2(244)
 993-0	PKP149	993	0	[venti]quatt[ro]	ventiquattro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1830.238|End=1831.082	_	_	_	0-5(244),10-12(245)
 994-0	PKP148	994	0	[ve]ntiquattro	ventiquattro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1830.965|End=1831.822	_	_	_	0-2(245)
 995-0	PKP147	995	0	e[h]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1832.23|End=1832.464	_	_	_	1-2(246)
@@ -4850,7 +4850,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1061-1	PKP147	1061	1	spugnosi	spugnosi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1061-2	PKP147	1061	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 1061-3	PKP147	1061	3	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-1061-4	PKP147	1061	4	°insomma°	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1953.424	_	_	_	_
+1061-4	PKP147	1061	4	°insomma°	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1953.424	_	_	_	_
 1062-0	PKP149	1062	0	[m:h]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1952.623|End=1952.935	0x1	_	_	0-2(263)
 1063-0	PKP148	1063	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1956.625	_	_	_	_
 1063-1	PKP148	1063	1	quel	quel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5059,8 +5059,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1099-2	PKP148	1099	2	eran	eran	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1099-3	PKP148	1099	3	belli	belli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1099-4	PKP148	1099	4	rinvenuti,	rinvenuti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2025.874	_	_	_	_
-1100-0	PKP147	1100	0	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2026.231	_	_	_	_
-1100-1	PKP147	1100	1	[già°]	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2026.582	_	_	_	0-3(274)
+1100-0	PKP147	1100	0	°eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2026.231	_	_	_	_
+1100-1	PKP147	1100	1	[già°]	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2026.582	_	_	_	0-3(274)
 1101-0	PKP148	1101	0	[li	li	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2026.35	_	_	_	0-2(274)
 1101-1	PKP148	1101	1	ti]ri	tiri	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(274)
 1101-2	PKP148	1101	2	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5123,7 +5123,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1107-9	PKP148	1107	9	puliti	puliti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1107-10	PKP148	1107	10	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1107-11	PKP148	1107	11	puliti	puliti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1107-12	PKP148	1107	12	[°questi°]	questi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2045.212	_	_	_	0-6(277)
+1107-12	PKP148	1107	12	[°questi°]	questi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2045.212	_	_	_	0-6(277)
 1108-0	PKP147	1108	0	[m:h]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2044.841|End=2045.214	0x1	_	_	0-2(277)
 1109-0	PKP148	1109	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2046.222	_	_	_	_
 1109-1	PKP148	1109	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -5144,7 +5144,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1113-0	PKP149	1113	0	[(sab]biolina	sabbiolina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2050.105	_	_	0-10(0)	0-3(279)
 1113-1	PKP149	1113	1	[la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	0-2(280)
 1113-2	PKP149	1113	2	terra)]	terra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2051.48	_	_	0-5(0)	0-5(280)
-1114-0	PKP148	1114	0	[MA:::]	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=2050.757	1x3	_	_	0-2(280)
+1114-0	PKP148	1114	0	[MA:::]	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=2050.757	1x3	_	_	0-2(280)
 1114-1	PKP148	1114	1	m:::h	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2052.181	0x3	_	_	_
 1115-0	PKP148	1115	0	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2052.333	_	_	_	_
 1115-1	PKP148	1115	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5264,9 +5264,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1127-0	PKP148	1127	0	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2091.931	_	_	_	_
 1127-1	PKP148	1127	1	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1127-2	PKP148	1127	2	conserva	conserva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1127-3	PKP148	1127	3	°quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-1127-4	PKP148	1127	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-1127-5	PKP148	1127	5	vu[oi°]	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2093.367	_	_	_	2-4(282)
+1127-3	PKP148	1127	3	°quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+1127-4	PKP148	1127	4	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+1127-5	PKP148	1127	5	vu[oi°]	vuoi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2093.367	_	_	_	2-4(282)
 1128-0	PKP147	1128	0	[mh]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2093.123|End=2093.369	_	_	_	0-2(282)
 1129-0	PKP148	1129	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2093.911	_	_	_	_
 1129-1	PKP148	1129	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -5325,8 +5325,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1136-2	PKP147	1136	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1136-3	PKP147	1136	3	[terrina	terrina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(431)
 1136-4	PKP147	1136	4	x	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	_	_	_	_	0-1(431)
-1136-5	PKP147	1136	5	°le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-2(431)
-1136-6	PKP147	1136	6	cose°	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=low	_	_	_	_	0-4(431)
+1136-5	PKP147	1136	5	°le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-2(431)
+1136-6	PKP147	1136	6	cose°	cose	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes|Volume=Low	_	_	_	_	0-4(431)
 1136-7	PKP147	1136	7	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	X(431)
 1136-8	PKP147	1136	8	eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2111.795	_	_	_	0-2(431)
 1137-0	PKP149	1137	0	[c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=2110.099	_	_	_	0-2(431)
@@ -5536,8 +5536,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1176-13	PKP148	1176	13	rinvenire,	rinvenire	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	_	_	_	_	_
 1176-14	PKP148	1176	14	li	li	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1176-15	PKP148	1176	15	spezzetti,	spezzetti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=2178.144	_	_	_	_
-1177-0	PKP148	1177	0	°ecco	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2178.199	_	_	_	_
-1177-1	PKP148	1177	1	fatto°	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2178.864	_	_	_	_
+1177-0	PKP148	1177	0	°ecco	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2178.199	_	_	_	_
+1177-1	PKP148	1177	1	fatto°	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2178.864	_	_	_	_
 1178-0	PKP147	1178	0	ecco	ecco	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2178.864	_	_	_	_
 1178-1	PKP147	1178	1	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1178-2	PKP147	1178	2	infatti	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2179.943	_	_	_	_
@@ -5771,7 +5771,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1217-8	PKP147	1217	8	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1217-9	PKP147	1217	9	fanno	fanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1217-10	PKP147	1217	10	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2253.966	_	_	_	_
-1218-0	PKP149	1218	0	E:H	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=2253.074|End=2253.454	0x1	_	_	_
+1218-0	PKP149	1218	0	E:H	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=2253.074|End=2253.454	0x1	_	_	_
 1219-0	PKP149	1219	0	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2254.043|End=2254.409	1x1	_	_	_
 1220-0	PKP149	1220	0	col	col	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2254.591	_	_	_	_
 1220-1	PKP149	1220	1	porcino	porcino	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
@@ -6065,7 +6065,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1284-0	PKP149	1284	0	puzz[ava]	puzzava	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2356.064|End=2356.696	_	_	_	4-7(322)
 1285-0	PKP147	1285	0	# [po:]rca	porca	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2356.468	1x1	_	_	0-2(322)
 1285-1	PKP147	1285	1	mise~	mise~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	_	_	_	_	_
-1285-2	PKP147	1285	2	°ma°	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=low	_	_	_	_	_
+1285-2	PKP147	1285	2	°ma°	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	_
 1285-3	PKP147	1285	3	semo	semo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1285-4	PKP147	1285	4	artornati	artornati	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1285-5	PKP147	1285	5	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
@@ -6115,7 +6115,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1288-21	PKP147	1288	21	c[itti]	citti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2368.088	_	_	_	0-3(324)
 1289-0	PKP148	1289	0	[(l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	Begin=2363.741	_	_	0-2(0)	0-2(433)
 1289-1	PKP148	1289	1	)aspiratore]	aspiratore	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2364.454	_	_	_	0-10(433)
-1290-0	PKP149	1290	0	[A:::H	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=2366.09	0x3	_	_	0-2(323)
+1290-0	PKP149	1290	0	[A:::H	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=2366.09	0x3	_	_	0-2(323)
 1290-1	PKP149	1290	1	allora]	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2367.042	_	_	_	0-6(323)
 1291-0	PKP149	1291	0	[allora	allora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2367.644	_	_	_	0-6(324)
 1291-1	PKP149	1291	1	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(324)
@@ -6248,9 +6248,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1318-1	PKP149	1318	1	piadinara	piadinara	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2398.131	_	_	_	_
 1319-0	PKP148	1319	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	Begin=2398.257	_	_	_	_
 1319-1	PKP148	1319	1	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-1319-2	PKP148	1319	2	[°(io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	0-2(0)	0-2(339)
-1319-3	PKP148	1319	3	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	0-2(0)	0-2(339)
-1319-4	PKP148	1319	4	confondo)°]	confondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2399.67	_	_	0-8(0)	0-8(339)
+1319-2	PKP148	1319	2	[°(io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	0-2(0)	0-2(339)
+1319-3	PKP148	1319	3	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	0-2(0)	0-2(339)
+1319-4	PKP148	1319	4	confondo)°]	confondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2399.67	_	_	0-8(0)	0-8(339)
 1320-0	PKP147	1320	0	[ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2398.553	_	_	_	0-2(339)
 1320-1	PKP147	1320	1	infatti	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(339)
 1320-2	PKP147	1320	2	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(339)
@@ -6331,7 +6331,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1335-1	PKP147	1335	1	tro:ppo	troppo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	2x1	_	_	_
 1335-2	PKP147	1335	2	lavo:ro	lavoro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	3x1	_	_	_
 1335-3	PKP147	1335	3	citti	citti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2426.287	_	_	_	_
-1336-0	PKP148	1336	0	[°no°]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2424.017|End=2424.175	_	_	_	0-2(434)
+1336-0	PKP148	1336	0	[°no°]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2424.017|End=2424.175	_	_	_	0-2(434)
 1337-0	PKP149	1337	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2426.424|End=2426.527	_	_	_	_
 1338-0	PKP147	1338	0	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2427.718	_	_	_	_
 1338-1	PKP147	1338	1	niente	niente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6390,7 +6390,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1340-28	PKP147	1340	28	della	della	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1340-29	PKP147	1340	29	tua	tua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1340-30	PKP147	1340	30	nonna.	nonna	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
-1340-31	PKP147	1340	31	MAI	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=2443.219	_	_	_	_
+1340-31	PKP147	1340	31	MAI	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=2443.219	_	_	_	_
 1341-0	PKP147	1341	0	mai.	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	Begin=2444.101|End=2444.456	_	_	_	_
 1342-0	PKP147	1342	0	sempre	sempre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2446.814	_	_	_	_
 1342-1	PKP147	1342	1	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6760,8 +6760,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1418-2	PKP147	1418	2	facevano	facevano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1418-3	PKP147	1418	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1418-4	PKP147	1418	4	are:zzo	arezzo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
-1418-5	PKP147	1418	5	°sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-1418-6	PKP147	1418	6	farina°	farina	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2568.738	_	_	_	_
+1418-5	PKP147	1418	5	°sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+1418-6	PKP147	1418	6	farina°	farina	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2568.738	_	_	_	_
 1419-0	PKP148	1419	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2568.833	_	_	_	_
 1419-1	PKP148	1419	1	sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1419-2	PKP148	1419	2	farina	farina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6821,7 +6821,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1432-2	PKP147	1432	2	sì]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2584.607	_	_	_	0-2(439)
 1433-0	PKP149	1433	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2585.668	_	_	_	_
 1433-1	PKP149	1433	1	cavoli	cavoli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2586.55	_	_	_	_
-1434-0	PKP147	1434	0	°grazie°	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2586.82|End=2587.202	_	_	_	_
+1434-0	PKP147	1434	0	°grazie°	grazie	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2586.82|End=2587.202	_	_	_	_
 1435-0	PKP148	1435	0	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2587.341	_	_	_	_
 1435-1	PKP148	1435	1	pagava	pagava	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1435-2	PKP148	1435	2	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -6924,7 +6924,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1454-0	PKP147	1454	0	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2625.422	_	_	_	_
 1454-1	PKP147	1454	1	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1454-2	PKP147	1454	2	u[si	usi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	1-3(370)
-1454-3	PKP147	1454	3	°adesso°]?	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=low	End=2626.402	_	_	_	0-6(370)
+1454-3	PKP147	1454	3	°adesso°]?	adesso	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=Low	End=2626.402	_	_	_	0-6(370)
 1455-0	PKP148	1455	0	[ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2625.858	_	_	_	0-2(370)
 1455-1	PKP148	1455	1	adotta]to	adottato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(370)
 1455-2	PKP148	1455	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7118,7 +7118,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1483-4	PKP148	1483	4	prendi	prendi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1483-5	PKP148	1483	5	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1483-6	PKP148	1483	6	lassù	lassù	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1483-7	PKP148	1483	7	°vedi°	vedi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2682.158	_	_	_	_
+1483-7	PKP148	1483	7	°vedi°	vedi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2682.158	_	_	_	_
 1484-0	PKP148	1484	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2682.418	_	_	_	_
 1484-1	PKP148	1484	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1484-2	PKP148	1484	2	ancora	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7220,7 +7220,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1497-9	PKP147	1497	9	pare]cchio	parecchio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(384)
 1497-10	PKP147	1497	10	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1497-11	PKP147	1497	11	pigli.	pigli	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Falling	_	_	_	_	_
-1497-12	PKP147	1497	12	[°insomma°	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	0-7(385)
+1497-12	PKP147	1497	12	[°insomma°	insomma	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	0-7(385)
 1497-13	PKP147	1497	13	sai	sai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(385)
 1497-14	PKP147	1497	14	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(385)
 1497-15	PKP147	1497	15	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(385)
@@ -7267,7 +7267,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1505-3	PKP148	1505	3	co]stan	costan	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(388)
 1505-4	PKP148	1505	4	più	più	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 1505-5	PKP148	1505	5	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-1505-6	PKP148	1505	6	°che:°	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2725.658	2x1	_	_	_
+1505-6	PKP148	1505	6	°che:°	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2725.658	2x1	_	_	_
 1506-0	PKP147	1506	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2724.246	_	_	_	0-2(388)
 1506-1	PKP147	1506	1	sì:]	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2724.697	1x1	_	_	0-2(388)
 1507-0	PKP147	1507	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2726.003	_	_	_	_
@@ -7370,7 +7370,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1525-2	PKP148	1525	2	rigida	rigida	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1525-3	PKP148	1525	3	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2767.689	_	_	_	_
 1526-0	PKP147	1526	0	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2768.334	1x1	_	_	_
-1526-1	PKP147	1526	1	°vabbè°	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2769.097	_	_	_	_
+1526-1	PKP147	1526	1	°vabbè°	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2769.097	_	_	_	_
 1527-0	PKP147	1527	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2770.398	_	_	_	_
 1527-1	PKP147	1527	1	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1527-2	PKP147	1527	2	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7441,7 +7441,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1536-4	PKP148	1536	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 1536-5	PKP148	1536	5	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1536-6	PKP148	1536	6	fa:	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2791.829	1x1	_	_	_
-1537-0	PKP147	1537	0	[°mh°]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2790.63|End=2790.836	_	_	_	0-2(394)
+1537-0	PKP147	1537	0	[°mh°]	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2790.63|End=2790.836	_	_	_	0-2(394)
 1538-0	PKP148	1538	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2792.102	_	_	_	_
 1538-1	PKP148	1538	1	sera,	sera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
 1538-2	PKP148	1538	2	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7733,8 +7733,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1584-10	PKP148	1584	10	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1584-11	PKP148	1584	11	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1584-12	PKP148	1584	12	numero	numero	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-1584-13	PKP148	1584	13	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-1584-14	PKP148	1584	14	°tele(fono)°	telefono	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2904.875	_	_	2-7(0)	_
+1584-13	PKP148	1584	13	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+1584-14	PKP148	1584	14	°tele(fono)°	telefono	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2904.875	_	_	2-7(0)	_
 1585-0	PKP148	1585	0	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2905.811	_	_	_	_
 1585-1	PKP148	1585	1	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1585-2	PKP148	1585	2	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -7811,8 +7811,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1594-8	PKP148	1594	8	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2931.223	_	_	_	0-1(406)
 1595-0	PKP147	1595	0	[e]:h	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2930.973	0x1	_	_	0-1(406)
 1595-1	PKP147	1595	1	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2931.698	_	_	_	_
-1596-0	PKP148	1596	0	°nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2932.257	_	_	_	_
-1596-1	PKP148	1596	1	fo:ndo°	fondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2933.13	1x1	_	_	_
+1596-0	PKP148	1596	0	°nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2932.257	_	_	_	_
+1596-1	PKP148	1596	1	fo:ndo°	fondo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2933.13	1x1	_	_	_
 1597-0	PKP148	1597	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=2934.199|End=2934.55	_	_	_	_
 1598-0	PKP147	1598	0	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2935.631	_	_	_	_
 1598-1	PKP147	1598	1	v[ia]	via	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2936.09	_	_	_	1-3(407)
@@ -7832,8 +7832,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1600-9	PKP147	1600	9	eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(408)
 1600-10	PKP147	1600	10	devo	devo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1600-11	PKP147	1600	11	studiare	studiare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2941.508	_	_	_	_
-1601-0	PKP148	1601	0	[°devi	devi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=2939.726	_	_	_	0-4(408)
-1601-1	PKP148	1601	1	studiare°]	studiare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=2940.588	_	_	_	0-8(408)
+1601-0	PKP148	1601	0	[°devi	devi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=2939.726	_	_	_	0-4(408)
+1601-1	PKP148	1601	1	studiare°]	studiare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=2940.588	_	_	_	0-8(408)
 1602-0	PKP147	1602	0	(no)n	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2941.807	_	_	0-2(0)	_
 1602-1	PKP147	1602	1	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1602-2	PKP147	1602	2	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8121,7 +8121,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1651-5	PKP148	1651	5	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 1651-6	PKP148	1651	6	alber[go]	albergo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3037.973	_	_	_	4-7(419)
 1652-0	PKP147	1652	0	[capi]to?	capito	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=3037.769|End=3038.266	_	_	_	0-4(419)
-1653-0	PKP148	1653	0	°eh°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3038.608|End=3038.846	_	_	_	_
+1653-0	PKP148	1653	0	°eh°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=3038.608|End=3038.846	_	_	_	_
 1654-0	PKP147	1654	0	mi(o)	mio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3038.846	_	_	2-3(0)	_
 1654-1	PKP147	1654	1	babbo	babbo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1654-2	PKP147	1654	2	capira	capira	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8136,7 +8136,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1654-11	PKP147	1654	11	gli	gli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1654-12	PKP147	1654	12	dà	dà	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1654-13	PKP147	1654	13	no[ia:]	noia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3041.967	3x1	_	_	1-4(420)
-1655-0	PKP148	1655	0	[°eh°]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3041.608|End=3041.968	_	_	_	0-2(420)
+1655-0	PKP148	1655	0	[°eh°]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=3041.608|End=3041.968	_	_	_	0-2(420)
 1656-0	PKP147	1656	0	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3042.66	_	_	_	_
 1656-1	PKP147	1656	1	mi(a)	mia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	2-3(0)	_
 1656-2	PKP147	1656	2	nonna	nonna	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8146,12 +8146,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1656-6	PKP147	1656	6	quelle	quelle	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1656-7	PKP147	1656	7	camere	camere	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1656-8	PKP147	1656	8	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3045.192	_	_	_	_
-1657-0	PKP148	1657	0	°eh°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3045.978|End=3046.204	_	_	_	_
+1657-0	PKP148	1657	0	°eh°	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=3045.978|End=3046.204	_	_	_	_
 1658-0	PKP148	1658	0	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	Begin=3047.586	_	_	_	_
-1658-1	PKP148	1658	1	(°lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	0-2(0)	_
-1658-2	PKP148	1658	2	butto	butto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	0-5(0)	_
-1658-3	PKP148	1658	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	0-1(0)	_
-1658-4	PKP148	1658	4	terra°)	terra	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=3048.591	_	_	0-5(0)	_
+1658-1	PKP148	1658	1	(°lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	0-2(0)	_
+1658-2	PKP148	1658	2	butto	butto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	0-5(0)	_
+1658-3	PKP148	1658	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	0-1(0)	_
+1658-4	PKP148	1658	4	terra°)	terra	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=3048.591	_	_	0-5(0)	_
 1659-0	PKP147	1659	0	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3049.267|End=3049.858	1x1	_	_	_
 1660-0	PKP147	1660	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3050.504	_	_	_	_
 1660-1	PKP147	1660	1	stato	stato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -8239,7 +8239,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1677-4	PKP148	1677	4	[(u)n	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-1(0)	0-2(424)
 1677-5	PKP148	1677	5	altro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(424)
 1677-6	PKP148	1677	6	disc]orso	discorso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3087.178	_	_	_	0-4(424)
-1678-0	PKP147	1678	0	[°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=3086.032	_	_	_	0-2(424)
+1678-0	PKP147	1678	0	[°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=3086.032	_	_	_	0-2(424)
 1678-1	PKP147	1678	1	vabbè]	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=3086.702	_	_	_	0-5(424)
 1679-0	PKP147	1679	0	finito	finito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3087.225	_	_	_	_
 1679-1	PKP147	1679	1	tanto	tanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

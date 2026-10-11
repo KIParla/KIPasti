@@ -1,4 +1,4 @@
-token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code-variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
+token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label	code_variation	jefferson_feats	align	prolongations	pace	guesses	overlaps
 0-0	PKP125	0	0	vai	vai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2.63	_	_	_	_
 0-1	PKP125	0	1	ja	ja	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 0-2	PKP125	0	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -380,7 +380,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 77-2	PKP125	77	2	circolazione	circolazione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 77-3	PKP125	77	3	[del	del	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(19)
 77-4	PKP125	77	4	virus]?	virus	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=205.322	_	_	_	0-5(19)
-78-0	PKP132	78	0	[NO:]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=204.738	1x1	_	_	0-2(19)
+78-0	PKP132	78	0	[NO:]	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=204.738	1x1	_	_	0-2(19)
 78-1	PKP132	78	1	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 78-2	PKP132	78	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=206.262	_	_	_	_
 79-0	PKP132	79	0	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=206.52|End=207.13	_	_	_	_
@@ -748,7 +748,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 147-3	PKP125	147	3	formia?	formia	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=357.63	_	_	_	_
 148-0	PKP132	148	0	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=358.373	_	_	_	_
 148-1	PKP132	148	1	gae:ta	gaeta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=359.232	2x1	_	_	_
-149-0	PKP125	149	0	°gaet~°?	gaet~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Interrupted=Yes|Volume=low	Begin=359.292|End=359.674	_	_	_	_
+149-0	PKP125	149	0	°gaet~°?	gaet~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Interrupted=Yes|Volume=Low	Begin=359.292|End=359.674	_	_	_	_
 150-0	PKP132	150	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=360.833	_	_	_	_
 150-1	PKP132	150	1	vabbè	vabbè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=361.617	_	_	_	_
 151-0	PKP133	151	0	# essa	essa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=361.78	_	_	_	_
@@ -990,7 +990,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 186-3	PKP132	186	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(59)
 186-4	PKP132	186	4	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(59)
 186-5	PKP132	186	5	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(59)
-186-6	PKP132	186	6	TOro]	toro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=458.0	_	_	_	0-4(59)
+186-6	PKP132	186	6	TOro]	toro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=458.0	_	_	_	0-4(59)
 187-0	PKP133	187	0	[sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=456.238	_	_	_	0-2(59)
 187-1	PKP133	187	1	novantacinque	novantacinque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-13(59)
 187-2	PKP133	187	2	anni	anni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(59)
@@ -1191,8 +1191,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 211-4	PKP132	211	4	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(72)
 211-5	PKP132	211	5	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(72)
 211-6	PKP132	211	6	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	0-1(72)
-211-7	PKP132	211	7	EH]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-2(72)
-211-8	PKP132	211	8	BRA:vo	bravo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	2x1	_	_	_
+211-7	PKP132	211	7	EH]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-2(72)
+211-8	PKP132	211	8	BRA:vo	bravo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	2x1	_	_	_
 211-9	PKP132	211	9	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 211-10	PKP132	211	10	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 211-11	PKP132	211	11	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1253,7 +1253,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 221-0	PKP133	221	0	dove	dove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=542.593	_	_	_	_
 221-1	PKP133	221	1	sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 221-2	PKP133	221	2	xxxxxx	xxxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=6	End=544.75	_	_	_	_
-222-0	PKP132	222	0	(SErapon)	serapon	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=544.79|End=545.6	_	_	0-7(0)	_
+222-0	PKP132	222	0	(SErapon)	serapon	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=544.79|End=545.6	_	_	0-7(0)	_
 223-0	PKP133	223	0	# già	già	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=545.637	_	_	_	_
 223-1	PKP133	223	1	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 223-2	PKP133	223	2	stava	stava	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
@@ -1311,8 +1311,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 228-12	PKP133	228	12	ex:	ex	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	0-2(84)
 228-13	PKP133	228	13	fuori	fuori	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(84)
 228-14	PKP133	228	14	mano]	mano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=562.385	_	_	_	0-4(84)
-229-0	PKP132	229	0	[A:H	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=560.366	0x1	_	_	0-2(84)
-229-1	PKP132	229	1	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-2(84)
+229-0	PKP132	229	0	[A:H	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=560.366	0x1	_	_	0-2(84)
+229-1	PKP132	229	1	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-2(84)
 229-2	PKP132	229	2	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(84)
 229-3	PKP132	229	3	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(84)
 229-4	PKP132	229	4	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(84)
@@ -1658,7 +1658,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 273-2	PKP132	273	2	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	0-2(0)	_
 273-3	PKP132	273	3	tizio<)	tizio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	0-5(0)	_
 273-4	PKP132	273	4	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-273-5	PKP132	273	5	SO:	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	1x1	_	_	_
+273-5	PKP132	273	5	SO:	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	1x1	_	_	_
 273-6	PKP132	273	6	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 273-7	PKP132	273	7	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 273-8	PKP132	273	8	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1867,10 +1867,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 315-6	PKP133	315	6	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-1(0)	_
 315-7	PKP133	315	7	fichi	fichi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-5(0)	_
 315-8	PKP133	315	8	so~)	so~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=770.101	_	_	0-3(0)	_
-316-0	PKP132	316	0	[NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=769.486	_	_	_	0-2(109)
-316-1	PKP132	316	1	È	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-1(109)
-316-2	PKP132	316	2	UG]UA~	ugua~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=high	_	_	_	_	0-2(109)
-316-3	PKP132	316	3	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=771.12	_	_	_	_
+316-0	PKP132	316	0	[NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=769.486	_	_	_	0-2(109)
+316-1	PKP132	316	1	È	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-1(109)
+316-2	PKP132	316	2	UG]UA~	ugua~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes|Volume=High	_	_	_	_	0-2(109)
+316-3	PKP132	316	3	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=771.12	_	_	_	_
 317-0	PKP132	317	0	è:	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=771.703	0x1	_	_	_
 317-1	PKP132	317	1	quella	quella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 317-2	PKP132	317	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1912,7 +1912,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 321-10	PKP125	321	10	piante	piante	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 321-11	PKP125	321	11	grasse	grasse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=789.956	_	_	_	_
 322-0	PKP132	322	0	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=790.36	_	_	_	_
-322-1	PKP132	322	1	FO:to	foto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=791.225	1x1	_	_	_
+322-1	PKP132	322	1	FO:to	foto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=791.225	1x1	_	_	_
 323-0	PKP125	323	0	a:h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=791.262	0x1	_	_	_
 323-1	PKP125	323	1	[la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(111)
 323-2	PKP125	323	2	fo:to]	foto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=792.309	1x1	_	_	0-4(111)
@@ -1941,10 +1941,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 327-6	PKP132	327	6	telefono	telefono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 327-7	PKP132	327	7	qua	qua	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 327-8	PKP132	327	8	luca	luca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=802.93	_	_	_	_
-328-0	PKP133	328	0	°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=803.435|End=803.858	_	_	_	_
+328-0	PKP133	328	0	°no°	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=803.435|End=803.858	_	_	_	_
 329-0	PKP132	329	0	no:?	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	Begin=804.616|End=805.455	1x1	_	_	_
 330-0	PKP132	330	0	volevo::	volevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=805.895|End=807.62	5x2	_	_	_
-331-0	PKP125	331	0	°xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=low|Syllables=3	Begin=808.15|End=809.103	_	_	_	_
+331-0	PKP125	331	0	°xxx°	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=3	Begin=808.15|End=809.103	_	_	_	_
 332-0	PKP132	332	0	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=810.506	_	_	_	_
 332-1	PKP132	332	1	devi	devi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 332-2	PKP132	332	2	fare?	fare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	_	_	_	_	_
@@ -2283,7 +2283,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 388-0	PKP132	388	0	[po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=972.188	_	_	_	0-3(120)
 388-1	PKP132	388	1	fece	fece	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-4(120)
 388-2	PKP132	388	2	(ermane)]	ermane	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-6(0)	0-6(120)
-388-3	PKP132	388	3	NO:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	1x1	_	_	_
+388-3	PKP132	388	3	NO:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	1x1	_	_	_
 388-4	PKP132	388	4	a:h	ah	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	0x1	_	_	_
 388-5	PKP132	388	5	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 388-6	PKP132	388	6	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
@@ -2308,7 +2308,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 391-4	PKP132	391	4	fra	fra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 391-5	PKP132	391	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 391-6	PKP132	391	6	camer~	camer~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
-391-7	PKP132	391	7	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=980.845	_	_	_	_
+391-7	PKP132	391	7	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=980.845	_	_	_	_
 392-0	PKP132	392	0	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=981.106	_	_	_	_
 392-1	PKP132	392	1	son~	son~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 392-2	PKP132	392	2	a~	a~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
@@ -2548,7 +2548,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 427-2	PKP125	427	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 427-3	PKP125	427	3	vacanza	vacanza	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 427-4	PKP125	427	4	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1093.255	_	_	_	_
-428-0	PKP132	428	0	NO:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1093.962	1x1	_	_	_
+428-0	PKP132	428	0	NO:	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1093.962	1x1	_	_	_
 428-1	PKP132	428	1	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 428-2	PKP132	428	2	faccio	faccio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 428-3	PKP132	428	3	colazione	colazione	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2559,9 +2559,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 429-1	PKP132	429	1	forse	forse	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 429-2	PKP132	429	2	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 429-3	PKP132	429	3	fumavo	fumavo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1098.507	_	_	_	_
-430-0	PKP132	430	0	°volevo	volevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1098.83	_	_	_	_
-430-1	PKP132	430	1	[(o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	0-1(0)	0-1(126)
-430-2	PKP132	430	2	cafè)]°	cafè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1099.827	_	_	0-4(0)	0-4(126)
+430-0	PKP132	430	0	°volevo	volevo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1098.83	_	_	_	_
+430-1	PKP132	430	1	[(o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	0-1(0)	0-1(126)
+430-2	PKP132	430	2	cafè)]°	cafè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1099.827	_	_	0-4(0)	0-4(126)
 431-0	PKP125	431	0	[quan]do	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1099.43	_	_	_	0-4(126)
 431-1	PKP125	431	1	fumi	fumi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 431-2	PKP125	431	2	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1100.614	_	_	_	_
@@ -2582,7 +2582,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 435-0	PKP132	435	0	verso	verso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1106.918	_	_	_	_
 435-1	PKP132	435	1	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 435-2	PKP132	435	2	cinque	cinque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-435-3	PKP132	435	3	anDAvo	andavo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+435-3	PKP132	435	3	anDAvo	andavo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 435-4	PKP132	435	4	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 435-5	PKP132	435	5	camera	camera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 435-6	PKP132	435	6	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2690,7 +2690,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 452-10	PKP132	452	10	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 452-11	PKP132	452	11	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 452-12	PKP132	452	12	san	san	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-452-13	PKP132	452	13	genNAro	gennaro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+452-13	PKP132	452	13	genNAro	gennaro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 452-14	PKP132	452	14	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 452-15	PKP132	452	15	diciannove	diciannove	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 452-16	PKP132	452	16	gennaio	gennaio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2733,7 +2733,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 457-7	PKP125	457	7	bagno	bagno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 457-8	PKP125	457	8	[eh]	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1178.0	_	_	_	0-2(130)
 458-0	PKP132	458	0	# [il]	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1177.697	_	_	_	0-2(130)
-458-1	PKP132	458	1	BAgno	bagno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	_	_	_	_
+458-1	PKP132	458	1	BAgno	bagno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	_	_	_	_	_
 458-2	PKP132	458	2	ricett	ricett	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 458-3	PKP132	458	3	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 458-4	PKP132	458	4	vuless	vuless	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
@@ -2786,12 +2786,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 466-8	PKP132	466	8	chiudono	chiudono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 466-9	PKP132	466	9	fine	fine	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 466-10	PKP132	466	10	ottobre	ottobre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1201.456	_	_	_	_
-467-0	PKP132	467	0	POI	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1202.642|End=1203.232	_	_	_	_
+467-0	PKP132	467	0	POI	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1202.642|End=1203.232	_	_	_	_
 468-0	PKP132	468	0	a:	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1203.597	0x1	_	_	_
 468-1	PKP132	468	1	dicembre	dicembre	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 468-2	PKP132	468	2	vanno	vanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 468-3	PKP132	468	3	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-468-4	PKP132	468	4	vaCANza	vacanza	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=1205.58	_	_	_	_
+468-4	PKP132	468	4	vaCANza	vacanza	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=1205.58	_	_	_	_
 469-0	PKP132	469	0	vanno:	vanno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1205.918	4x1	_	_	_
 469-1	PKP132	469	1	fuori:	fuori	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1208.0	4x1	_	_	_
 470-0	PKP132	470	0	>ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1210.43	_	Fast=0-2(0)	_	_
@@ -2907,7 +2907,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 493-3	PKP125	493	3	soldi	soldi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 493-4	PKP125	493	4	dell'	dell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 493-5	PKP125	493	5	eden?	eden	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1270.499	_	_	_	_
-494-0	PKP132	494	0	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1271.28|End=1271.617	_	_	_	_
+494-0	PKP132	494	0	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1271.28|End=1271.617	_	_	_	_
 495-0	PKP132	495	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1271.978	_	_	_	_
 495-1	PKP132	495	1	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 495-2	PKP132	495	2	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2966,7 +2966,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 504-1	PKP132	504	1	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 504-2	PKP132	504	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 504-3	PKP132	504	3	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-504-4	PKP132	504	4	alBErgo	albergo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+504-4	PKP132	504	4	alBErgo	albergo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 504-5	PKP132	504	5	super	super	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 504-6	PKP132	504	6	alb~	alb~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	_
 504-7	PKP132	504	7	super	super	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3070,7 +3070,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 514-5	PKP125	514	5	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(1)
 514-6	PKP125	514	6	piscina	piscina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(1)
 514-7	PKP125	514	7	no]?	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1339.243	_	_	_	0-2(1)
-515-0	PKP132	515	0	[(eVEnti)	eventi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1338.051	_	_	0-6(0)	0-6(1)
+515-0	PKP132	515	0	[(eVEnti)	eventi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1338.051	_	_	0-6(0)	0-6(1)
 515-1	PKP132	515	1	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(1)
 515-2	PKP132	515	2	pisci]:na	piscina	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1339.886	4x1	_	_	0-5(1)
 516-0	PKP132	516	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1340.103	_	_	_	_
@@ -3098,7 +3098,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 517-9	PKP132	517	9	dalla	dalla	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 517-10	PKP132	517	10	lucianese	lucianese	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 517-11	PKP132	517	11	no?	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1349.97	_	_	_	_
-518-0	PKP125	518	0	°mh°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1350.074|End=1350.434	_	_	_	_
+518-0	PKP125	518	0	°mh°	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1350.074|End=1350.434	_	_	_	_
 519-0	PKP132	519	0	veniva	veniva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1350.52	_	_	_	_
 519-1	PKP132	519	1	gente	gente	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1352.149	_	_	_	_
 520-0	PKP132	520	0	diceva	diceva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1352.97	_	_	_	_
@@ -3292,7 +3292,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 562-1	PKP125	562	1	cinque	cinque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 562-2	PKP125	562	2	minu~	minu~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=1463.537	_	_	_	_
 563-0	PKP132	563	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1463.565|End=1463.969	_	_	_	_
-564-0	PKP132	564	0	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1464.747	_	_	_	_
+564-0	PKP132	564	0	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1464.747	_	_	_	_
 564-1	PKP132	564	1	uscivamo	uscivamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 564-2	PKP132	564	2	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 564-3	PKP132	564	3	sera	sera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3331,11 +3331,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 565-18	PKP132	565	18	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 565-19	PKP132	565	19	vedeva	vedeva	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 565-20	PKP132	565	20	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-565-21	PKP132	565	21	MAre	mare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=1478.877	_	_	_	_
+565-21	PKP132	565	21	MAre	mare	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=1478.877	_	_	_	_
 566-0	PKP132	566	0	bello	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1479.483	_	_	_	_
 566-1	PKP132	566	1	tranquillo	tranquillo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 566-2	PKP132	566	2	(u)na	una	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-1(0)	_
-566-3	PKP132	566	3	tranquilliTÀ	tranquillità	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=1481.7	_	_	_	_
+566-3	PKP132	566	3	tranquilliTÀ	tranquillità	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=1481.7	_	_	_	_
 567-0	PKP125	567	0	mh	mh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1481.811|End=1482.172	_	_	_	_
 568-0	PKP132	568	0	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1482.701	_	_	_	_
 568-1	PKP132	568	1	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3404,7 +3404,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 578-1	PKP132	578	1	fatto	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 578-2	PKP132	578	2	amicizia	amicizia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 578-3	PKP132	578	3	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-578-4	PKP132	578	4	LOro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=1514.237	_	_	_	_
+578-4	PKP132	578	4	LOro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=1514.237	_	_	_	_
 579-0	PKP132	579	0	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1515.051	_	_	_	_
 579-1	PKP132	579	1	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 579-2	PKP132	579	2	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3475,7 +3475,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 588-11	PKP132	588	11	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 588-12	PKP132	588	12	vuole	vuole	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 588-13	PKP132	588	13	uno	uno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-588-14	PKP132	588	14	solTAnto	soltanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+588-14	PKP132	588	14	solTAnto	soltanto	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 588-15	PKP132	588	15	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 588-16	PKP132	588	16	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 588-17	PKP132	588	17	pre[notazioni]	prenotazioni	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1549.04	_	_	_	2-12(18)
@@ -3490,7 +3490,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 590-3	PKP132	590	3	prima	prima	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 590-4	PKP132	590	4	aveva	aveva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 590-5	PKP132	590	5	ua	ua	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
-590-6	PKP132	590	6	raGAzza	ragazza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	_	_	_	_
+590-6	PKP132	590	6	raGAzza	ragazza	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	_	_	_	_	_
 590-7	PKP132	590	7	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 590-8	PKP132	590	8	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 590-9	PKP132	590	9	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
@@ -3512,7 +3512,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 591-12	PKP132	591	12	prendeva	prendeva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 591-13	PKP132	591	13	bene	bene	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 591-14	PKP132	591	14	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
-591-15	PKP132	591	15	prenotaZIOni	prenotazioni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	End=1558.682	_	_	_	_
+591-15	PKP132	591	15	prenotaZIOni	prenotazioni	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	End=1558.682	_	_	_	_
 592-0	PKP132	592	0	# tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1559.016	_	_	_	_
 592-1	PKP132	592	1	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 592-2	PKP132	592	2	(i:va)	iva	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1560.054	0x1	_	0-3(0)	_
@@ -3557,7 +3557,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 596-3	PKP132	596	3	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(21)
 596-4	PKP132	596	4	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(21)
 596-5	PKP132	596	5	ragazzo	ragazzo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(21)
-596-6	PKP132	596	6	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-2(21)
+596-6	PKP132	596	6	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-2(21)
 596-7	PKP132	596	7	nisciun~	nisciun~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	_	_	_	_	0-8(21)
 596-8	PKP132	596	8	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(21)
 596-9	PKP132	596	9	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(21)
@@ -3675,9 +3675,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 615-3	PKP132	615	3	lasciavano	lasciavano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 615-4	PKP132	615	4	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 615-5	PKP132	615	5	coupon	coupon	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-615-6	PKP132	615	6	NO?	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=high	End=1630.848	_	_	_	_
+615-6	PKP132	615	6	NO?	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=High	End=1630.848	_	_	_	_
 616-0	PKP132	616	0	si	si	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1632.175	_	_	_	_
-616-1	PKP132	616	1	compiLAva	compilava	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+616-1	PKP132	616	1	compiLAva	compilava	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 616-2	PKP132	616	2	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 616-3	PKP132	616	3	loro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 616-4	PKP132	616	4	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3796,11 +3796,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 633-2	PKP132	633	2	hai	hai	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 633-3	PKP132	633	3	raggione	raggione	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1682.463	_	_	_	_
 634-0	PKP132	634	0	# ricett	ricett	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1683.281	_	_	_	_
-634-1	PKP132	634	1	PERÒ:	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	End=1684.026	3x1	_	_	_
+634-1	PKP132	634	1	PERÒ:	però	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	End=1684.026	3x1	_	_	_
 635-0	PKP132	635	0	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1684.733	_	_	_	_
-635-1	PKP132	635	1	BEllo	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+635-1	PKP132	635	1	BEllo	bello	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 635-2	PKP132	635	2	che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-635-3	PKP132	635	3	maGAri:	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	5x1	_	_	_
+635-3	PKP132	635	3	maGAri:	magari	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	5x1	_	_	_
 635-4	PKP132	635	4	tu	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 635-5	PKP132	635	5	resti	resti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 635-6	PKP132	635	6	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -3822,7 +3822,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 636-8	PKP125	636	8	marito	marito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 636-9	PKP125	636	9	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 636-10	PKP125	636	10	sì	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1690.85	_	_	_	_
-637-0	PKP132	637	0	# NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	Begin=1690.87	_	_	_	_
+637-0	PKP132	637	0	# NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	Begin=1690.87	_	_	_	_
 637-1	PKP132	637	1	ricett	ricett	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 637-2	PKP132	637	2	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 637-3	PKP132	637	3	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
@@ -3902,9 +3902,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 646-17	PKP132	646	17	anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 646-18	PKP132	646	18	fuori	fuori	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1720.52	_	_	_	_
 647-0	PKP132	647	0	e:hm:	ehm	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1721.134	0x1,2x1	_	_	_
-647-1	PKP132	647	1	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+647-1	PKP132	647	1	NO	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 647-2	PKP132	647	2	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-647-3	PKP132	647	3	CAmera	camera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+647-3	PKP132	647	3	CAmera	camera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 647-4	PKP132	647	4	nel	nel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 647-5	PKP132	647	5	senso	senso	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 647-6	PKP132	647	6	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4007,9 +4007,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 664-8	PKP125	664	8	quando	quando	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 664-9	PKP125	664	9	sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 664-10	PKP125	664	10	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-664-11	PKP125	664	11	so[°la°]	sola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	End=1764.7	_	_	_	2-4(50)
+664-11	PKP125	664	11	so[°la°]	sola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	End=1764.7	_	_	_	2-4(50)
 665-0	PKP132	665	0	[er]a	era	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1764.549	_	_	_	0-2(50)
-665-1	PKP132	665	1	sigiLLAta?	sigillata	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=high	End=1765.8	_	_	_	_
+665-1	PKP132	665	1	sigiLLAta?	sigillata	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising|Volume=High	End=1765.8	_	_	_	_
 666-0	PKP125	666	0	sì:	sì	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1766.049	1x1	_	_	_
 666-1	PKP125	666	1	chiusa	chiusa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1767.167	_	_	_	_
 667-0	PKP132	667	0	(buono)	buono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1767.828	_	_	0-5(0)	_
@@ -4051,7 +4051,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 677-4	PKP132	677	4	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 677-5	PKP132	677	5	bocca	bocca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1809.169	_	_	_	_
 678-0	PKP125	678	0	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1809.486|End=1809.882	_	_	_	_
-679-0	PKP125	679	0	inFAtti	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1810.924	_	_	_	_
+679-0	PKP125	679	0	inFAtti	infatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1810.924	_	_	_	_
 679-1	PKP125	679	1	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 679-2	PKP125	679	2	(te)	te	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	_
 679-3	PKP125	679	3	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
@@ -4115,10 +4115,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 692-3	PKP125	692	3	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 692-4	PKP125	692	4	rimasto	rimasto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 692-5	PKP125	692	5	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-692-6	PKP125	692	6	centroTA:vola	centrotavola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	7x1	_	_	_
+692-6	PKP125	692	6	centroTA:vola	centrotavola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	7x1	_	_	_
 692-7	PKP125	692	7	[qualche:]	qualche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1860.95	6x1	_	_	0-7(58)
 693-0	PKP132	693	0	[u	u	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1860.303	_	_	_	0-1(58)
-693-1	PKP132	693	1	centroTA:]vola	centrotavola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	7x1	_	_	0-8(58)
+693-1	PKP132	693	1	centroTA:]vola	centrotavola	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	7x1	_	_	0-8(58)
 693-2	PKP132	693	2	però	però	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 693-3	PKP132	693	3	sta	sta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 693-4	PKP132	693	4	proprio	proprio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4137,7 +4137,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 696-1	PKP125	696	1	tavolo	tavolo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 696-2	PKP125	696	2	mai	mai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 696-3	PKP125	696	3	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1871.05	_	_	_	_
-697-0	PKP125	697	0	°effettivamente°	effettivamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1871.329|End=1872.172	_	_	_	_
+697-0	PKP125	697	0	°effettivamente°	effettivamente	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1871.329|End=1872.172	_	_	_	_
 698-0	PKP125	698	0	mamma	mamma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1877.09	_	_	_	_
 698-1	PKP125	698	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 698-2	PKP125	698	2	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4151,9 +4151,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 699-5	PKP125	699	5	avuto	avuto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-5(0)	_	_
 699-6	PKP125	699	6	tempo<?	tempo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	_	_	Fast=0-5(0)	_	_
 699-7	PKP125	699	7	((inspira))	((inspira))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	_	_	_	_	_
-699-8	PKP125	699	8	TRA	tra	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
-699-9	PKP125	699	9	L'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=high	_	_	_	_	_
-699-10	PKP125	699	10	ALtro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+699-8	PKP125	699	8	TRA	tra	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
+699-9	PKP125	699	9	L'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No|Volume=High	_	_	_	_	_
+699-10	PKP125	699	10	ALtro	altro	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 699-11	PKP125	699	11	tipo	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1881.253	_	_	_	_
 700-0	PKP125	700	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1882.775	_	_	_	_
 700-1	PKP125	700	1	stefano	stefano	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4161,7 +4161,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 700-3	PKP125	700	3	te	te	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 700-4	PKP125	700	4	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 700-5	PKP125	700	5	lo:	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
-700-6	PKP125	700	6	FA	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+700-6	PKP125	700	6	FA	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 700-7	PKP125	700	7	questo	questo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 700-8	PKP125	700	8	test	test	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 700-9	PKP125	700	9	sierologico	sierologico	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4173,7 +4173,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 700-15	PKP125	700	15	soldi	soldi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 700-16	PKP125	700	16	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 700-17	PKP125	700	17	farlo?	farlo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1888.271	_	_	_	_
-701-0	PKP132	701	0	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	Begin=1888.301	_	_	_	_
+701-0	PKP132	701	0	EH	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	Begin=1888.301	_	_	_	_
 701-1	PKP132	701	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 701-2	PKP132	701	2	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 701-3	PKP132	701	3	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4235,7 +4235,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 710-7	PKP125	710	7	loro	loro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 710-8	PKP125	710	8	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 710-9	PKP125	710	9	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-710-10	PKP125	710	10	FAcciano	facciano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+710-10	PKP125	710	10	FAcciano	facciano	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 710-11	PKP125	710	11	o	o	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 710-12	PKP125	710	12	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 710-13	PKP125	710	13	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4288,7 +4288,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 717-6	PKP125	717	6	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 717-7	PKP125	717	7	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 717-8	PKP125	717	8	anda[to	andato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	3-6(6)
-717-9	PKP125	717	9	LÀ	là	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	0-2(6)
+717-9	PKP125	717	9	LÀ	là	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	0-2(6)
 717-10	PKP125	717	10	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(6)
 717-11	PKP125	717	11	n~]	n~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=1936.373	_	_	_	0-2(6)
 718-0	PKP132	718	0	[(mo	mo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1935.467	_	_	0-2(0)	0-2(6)
@@ -4304,7 +4304,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 719-5	PKP125	719	5	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 719-6	PKP125	719	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 719-7	PKP125	719	7	mattina	mattina	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
-719-8	PKP125	719	8	marCElla	marcella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=high	_	_	_	_	_
+719-8	PKP125	719	8	marCElla	marcella	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	_	_	_	_	_
 719-9	PKP125	719	9	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 719-10	PKP125	719	10	va	va	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 719-11	PKP125	719	11	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
@@ -4334,15 +4334,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 724-5	PKP132	724	5	vacanze	vacanze	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 724-6	PKP132	724	6	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 724-7	PKP132	724	7	finite	finite	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1952.838	_	_	_	_
-725-0	PKP125	725	0	°anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	Begin=1952.975	_	_	_	_
-725-1	PKP125	725	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-725-2	PKP125	725	2	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-725-3	PKP125	725	3	ancora	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
-725-4	PKP125	725	4	caldo°	caldo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=low	_	_	_	_	_
+725-0	PKP125	725	0	°anche	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	Begin=1952.975	_	_	_	_
+725-1	PKP125	725	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+725-2	PKP125	725	2	fa	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+725-3	PKP125	725	3	ancora	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+725-4	PKP125	725	4	caldo°	caldo	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 725-5	PKP125	725	5	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 725-6	PKP125	725	6	è	è	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 725-7	PKP125	725	7	un'	un'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
-725-8	PKP125	725	8	onDAta	ondata	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+725-8	PKP125	725	8	onDAta	ondata	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 725-9	PKP125	725	9	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 725-10	PKP125	725	10	caldo	caldo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 725-11	PKP125	725	11	su	su	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -4357,7 +4357,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 726-3	PKP132	726	3	eh	eh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1957.76	_	_	_	_
 727-0	PKP132	727	0	ma:	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1958.091	1x1	_	_	_
 727-1	PKP132	727	1	mo:	mo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	1x1	_	_	_
-727-2	PKP132	727	2	anCOra	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	_	_	_	_	_
+727-2	PKP132	727	2	anCOra	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	_	_	_	_	_
 727-3	PKP132	727	3	ancora	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 727-4	PKP132	727	4	ancora	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 727-5	PKP132	727	5	anche:	anche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	4x1	_	_	_
@@ -4431,7 +4431,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 735-0	PKP132	735	0	[ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1982.35	_	_	_	0-2(36)
 735-1	PKP132	735	1	po'	po'	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(36)
 735-2	PKP132	735	2	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(36)
-735-3	PKP132	735	3	SE:ra]	sera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=high	End=1983.847	1x1	_	_	0-4(36)
+735-3	PKP132	735	3	SE:ra]	sera	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=High	End=1983.847	1x1	_	_	0-4(36)
 736-0	PKP132	736	0	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1984.145	_	_	_	_
 736-1	PKP132	736	1	di	di	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 736-2	PKP132	736	2	sera	sera	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
