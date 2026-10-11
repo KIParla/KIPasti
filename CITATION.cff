@@ -17,8 +17,7 @@ identifiers:
   - description: "The concept DOI of the work"
     type: doi
     value: 10.60760/unibo/kipasti
-# TODO: set date-released to the release date of v2.0.0
-date-released: 2024-04-30
+date-released: 2026-10-11
 url: "https://github.com/KIParla/KIPasti"
 license: CC-BY-NC-SA-4.0
 references:
