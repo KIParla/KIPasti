@@ -1,5 +1,5 @@
 name: KIPasti
 title: KIPasti
-version: 'dev'
+version: '2.0.0'
 nav:
   - modules/ROOT/nav.adoc
