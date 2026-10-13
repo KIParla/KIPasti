@@ -144,3 +144,5 @@ PKP146	3-Technicians	M	KPN018	veneto	56-60	technical-vocational-diploma	italian
 PKP147	0-Students	F	KPC011	umbria	21-25	university-degree-ongoing	italian
 PKP148	0-Retired	M	KPC011	toscana	81-85	primary-school	italian
 PKP149	0-Retired	F	KPC011	toscana	76-80	primary-school	italian
+??	_	_	KPC007;KPN001;KPN002;KPN003;KPN005;KPN013;KPN016;KPN017;KPN023;KPS003;KPS011;KPS013	_	_	_	_
+environment	_	_	KPS007	_	_	_	_
