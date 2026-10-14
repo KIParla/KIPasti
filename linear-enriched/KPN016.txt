@@ -547,7 +547,7 @@ PKP061	m::h non è che:
 PKP057	sì sì sì
 PKP061	m:h,
 PKP057	no mamma s~
-PKP057	dopo > ((P)) cioè< è la scelta migliore anche perché
+PKP057	dopo (.) >cioè< è la scelta migliore anche perché
 PKP057	una cosa su cui io ho pensato:::
 PKP057	>insomma< da ieri, da quando m'han chiamato,
 PKP057	è che appunto con questi contratti qua,
