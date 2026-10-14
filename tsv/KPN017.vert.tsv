@@ -2139,9 +2139,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 338-0	PKP061	338	0	°xxxxxx	xxxxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=6	Begin=1148.571	_	_	_	_
 338-1	PKP061	338	1	tre	tre	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
 338-2	PKP061	338	2	giorni::	giorni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	5x2	_	_	_
-338-3	PKP061	338	3	poi	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
-338-4	PKP061	338	4	°	_	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
-338-5	PKP061	338	5	((bisbiglia))	((bisbiglia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1154.653	_	_	_	_
+338-3	PKP061	338	3	poi°	poi	_	_	_	_	_	linguistic	_	ContainsVariation=No	Volume=Low	_	_	_	_	_
+338-5	PKP061	338	4	((bisbiglia))	((bisbiglia))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	End=1154.653	_	_	_	_
 339-0	PKP057	339	0	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1159.618	_	_	_	_
 339-1	PKP057	339	1	sei	sei	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 339-2	PKP057	339	2	truccata	truccata	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

@@ -145,7 +145,7 @@ PKP144	# sì ah perché el tarocco tutto quanto ((ride)) el caffè ze napoetano 
 PKP009	mhmh,
 PKP030	# [ma per esem]pio >cioè nel senso< (.) le ha fatto una domanda a un certo punto su un fi[o: che (sta) tanto male]
 PKP144	# [se ti tol lì lì caffè no ti riesci a véder] niente perché no ze [napoetan °no°]
-PKP009	[°mh es]atto ° ((ride))
+PKP009	[°mh es]atto° ((ride))
 PKP144	((RIDE))
 PKP009	esa:tto
 PKP030	[°e]h°
