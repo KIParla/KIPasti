@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-02T12:54:29+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2026-10-14T15:26:30+02:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<MEDIA_DESCRIPTOR MEDIA_URL="KPC009.mp3" RELATIVE_MEDIA_URL="KPC009.mp3" MIME_TYPE="audio/mpeg" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
@@ -7838,7 +7838,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts444" TIME_SLOT_REF2="ts445">
-				<ANNOTATION_VALUE>cioè è passato dall'ipsia (.) a ragio[neria ° ((P)) cioè° da:i].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>cioè è passato dall'ipsia (.) a ragio[neria ° (.) cioè° da:i].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -8423,7 +8423,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a575" TIME_SLOT_REF1="ts1148" TIME_SLOT_REF2="ts1149">
-				<ANNOTATION_VALUE>no (.) comu:nque &gt; ((P)) che volevo di'&gt;?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no (.) comu:nque &gt; (.) che volevo di'&gt;?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -9828,12 +9828,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1266" TIME_SLOT_REF1="ts2530" TIME_SLOT_REF2="ts2531">
-				<ANNOTATION_VALUE>[cioè. (.) metti che te [in]teressa u:no non el becchi ma:i. perché: ((ride)) &gt; ((P)) cioè&lt;].</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>[cioè. (.) metti che te [in]teressa u:no non el becchi ma:i. perché: ((ride)) &gt; (.) cioè&lt;].</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1268" TIME_SLOT_REF1="ts2534" TIME_SLOT_REF2="ts2535">
-				<ANNOTATION_VALUE>no: è troppo dispersivo &gt;non è che me piace ta:~&lt; (.) [&gt;cioè: &lt; ((P)) preferisco el gr]een: (.) ma che perico[lo:so]?</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no: è troppo dispersivo &gt;non è che me piace ta:~&lt; (.) [&gt;cioè: &lt; (.) preferisco el gr]een: (.) ma che perico[lo:so]?</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -10743,7 +10743,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a1709" TIME_SLOT_REF1="ts3416" TIME_SLOT_REF2="ts3417">
-				<ANNOTATION_VALUE>((mangia)) ° ma non (no)°</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>((mangia)) °ma non (no)°</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -12185,7 +12185,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a817" TIME_SLOT_REF1="ts1632" TIME_SLOT_REF2="ts1633">
-				<ANNOTATION_VALUE>no e:h (no)n me sarebbe piaciuta perché c'era la crema de carcio:fi °quindi (no)n l'avrei mangia:ta°. ° ((P)) però°,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>no e:h (no)n me sarebbe piaciuta perché c'era la crema de carcio:fi °quindi (no)n l'avrei mangia:ta°. ° (.) però°,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
