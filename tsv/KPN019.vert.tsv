@@ -1285,8 +1285,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 170-16	PKP009	170	16	zia	zia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(68)
 170-17	PKP009	170	17	antonea	antonea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-7(68)
 170-23	PKP009	170	18	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	X(68)
-170-18	PKP009	170	19	°	_	_	_	_	_	_	error	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
-170-20	PKP009	170	20	ea	ea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	0-2(68)
+170-18	PKP009	170	19	°ea	ea	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(68)
 170-21	PKP009	170	21	zera	zera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=Low	_	_	_	_	0-4(68)
 170-22	PKP009	170	22	megera.°]	megera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Falling|Volume=Low	End=482.8	_	_	_	0-6(68)
 171-0	PKP144	171	0	# [E::H	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Volume=High	Begin=475.72	0x2	_	_	0-2(68)
