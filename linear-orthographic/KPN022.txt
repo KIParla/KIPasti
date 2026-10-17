@@ -118,7 +118,7 @@ PKP075	beh dai
 PKP075	è stati anche bravi però dai
 PKP075	na cosa diversa
 PKP075	e loro dove stavano
-PKP075	vi aspettavano in piassa
+PKP075	vi aspettavano in #piassa
 PKP076	giravano con la macchina per controllarci
 PKP070	pff
 PKP076	andavano in giro per conscio
@@ -343,9 +343,9 @@ PKP077	eh anche da là vai su dritto a un certo punto c'è l'incrocio c'è il un
 PKP075	e giri a destra
 PKP077	la strada che giri a sinistra
 PKP075	sinistra o destra
-PKP077	sinistra par qua
+PKP077	sinistra #par qua
 PKP077	# par la a le a sinistra
-PKP075	mh pensavo a destra mi andando su
+PKP075	mh pensavo a destra #mi andando su
 PKP077	# no girar a destra te va verso
 PKP076	no a sinistra
 PKP077	pino
@@ -479,7 +479,7 @@ PKP070	immaginati gli altri si saranno persi loro lì
 PKP070	e noi invece
 PKP070	primi
 PKP070	abbiamo anche la foto
-PKP075	quella volta che avevate il calsettoni
+PKP075	quella volta che avevate il #calsettoni
 PKP070	no penso che sia stato per la
 PKP070	campestre
 PKP076	eh quella era s~

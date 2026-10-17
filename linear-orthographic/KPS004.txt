@@ -624,7 +624,7 @@ PKP034	non a casa mia
 PKP033	ah
 PKP034	mhmh mh
 PKP035	funziona xx
-PKP035	il brustulaturu si chiama
+PKP035	il #brustulaturu si chiama
 PKP034	ah quello per abbrustolirlo
 PKP035	per abbrustolirlo
 PKP034	non per cucinarlo
