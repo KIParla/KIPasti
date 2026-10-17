@@ -614,7 +614,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 100-5	PKP004	100	5	allenamento::	allenamento	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	10x2	_	_	_
 100-6	PKP004	100	6	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 100-7	PKP004	100	7	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(16)
-100-8	PKP004	100	8	allenamento]	allenamento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-10(16)
+100-8	PKP004	100	8	allenamento]	allenamento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-11(16)
 100-9	PKP004	100	9	importante	importante	_	_	_	_	_	linguistic	_	_	_	End=264.43	_	_	_	_
 101-0	PKP001	101	0	[per	per	_	_	_	_	_	linguistic	_	_	_	Begin=262.81	_	_	_	0-3(16)
 101-1	PKP001	101	1	bene]	bene	_	_	_	_	_	linguistic	_	_	_	End=263.61	_	_	_	0-4(16)
@@ -1495,7 +1495,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 227-5	PKP004	227	5	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(231)
 227-6	PKP004	227	6	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(231)
 227-7	PKP004	227	7	quant'	quant'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-6(231)
-227-8	PKP004	227	8	è]?	è	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=610.96	_	_	_	_
+227-8	PKP004	227	8	è]?	è	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=610.96	_	_	_	0-1(231)
 228-0	PKP001	228	0	>quello<	quello	_	_	_	_	_	linguistic	_	_	_	Begin=611.613	_	Fast=0-6(0)	_	_
 228-1	PKP001	228	1	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 228-2	PKP001	228	2	rimepirlo::	rimepirlo	_	_	_	_	_	linguistic	_	_	_	_	8x2	_	_	_
@@ -2070,9 +2070,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 288-5	PKP001	288	5	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 288-6	PKP001	288	6	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 288-7	PKP001	288	7	foto	foto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-288-8	PKP001	288	8	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	4-5(74)
+288-8	PKP001	288	8	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 288-9	PKP001	288	9	[estate	estate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(74)
-288-10	PKP001	288	10	scorsa],	scorsa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=817.01	_	_	_	0-5(74)
+288-10	PKP001	288	10	scorsa],	scorsa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=817.01	_	_	_	0-6(74)
 289-0	PKP004	289	0	[°ma	ma	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=815.97	_	_	_	0-2(74)
 289-1	PKP004	289	1	tanto°]	tanto	_	_	_	_	_	linguistic	_	_	Volume=Low	End=816.852	_	_	_	0-5(74)
 290-0	PKP004	290	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=817.23	_	_	_	_
@@ -2088,7 +2088,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 290-10	PKP004	290	10	>che	che	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
 290-11	PKP004	290	11	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	0-2(75)
 290-12	PKP004	290	12	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	0-7(75)
-290-13	PKP004	290	13	visto]<	visto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	0-4(75)
+290-13	PKP004	290	13	visto]<	visto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	0-5(75)
 290-14	PKP004	290	14	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 290-15	PKP004	290	15	natale	natale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 290-16	PKP004	290	16	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2097,7 +2097,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 290-19	PKP004	290	19	[ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(76)
 290-20	PKP004	290	20	proprio	proprio	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-7(76)
 290-21	PKP004	290	21	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(76)
-290-22	PKP004	290	22	tan~]	tan~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=824.6	_	_	_	0-3(76)
+290-22	PKP004	290	22	tan~]	tan~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=824.6	_	_	_	0-4(76)
 291-0	PKP001	291	0	[mh],	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=819.901|End=820.362	_	_	_	0-2(75)
 292-0	PKP001	292	0	[PERCHE'	perche'	_	_	_	_	_	linguistic	_	_	Truncated=Yes|Volume=High	Begin=822.57	_	_	_	0-7(76)
 292-1	PKP001	292	1	A	a	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	0-1(76)
@@ -2340,7 +2340,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 318-1	PKP001	318	1	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(86)
 318-2	PKP001	318	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(86)
 318-3	PKP001	318	3	°c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No|Volume=Low	_	_	_	_	0-2(86)
-318-4	PKP001	318	4	è°]	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(86)
+318-4	PKP001	318	4	è°]	è	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	0-1(86)
 318-5	PKP001	318	5	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 318-6	PKP001	318	6	sarà	sarà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 318-7	PKP001	318	7	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2409,12 +2409,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 321-12	PKP003	321	12	mano	mano	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-4(0)	_	_
 321-13	PKP003	321	13	[>se	se	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(1)	_	0-2(87)
 321-14	PKP003	321	14	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(1)	_	0-2(87)
-321-15	PKP003	321	15	è<	è	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-1(87)
+321-15	PKP003	321	15	è<	è	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	Fast=0-1(1)	_	0-1(87)
 321-16	PKP003	321	16	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(87)
 321-17	PKP003	321	17	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(87)
 321-18	PKP003	321	18	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(87)
 321-19	PKP003	321	19	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(87)
-321-20	PKP003	321	20	stesa]	stesa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(87)
+321-20	PKP003	321	20	stesa]	stesa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(87)
 321-21	PKP003	321	21	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 321-22	PKP003	321	22	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 321-23	PKP003	321	23	buono::	buono	_	_	_	_	_	linguistic	_	_	_	_	4x2	_	_	_

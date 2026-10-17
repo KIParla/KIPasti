@@ -28,7 +28,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 5-8	PKP148	5	8	olio	olio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 5-9	PKP148	5	9	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 5-10	PKP148	5	10	basta	basta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-5-11	PKP148	5	11	(pe[rò)]	però	_	_	_	_	_	linguistic	_	_	_	End=26.691	_	_	0-4(0)	1-4(1)
+5-11	PKP148	5	11	(pe[rò)]	però	_	_	_	_	_	linguistic	_	_	_	End=26.691	_	_	0-4(0)	2-4(1)
 6-0	PKP147	6	0	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=24.379	_	_	_	0-2(0)
 6-1	PKP147	6	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(0)
 6-2	PKP147	6	2	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(0)
@@ -192,7 +192,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 39-5	PKP148	39	5	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 39-6	PKP148	39	6	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 39-7	PKP148	39	7	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-39-8	PKP148	39	8	p[o'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(8)
+39-8	PKP148	39	8	p[o'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-3(8)
 39-9	PKP148	39	9	di]:	di	_	_	_	_	_	linguistic	_	_	_	End=94.658	1x1	_	_	0-2(8)
 40-0	PKP147	40	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=94.242|End=94.55	_	_	_	0-2(8)
 41-0	PKP147	41	0	vai	vai	_	_	_	_	_	linguistic	_	_	_	Begin=95.049	_	_	_	_
@@ -542,7 +542,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 118-1	PKP147	118	1	sicché::	sicché	_	_	_	_	_	linguistic	_	_	_	_	5x2	_	_	_
 118-2	PKP147	118	2	m'	m'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 118-3	PKP147	118	3	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-118-4	PKP147	118	4	raccon[tato]	raccontato	_	_	_	_	_	linguistic	_	_	_	End=235.105	_	_	_	5-10(32)
+118-4	PKP147	118	4	raccon[tato]	raccontato	_	_	_	_	_	linguistic	_	_	_	End=235.105	_	_	_	6-10(32)
 119-0	PKP148	119	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=234.702	_	_	_	0-2(32)
 119-1	PKP148	119	1	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(32)
 119-2	PKP148	119	2	suo]	suo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(32)
@@ -713,12 +713,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 155-4	PKP147	155	4	quel	quel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 155-5	PKP147	155	5	grasso,	grasso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 155-6	PKP147	155	6	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-155-7	PKP147	155	7	u[nto],	unto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-4(40)
+155-7	PKP147	155	7	u[nto],	unto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	1-4(40)
 155-8	PKP147	155	8	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 155-9	PKP147	155	9	m~	m~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 155-10	PKP147	155	10	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 155-11	PKP147	155	11	maiale,	maiale	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-155-12	PKP147	155	12	spe[ss]o,	spesso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	2-5(41)
+155-12	PKP147	155	12	spe[ss]o,	spesso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	3-5(41)
 155-13	PKP147	155	13	infatti	infatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 155-14	PKP147	155	14	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 155-15	PKP147	155	15	iniziato	iniziato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -822,7 +822,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 176-10	PKP148	176	10	gonfio,	gonfio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 176-11	PKP148	176	11	sarà	sarà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 176-12	PKP148	176	12	meglio	meglio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-176-13	PKP148	176	13	ch[e:]	che	_	_	_	_	_	linguistic	_	_	_	End=363.356	2x1	_	_	1-3(44)
+176-13	PKP148	176	13	ch[e:]	che	_	_	_	_	_	linguistic	_	_	_	End=363.356	2x1	_	_	2-3(44)
 177-0	PKP147	177	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=363.123|End=363.356	_	_	_	0-2(44)
 178-0	PKP148	178	0	lo	lo	_	_	_	_	_	linguistic	_	_	_	Begin=364.014	_	_	_	_
 178-1	PKP148	178	1	[teng]a	tenga	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(45)
@@ -937,7 +937,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 199-10	PKP148	199	10	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 199-11	PKP148	199	11	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 199-12	PKP148	199	12	butta	butta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-199-13	PKP148	199	13	v[ia]	via	_	_	_	_	_	linguistic	_	_	_	End=413.281	_	_	_	0-3(50)
+199-13	PKP148	199	13	v[ia]	via	_	_	_	_	_	linguistic	_	_	_	End=413.281	_	_	_	1-3(50)
 200-0	PKP147	200	0	[ma]	ma	_	_	_	_	_	linguistic	_	_	_	Begin=413.069	_	_	_	0-2(50)
 200-1	PKP147	200	1	scherzi?	scherzi	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=413.771	_	_	_	_
 201-0	PKP147	201	0	infatti	infatti	_	_	_	_	_	linguistic	_	_	_	Begin=416.181	_	_	_	_
@@ -1119,7 +1119,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 239-3	PKP148	239	3	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 239-4	PKP148	239	4	tutta	tutta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 239-5	PKP148	239	5	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-239-6	PKP148	239	6	fest[a	festa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-5(60)
+239-6	PKP148	239	6	fest[a	festa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(60)
 239-7	PKP148	239	7	e:]	e	_	_	_	_	_	linguistic	_	_	_	End=484.028	0x1	_	_	0-1(60)
 240-0	PKP147	240	0	[ah]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=481.858|End=482.164	_	_	_	0-2(59)
 241-0	PKP149	241	0	[la	la	_	_	_	_	_	linguistic	_	_	_	Begin=483.581	_	_	_	0-2(60)
@@ -1170,7 +1170,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 250-11	PKP148	250	11	ora?	ora	_	_	_	_	_	linguistic	_	_	Intonation=Rising|PauseAfter=Yes	_	_	_	_	_
 250-12	PKP148	250	12	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 250-13	PKP148	250	13	[di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(64)
-250-14	PKP148	250	14	chie]sa?	chiesa	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=496.748	_	_	_	0-2(64)
+250-14	PKP148	250	14	chie]sa?	chiesa	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=496.748	_	_	_	0-4(64)
 251-0	PKP147	251	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=496.177|End=496.407	0x1	_	_	0-2(64)
 252-0	PKP148	252	0	siamo	siamo	_	_	_	_	_	linguistic	_	_	_	Begin=497.346	_	_	_	_
 252-1	PKP148	252	1	andati	andati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1794,7 +1794,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 382-1	PKP147	382	1	s'	s'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 382-2	PKP147	382	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 382-3	PKP147	382	3	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-382-4	PKP147	382	4	and(i)amo	andiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-4(1)	_
+382-4	PKP147	382	4	and(i)amo	andiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	3-4(1)	_
 382-5	PKP147	382	5	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 382-6	PKP147	382	6	fa	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 382-7	PKP147	382	7	(i)n	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	_
@@ -1956,7 +1956,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 414-4	PKP147	414	4	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 414-5	PKP147	414	5	casa	casa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 414-6	PKP147	414	6	de	de	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-414-7	PKP147	414	7	mi(o)	mio	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-3(0)	_
+414-7	PKP147	414	7	mi(o)	mio	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-3(0)	_
 414-8	PKP147	414	8	babbo.	babbo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
 414-9	PKP147	414	9	eran	eran	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 414-10	PKP147	414	10	b(u)one	buone	_	_	_	_	_	linguistic	_	_	Reduced=Yes	End=800.864	_	_	_	_
@@ -2234,7 +2234,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 485-0	PKP149	485	0	quando	quando	_	_	_	_	_	linguistic	_	_	_	Begin=933.994	_	_	_	_
 485-1	PKP149	485	1	cambia	cambia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 485-2	PKP149	485	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-485-3	PKP149	485	3	ora[rio]	orario	_	_	_	_	_	linguistic	_	_	_	End=935.203	_	_	_	2-6(115)
+485-3	PKP149	485	3	ora[rio]	orario	_	_	_	_	_	linguistic	_	_	_	End=935.203	_	_	_	3-6(115)
 486-0	PKP147	486	0	[uno]	uno	_	_	_	_	_	linguistic	_	_	_	Begin=935.052	_	_	_	0-3(115)
 486-1	PKP147	486	1	(no)n	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
 486-2	PKP147	486	2	fa	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2251,7 +2251,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 486-13	PKP147	486	13	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 486-14	PKP147	486	14	pasqua	pasqua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 486-15	PKP147	486	15	st'	st'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-486-16	PKP147	486	16	an[no]	anno	_	_	_	_	_	linguistic	_	_	_	End=938.188	_	_	_	0-3(116)
+486-16	PKP147	486	16	an[no]	anno	_	_	_	_	_	linguistic	_	_	_	End=938.188	_	_	_	2-4(116)
 487-0	PKP149	487	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=938.01	_	_	_	0-2(116)
 487-1	PKP149	487	1	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 487-2	PKP149	487	2	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2744,7 +2744,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 605-4	PKP148	605	4	(no)n	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
 605-5	PKP148	605	5	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 605-6	PKP148	605	6	sa	sa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-605-7	PKP148	605	7	qua[nti]	quanti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-6(144)
+605-7	PKP148	605	7	qua[nti]	quanti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-6(144)
 605-8	PKP148	605	8	anni	anni	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 605-9	PKP148	605	9	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 605-10	PKP148	605	10	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2770,7 +2770,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 611-2	PKP148	611	2	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 611-3	PKP148	611	3	guanti,	guanti	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 611-4	PKP148	611	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-611-5	PKP148	611	5	a[veva]	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(145)
+611-5	PKP148	611	5	a[veva]	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(145)
 611-6	PKP148	611	6	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 611-7	PKP148	611	7	scarponi,	scarponi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 611-8	PKP148	611	8	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2784,7 +2784,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 613-5	PKP148	613	5	de	de	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 613-6	PKP148	613	6	dio	dio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 613-7	PKP148	613	7	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-613-8	PKP148	613	8	ri[cordo]	ricordo	_	_	_	_	_	linguistic	_	_	_	End=1155.988	_	_	_	1-7(146)
+613-8	PKP148	613	8	ri[cordo]	ricordo	_	_	_	_	_	linguistic	_	_	_	End=1155.988	_	_	_	2-7(146)
 614-0	PKP147	614	0	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1155.543	_	_	_	0-2(146)
 614-1	PKP147	614	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
 614-2	PKP147	614	2	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2816,7 +2816,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 620-6	PKP148	620	6	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 620-7	PKP148	620	7	tanto	tanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 620-8	PKP148	620	8	tempo	tempo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-620-9	PKP148	620	9	p[oi]	poi	_	_	_	_	_	linguistic	_	_	_	End=1164.417	_	_	_	0-3(150)
+620-9	PKP148	620	9	p[oi]	poi	_	_	_	_	_	linguistic	_	_	_	End=1164.417	_	_	_	1-3(150)
 621-0	PKP149	621	0	[data]	data	_	_	_	_	_	linguistic	_	_	_	Begin=1164.161	_	_	_	0-4(150)
 621-1	PKP149	621	1	via	via	_	_	_	_	_	linguistic	_	_	_	End=1164.824	_	_	_	_
 622-0	PKP148	622	0	e[ra	era	_	_	_	_	_	linguistic	_	_	_	Begin=1164.981	_	_	_	1-3(151)
@@ -2983,7 +2983,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 652-5	PKP148	652	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 652-6	PKP148	652	6	[tipo]	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(162)
 652-7	PKP148	652	7	borse,	borse	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-652-8	PKP148	652	8	ti[po:]	tipo	_	_	_	_	_	linguistic	_	_	_	End=1220.037	3x1	_	_	1-4(163)
+652-8	PKP148	652	8	ti[po:]	tipo	_	_	_	_	_	linguistic	_	_	_	End=1220.037	3x1	_	_	2-4(163)
 653-0	PKP147	653	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1218.167	_	_	_	0-2(162)
 653-1	PKP147	653	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(162)
 653-2	PKP147	653	2	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(162)
@@ -3040,10 +3040,10 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 668-8	PKP148	668	8	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 668-9	PKP148	668	9	aveva	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 668-10	PKP148	668	10	regalata	regalata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-668-11	PKP148	668	11	tu(a)	tua	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
+668-11	PKP148	668	11	tu(a)	tua	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-3(0)	_
 668-12	PKP148	668	12	mamma	mamma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 668-13	PKP148	668	13	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-668-14	PKP148	668	14	tu(a)	tua	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(1)	_
+668-14	PKP148	668	14	tu(a)	tua	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-3(1)	_
 668-15	PKP148	668	15	zia	zia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 668-16	PKP148	668	16	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 668-17	PKP148	668	17	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -3326,7 +3326,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 728-11	PKP148	728	11	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 728-12	PKP148	728	12	n'	n'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 728-13	PKP148	728	13	innamorai	innamorai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-728-14	PKP148	728	14	su[bito]	subito	_	_	_	_	_	linguistic	_	_	_	End=1354.633	_	_	_	1-6(183)
+728-14	PKP148	728	14	su[bito]	subito	_	_	_	_	_	linguistic	_	_	_	End=1354.633	_	_	_	2-6(183)
 729-0	PKP147	729	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1354.259|End=1354.636	0x1	_	_	0-2(183)
 730-0	PKP148	730	0	dopo	dopo	_	_	_	_	_	linguistic	_	_	_	Begin=1355.199	_	_	_	_
 730-1	PKP148	730	1	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3400,7 +3400,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 742-4	PKP147	742	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(185)
 742-5	PKP147	742	5	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(185)
 742-6	PKP147	742	6	comodo	comodo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(185)
-742-7	PKP147	742	7	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=1381.845	_	_	_	0-1(185)
+742-7	PKP147	742	7	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=1381.845	_	_	_	0-2(185)
 743-0	PKP147	743	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1384.154	_	_	_	_
 743-1	PKP147	743	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 743-2	PKP147	743	2	son	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3714,7 +3714,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 798-7	PKP148	798	7	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 798-8	PKP148	798	8	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 798-9	PKP148	798	9	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-798-10	PKP148	798	10	mi(a)	mia	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-3(0)	_
+798-10	PKP148	798	10	mi(a)	mia	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-3(0)	_
 798-11	PKP148	798	11	tracolla,	tracolla	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 798-12	PKP148	798	12	tengo	tengo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 798-13	PKP148	798	13	[tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(194)
@@ -4028,7 +4028,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 861-2	PKP147	861	2	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 861-3	PKP147	861	3	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 861-4	PKP147	861	4	presa	presa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-861-5	PKP147	861	5	du(e)	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-3(0)	_
+861-5	PKP147	861	5	du(e)	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-3(0)	_
 861-6	PKP147	861	6	volte	volte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 861-7	PKP147	861	7	nonna	nonna	_	_	_	_	_	linguistic	_	_	_	End=1631.602	_	_	_	_
 862-0	PKP148	862	0	allora	allora	_	_	_	_	_	linguistic	_	_	_	Begin=1631.659	_	_	_	_
@@ -4289,7 +4289,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 922-6	PKP147	922	6	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 922-7	PKP147	922	7	pesa	pesa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 922-8	PKP147	922	8	dopo.	dopo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
-922-9	PKP147	922	9	sal[i	sali	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-4(228)
+922-9	PKP147	922	9	sal[i	sali	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-4(228)
 922-10	PKP147	922	10	su]	su	_	_	_	_	_	linguistic	_	_	_	End=1714.558	_	_	_	0-2(228)
 923-0	PKP149	923	0	[eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1714.255	_	_	_	0-2(228)
 923-1	PKP149	923	1	eh]	eh	_	_	_	_	_	linguistic	_	_	_	End=1714.558	_	_	_	0-2(228)
@@ -5088,7 +5088,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1103-10	PKP148	1103	10	fondo	fondo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1103-11	PKP148	1103	11	[a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(275)
 1103-12	PKP148	1103	12	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-6(275)
-1103-13	PKP148	1103	13	a(cqua)]	acqua	_	_	_	_	_	linguistic	_	_	_	End=2034.432	_	_	0-4(0)	0-5(275)
+1103-13	PKP148	1103	13	a(cqua)]	acqua	_	_	_	_	_	linguistic	_	_	_	End=2034.432	_	_	1-5(0)	0-5(275)
 1104-0	PKP149	1104	0	[x]xxx[xxx]	xxxxxxx	_	_	_	_	_	unknown	_	_	Syllables=7	Begin=2034.099|End=2035.834	_	_	_	0-1(275),4-7(276)
 1105-0	PKP148	1105	0	[li	li	_	_	_	_	_	linguistic	_	_	_	Begin=2034.91	_	_	_	0-2(276)
 1105-1	PKP148	1105	1	tiri	tiri	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(276)
@@ -5130,7 +5130,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1109-2	PKP148	1109	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1109-3	PKP148	1109	3	qualche	qualche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1109-4	PKP148	1109	4	impurità,	impurità	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
-1109-5	PKP148	1109	5	qualco[sa,	qualcosa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	5-8(278)
+1109-5	PKP148	1109	5	qualco[sa,	qualcosa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	6-8(278)
 1109-6	PKP148	1109	6	(vedi)]	vedi	_	_	_	_	_	linguistic	_	_	_	End=2048.647	_	_	0-4(0)	0-4(278)
 1110-0	PKP147	1110	0	[qualcuno	qualcuno	_	_	_	_	_	linguistic	_	_	_	Begin=2048.0	_	_	_	0-8(278)
 1110-1	PKP147	1110	1	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(278)
@@ -5332,7 +5332,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1137-0	PKP149	1137	0	[c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2110.099	_	_	_	0-2(431)
 1137-1	PKP149	1137	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(431)
 1137-2	PKP149	1137	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(431)
-1137-3	PKP149	1137	3	impurità]	impurità	_	_	_	_	_	linguistic	_	_	_	End=2111.068	_	_	_	0-7(431)
+1137-3	PKP149	1137	3	impurità]	impurità	_	_	_	_	_	linguistic	_	_	_	End=2111.068	_	_	_	0-8(431)
 1138-0	PKP148	1138	0	[xxxxxx]	xxxxxx	_	_	_	_	_	unknown	_	_	Syllables=6	Begin=2110.642|End=2111.797	_	_	_	0-6(431)
 1139-0	PKP147	1139	0	capito	capito	_	_	_	_	_	linguistic	_	_	_	Begin=2112.624|End=2112.989	_	_	_	_
 1140-0	PKP148	1140	0	capito?	capito	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=2113.403|End=2113.867	_	_	_	_
@@ -5901,7 +5901,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1248-1	PKP149	1248	1	[affettava~	affettava~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-10(316)
 1248-2	PKP149	1248	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(316)
 1248-3	PKP149	1248	3	affettavo	affettavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(316)
-1248-4	PKP149	1248	4	io]	io	_	_	_	_	_	linguistic	_	_	_	End=2301.663	_	_	_	0-1(316)
+1248-4	PKP149	1248	4	io]	io	_	_	_	_	_	linguistic	_	_	_	End=2301.663	_	_	_	0-2(316)
 1249-0	PKP148	1249	0	[e	e	_	_	_	_	_	linguistic	_	_	_	Begin=2299.9	_	_	_	0-1(316)
 1249-1	PKP148	1249	1	li	li	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(316)
 1249-2	PKP148	1249	2	mettevi	mettevi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(316)
@@ -6057,7 +6057,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1281-15	PKP147	1281	15	mamma:	mamma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	PauseAfter=Yes	_	4x1	_	_	_
 1281-16	PKP147	1281	16	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=Yes	_	_	_	_	_	_
 1281-17	PKP147	1281	17	l'	l'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
-1281-18	PKP147	1281	18	al[tra	altra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	1-5(321)
+1281-18	PKP147	1281	18	al[tra	altra	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	2-5(321)
 1281-19	PKP147	1281	19	se]ra,	sera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	End=2354.879	_	_	_	0-2(321)
 1282-0	PKP149	1282	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2354.259|End=2354.523	_	_	_	0-2(321)
 1283-0	PKP149	1283	0	(dice	dice	_	_	_	_	_	linguistic	_	_	_	Begin=2355.145	_	_	0-4(0)	_
@@ -6079,7 +6079,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1285-13	PKP147	1285	13	puzza:vo	puzzavo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	4x1	_	_	_
 1285-14	PKP147	1285	14	dopo	dopo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1285-15	PKP147	1285	15	essere	essere	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
-1285-16	PKP147	1285	16	sta[ta	stata	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	2-5(432)
+1285-16	PKP147	1285	16	sta[ta	stata	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	3-5(432)
 1285-17	PKP147	1285	17	due	due	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(432)
 1285-18	PKP147	1285	18	minuti	minuti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-6(432)
 1285-19	PKP147	1285	19	lì]	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2361.906	_	_	_	0-2(432)
@@ -6104,15 +6104,15 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1288-10	PKP147	1288	10	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1288-11	PKP147	1288	11	nebbia	nebbia	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1288-12	PKP147	1288	12	lì	lì	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
-1288-13	PKP147	1288	13	dentro	dentro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	5-6(323)
+1288-13	PKP147	1288	13	dentro	dentro	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 1288-14	PKP147	1288	14	[(>io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-2(0)	0-2(1)	0-2(323)
 1288-15	PKP147	1288	15	ho	ho	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-2(0)	0-2(1)	0-2(323)
-1288-16	PKP147	1288	16	detto<)	detto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-4(0)	0-5(1)	0-5(323)
+1288-16	PKP147	1288	16	detto<)	detto	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-5(0)	0-5(1)	0-5(323)
 1288-17	PKP147	1288	17	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-2(323)
 1288-18	PKP147	1288	18	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	0-3(323)
-1288-19	PKP147	1288	19	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	0-1(323)
-1288-20	PKP147	1288	20	]artorno	artorno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	6-7(324)
-1288-21	PKP147	1288	21	c[itti]	citti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2368.088	_	_	_	0-3(324)
+1288-19	PKP147	1288	19	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	0-2(323)
+1288-20	PKP147	1288	20	]artorno	artorno	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+1288-21	PKP147	1288	21	c[itti]	citti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=2368.088	_	_	_	1-5(324)
 1289-0	PKP148	1289	0	[(l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2363.741	_	_	0-2(0)	0-2(433)
 1289-1	PKP148	1289	1	)aspiratore]	aspiratore	_	_	_	_	_	linguistic	_	_	_	End=2364.454	_	_	_	0-10(433)
 1290-0	PKP149	1290	0	[A:::H	ah	_	_	_	_	_	linguistic	_	_	Volume=High	Begin=2366.09	0x3	_	_	0-2(323)
@@ -6409,12 +6409,12 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1345-3	PKP148	1345	3	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1345-4	PKP148	1345	4	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1345-5	PKP148	1345	5	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1345-6	PKP148	1345	6	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-2(344)
+1345-6	PKP148	1345	6	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1345-7	PKP148	1345	7	[xxx	xxx	_	_	_	_	_	unknown	_	_	PauseAfter=Yes|Syllables=3	_	_	_	_	0-3(344)
 1345-8	PKP148	1345	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(344)
 1345-9	PKP148	1345	9	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(344)
 1345-10	PKP148	1345	10	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(344)
-1345-11	PKP148	1345	11	le]	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(344)
+1345-11	PKP148	1345	11	le]	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(344)
 1345-12	PKP148	1345	12	prime	prime	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1345-13	PKP148	1345	13	materie	materie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1345-14	PKP148	1345	14	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -6700,7 +6700,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1406-5	PKP148	1406	5	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1406-6	PKP148	1406	6	propose	propose	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1406-7	PKP148	1406	7	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1406-8	PKP148	1406	8	farin[a	farina	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	4-6(363)
+1406-8	PKP148	1406	8	farin[a	farina	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	5-6(363)
 1406-9	PKP148	1406	9	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	X(363)
 1406-10	PKP148	1406	10	rossi]	rossi	_	_	_	_	_	linguistic	_	_	_	End=2548.71	_	_	_	0-5(363)
 1407-0	PKP149	1407	0	[che	che	_	_	_	_	_	linguistic	_	_	_	Begin=2547.923	_	_	_	0-3(363)
@@ -6976,7 +6976,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1461-2	PKP147	1461	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=2641.251	_	_	_	_
 1462-0	PKP148	1462	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2640.66|End=2641.231	_	_	_	_
 1463-0	PKP147	1463	0	s'	s'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2641.466	_	_	_	_
-1463-1	PKP147	1463	1	at[tacca	attacca	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-7(373)
+1463-1	PKP147	1463	1	at[tacca	attacca	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(373)
 1463-2	PKP147	1463	2	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(373)
 1463-3	PKP147	1463	3	tra~]	tra~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=2642.288	_	_	_	0-4(373)
 1464-0	PKP148	1464	0	[noi	noi	_	_	_	_	_	linguistic	_	_	_	Begin=2641.686	_	_	_	0-3(373)
@@ -7515,8 +7515,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1549-18	PKP147	1549	18	invece	invece	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1549-19	PKP147	1549	19	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1549-20	PKP147	1549	20	usa'	usa'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
-1549-21	PKP147	1549	21	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(400)
-1549-22	PKP147	1549	22	[caf]fè,	caffè	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-1(400)
+1549-21	PKP147	1549	21	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+1549-22	PKP147	1549	22	[caf]fè,	caffè	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-3(400)
 1549-23	PKP147	1549	23	usi	usi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1549-24	PKP147	1549	24	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1549-25	PKP147	1549	25	caffè	caffè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7593,7 +7593,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1560-10	PKP148	1560	10	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1560-11	PKP148	1560	11	ho:	ho	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	1x1	_	_	_
 1560-12	PKP148	1560	12	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-1560-13	PKP148	1560	13	pens[ato]	pensato	_	_	_	_	_	linguistic	_	_	_	End=2837.776	_	_	_	2-6(403)
+1560-13	PKP148	1560	13	pens[ato]	pensato	_	_	_	_	_	linguistic	_	_	_	End=2837.776	_	_	_	4-7(403)
 1561-0	PKP147	1561	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=2837.438	_	_	_	0-2(403)
 1561-1	PKP147	1561	1	poi]	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(403)
 1561-2	PKP147	1561	2	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7733,8 +7733,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1584-10	PKP148	1584	10	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1584-11	PKP148	1584	11	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1584-12	PKP148	1584	12	numero	numero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1584-13	PKP148	1584	13	de	de	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
-1584-14	PKP148	1584	14	°tele(fono)°	telefono	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2904.875	_	_	2-7(0)	_
+1584-13	PKP148	1584	13	de	de	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+1584-14	PKP148	1584	14	°tele(fono)°	telefono	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2904.875	_	_	4-8(0)	_
 1585-0	PKP148	1585	0	o	o	_	_	_	_	_	linguistic	_	_	_	Begin=2905.811	_	_	_	_
 1585-1	PKP148	1585	1	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1585-2	PKP148	1585	2	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -7807,8 +7807,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1594-4	PKP148	1594	4	là	là	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1594-5	PKP148	1594	5	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1594-6	PKP148	1594	6	fresco	fresco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1594-7	PKP148	1594	7	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	4-5(406)
-1594-8	PKP148	1594	8	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	End=2931.223	_	_	_	0-1(406)
+1594-7	PKP148	1594	7	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+1594-8	PKP148	1594	8	[eh]	eh	_	_	_	_	_	linguistic	_	_	_	End=2931.223	_	_	_	0-2(406)
 1595-0	PKP147	1595	0	[e]:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2930.973	0x1	_	_	0-1(406)
 1595-1	PKP147	1595	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	End=2931.698	_	_	_	_
 1596-0	PKP148	1596	0	°nel	nel	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=2932.257	_	_	_	_
@@ -8119,7 +8119,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1651-3	PKP148	1651	3	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1651-4	PKP148	1651	4	pagargli	pagargli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1651-5	PKP148	1651	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1651-6	PKP148	1651	6	alber[go]	albergo	_	_	_	_	_	linguistic	_	_	_	End=3037.973	_	_	_	4-7(419)
+1651-6	PKP148	1651	6	alber[go]	albergo	_	_	_	_	_	linguistic	_	_	_	End=3037.973	_	_	_	5-7(419)
 1652-0	PKP147	1652	0	[capi]to?	capito	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=3037.769|End=3038.266	_	_	_	0-4(419)
 1653-0	PKP148	1653	0	°eh°	eh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=3038.608|End=3038.846	_	_	_	_
 1654-0	PKP147	1654	0	mi(o)	mio	_	_	_	_	_	linguistic	_	_	_	Begin=3038.846	_	_	2-3(0)	_
@@ -8135,7 +8135,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1654-10	PKP147	1654	10	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1654-11	PKP147	1654	11	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1654-12	PKP147	1654	12	dà	dà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1654-13	PKP147	1654	13	no[ia:]	noia	_	_	_	_	_	linguistic	_	_	_	End=3041.967	3x1	_	_	1-4(420)
+1654-13	PKP147	1654	13	no[ia:]	noia	_	_	_	_	_	linguistic	_	_	_	End=3041.967	3x1	_	_	2-4(420)
 1655-0	PKP148	1655	0	[°eh°]	eh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=3041.608|End=3041.968	_	_	_	0-2(420)
 1656-0	PKP147	1656	0	a	a	_	_	_	_	_	linguistic	_	_	_	Begin=3042.66	_	_	_	_
 1656-1	PKP147	1656	1	mi(a)	mia	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-3(0)	_
