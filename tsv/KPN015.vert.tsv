@@ -842,9 +842,9 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 119-15	PKP062	119	15	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 119-16	PKP062	119	16	sul	sul	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 119-17	PKP062	119	17	fuoco,	fuoco	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=339.87	_	_	_	_
-120-0	PKP062	120	0	con	con	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=339.87	_	_	_	_
+120-0	PKP062	120	0	# con	con	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=339.87	_	_	_	_
 120-1	PKP062	120	1	un	un	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-120-2	PKP062	120	2	#sac	#sac	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+120-2	PKP062	120	2	sac	sac	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 120-3	PKP062	120	3	d'	d'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 120-4	PKP062	120	4	oli:	oli	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	2x1	_	_	_
 120-5	PKP062	120	5	e	e	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2471,7 +2471,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 351-10	PKP057	351	10	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 351-11	PKP057	351	11	mandi	mandi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 351-12	PKP057	351	12	giù,	giù	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=WeaklyRising	End=976.116	_	_	_	_
-352-0	PKP062	352	0	ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=976.116	_	_	_	_
+352-0	PKP062	352	0	# ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=976.116	_	_	_	_
 352-1	PKP062	352	1	quello	quello	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 352-2	PKP062	352	2	perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 352-3	PKP062	352	3	comunque	comunque	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2488,7 +2488,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 352-14	PKP062	352	14	sè	sè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 352-15	PKP062	352	15	quindi:	quindi	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	5x1	_	_	_
 352-16	PKP062	352	16	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-352-17	PKP062	352	17	#a	#a	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+352-17	PKP062	352	17	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 352-18	PKP062	352	18	ghè	ghè	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 352-19	PKP062	352	19	tredes	tredes	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 352-20	PKP062	352	20	grèd	grèd	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

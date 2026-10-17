@@ -3702,7 +3702,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 764-1	PKP079	764	1	io	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(266)
 764-2	PKP079	764	2	mi	mi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(266)
 764-3	PKP079	764	3	ricordo:]	ricordo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1149.89	6x1	_	_	0-7(266)
-765-0	PKP079	765	0	t~	t~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	Begin=1150.21	_	_	_	_
+765-0	PKP079	765	0	# t~	t~	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Interrupted=Yes	Begin=1150.21	_	_	_	_
 765-1	PKP079	765	1	t[u	tu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	1-2(267)
 765-2	PKP079	765	2	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(267)
 765-3	PKP079	765	3	ricordi	ricordi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(267)
@@ -3717,7 +3717,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 765-12	PKP079	765	12	fatti	fatti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 765-13	PKP079	765	13	c(io)è	cioè	_	_	_	_	_	linguistic	_	ContainsVariation=No	Reduced=Yes|PauseAfter=Yes	_	_	_	_	_
 765-14	PKP079	765	14	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
-765-15	PKP079	765	15	#do	#do	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+765-15	PKP079	765	15	do	do	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 765-16	PKP079	765	16	minuti	minuti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 765-17	PKP079	765	17	neanche	neanche	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1155.47	_	_	_	_
 766-0	PKP071	766	0	[stai	stai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1150.685	_	_	_	0-4(267)
@@ -5411,7 +5411,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1092-9	PKP078	1092	9	rosso	rosso	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 1092-10	PKP078	1092	10	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 1092-11	PKP078	1092	11	n[ormalis]simo	normalissimo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1636.72	_	_	_	1-8(374)
-1093-0	PKP079	1093	0	[#un	#un	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=1632.7	_	_	_	0-3(662)
+1093-0	PKP079	1093	0	# [un	un	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1632.7	_	_	_	0-2(662)
 1093-1	PKP079	1093	1	bel	bel	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(662)
 1093-2	PKP079	1093	2	piato	piato	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-5(662)
 1093-3	PKP079	1093	3	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(662)

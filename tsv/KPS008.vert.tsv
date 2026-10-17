@@ -1394,8 +1394,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 190-1	PKP041	190	1	per	per	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 190-2	PKP041	190	2	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 190-3	PKP041	190	3	minorenni?	minorenni	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=992.82	_	_	_	_
-191-0	PKP040	191	0	((al_telefono))	((al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1000.41	_	_	_	_
-191-1	PKP040	191	1	#lu	#lu	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+191-0	PKP040	191	0	# ((al_telefono))	((al_telefono))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=1000.41	_	_	_	_
+191-1	PKP040	191	1	lu	lu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 191-2	PKP040	191	2	beddu	beddu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 191-3	PKP040	191	3	lu	lu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 191-4	PKP040	191	4	beddu	beddu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

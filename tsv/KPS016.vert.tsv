@@ -988,7 +988,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 244-2	PKP085	244	2	[da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(45)
 244-3	PKP085	244	3	vocale	vocale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(45)
 244-4	PKP085	244	4	o]vviame~	ovviame~	_	_	_	_	_	linguistic	_	ContainsVariation=No	Interrupted=Yes	End=351.357	_	_	_	0-1(45)
-245-0	PKP084	245	0	[#mischinu]	#mischinu	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=350.549|End=351.107	_	_	_	0-9(45)
+245-0	PKP084	245	0	# [mischinu]	mischinu	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=350.549|End=351.107	_	_	_	0-8(45)
 246-0	PKP085	246	0	no	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=351.381	_	_	_	_
 246-1	PKP085	246	1	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 246-2	PKP085	246	2	vocale	vocale	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=352.039	_	_	_	_

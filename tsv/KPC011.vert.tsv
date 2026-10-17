@@ -4566,8 +4566,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 987-1	PKP147	987	1	zanzara	zanzara	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 987-2	PKP147	987	2	dell'	dell'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 987-3	PKP147	987	3	anno	anno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1823.753	_	_	_	_
-988-0	PKP147	988	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=No	_	Begin=1823.87	_	_	_	_
-988-1	PKP147	988	1	#il	#il	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+988-0	PKP147	988	0	# ((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	ContainsVariation=Yes	_	Begin=1823.87	_	_	_	_
+988-1	PKP147	988	1	il	il	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 988-2	PKP147	988	2	venti	venti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 988-3	PKP147	988	3	de	de	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 988-4	PKP147	988	4	gennaio	gennaio	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

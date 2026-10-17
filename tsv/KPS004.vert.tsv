@@ -1007,14 +1007,14 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 233-0	PKP034	233	0	son	son	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=455.477	_	_	_	_
 233-1	PKP034	233	1	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 233-2	PKP034	233	2	(calare)	calare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=456.498	_	_	0-6(0)	_
-234-0	PKP035	234	0	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	Begin=457.967	_	_	_	_
-234-1	PKP035	234	1	#ce	#ce	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+234-0	PKP035	234	0	# xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=4	Begin=457.967	_	_	_	_
+234-1	PKP035	234	1	ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 234-2	PKP035	234	2	mangi	mangi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 234-3	PKP035	234	3	oggi	oggi	_	_	_	_	_	linguistic	_	ContainsVariation=No	PauseAfter=Yes	_	_	_	_	_
 234-4	PKP035	234	4	(.)	(.)	_	_	_	_	_	shortpause	_	ContainsVariation=No	_	_	_	_	_	_
 234-5	PKP035	234	5	xx	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=2	_	_	_	_	_
 234-6	PKP035	234	6	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
-234-7	PKP035	234	7	#se	#se	_	_	_	_	_	error	_	ContainsVariation=No	_	_	_	_	_	_
+234-7	PKP035	234	7	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 234-8	PKP035	234	8	[cociono]	cociono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=461.55	_	_	_	0-7(73)
 235-0	PKP034	235	0	[perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=460.794	_	_	_	0-6(73)
 235-1	PKP034	235	1	se	se	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(73)
@@ -10371,7 +10371,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1770-6	PKP034	1770	6	la	la	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1770-7	PKP034	1770	7	[x]x[xx]	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	End=3461.808	_	_	_	0-1(552),2-4(553)
 1771-0	PKP035	1771	0	[ma]	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=3460.601|End=3460.989	_	_	_	0-2(552)
-1772-0	PKP035	1772	0	[#io	#io	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=3461.193	_	_	_	0-3(553)
+1772-0	PKP035	1772	0	# [io	io	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=3461.193	_	_	_	0-2(553)
 1772-1	PKP035	1772	1	m'	m'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	0-2(553)
 1772-2	PKP035	1772	2	assetto	assetto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-7(553)
 1772-3	PKP035	1772	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-1(553)
