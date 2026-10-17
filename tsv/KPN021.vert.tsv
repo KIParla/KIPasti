@@ -3782,7 +3782,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 650-2	PKP073	650	2	stra	stra	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 650-3	PKP073	650	3	figo	figo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 650-4	PKP073	650	4	[tipo]	tipo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1155.289	_	_	_	0-4(218)
-651-0	PKP072	651	0	[#de	#de	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=1154.999	_	_	_	0-3(218)
+651-0	PKP072	651	0	# [de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1154.999	_	_	_	0-2(218)
 651-1	PKP072	651	1	b]ojo	bojo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1155.729	_	_	_	0-1(218)
 652-0	PKP072	652	0	# de	de	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1156.639	_	_	_	_
 652-1	PKP072	652	1	boja	boja	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	End=1157.379	_	_	_	_

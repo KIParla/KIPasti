@@ -76,7 +76,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 15-5	PKP050	15	5	[grammi	grammi	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-6(2)
 15-6	PKP050	15	6	ha	ha	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(2)
 15-7	PKP050	15	7	fatto]	fatto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=49.405	_	_	_	0-5(2)
-16-0	PKP049	16	0	[#ce	#ce	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=48.1	_	_	_	0-3(2)
+16-0	PKP049	16	0	# [ce	ce	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=48.1	_	_	_	0-2(2)
 16-1	PKP049	16	1	sacciu]	sacciu	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=49.158	_	_	_	0-6(2)
 17-0	PKP050	17	0	centoquaranta::	centoquaranta	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=49.645	12x2	_	_	_
 17-1	PKP050	17	1	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -1256,7 +1256,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 167-0	PKP049	167	0	[ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=508.04	_	_	_	0-2(?)
 167-1	PKP049	167	1	ti	ti	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(?)
 167-2	PKP049	167	2	pare::]	pare	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=508.981	3x2	_	_	0-4(?)
-168-0	PKP051	168	0	[#mo	#mo	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=508.283	_	_	_	0-3(38)
+168-0	PKP051	168	0	# [mo	mo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=508.283	_	_	_	0-2(38)
 168-1	PKP051	168	1	io]	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(38)
 168-2	PKP051	168	2	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 168-3	PKP051	168	3	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_

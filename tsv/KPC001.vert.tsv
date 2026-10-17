@@ -1185,7 +1185,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 214-5	PKP026	214	5	fiori	fiori	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 214-6	PKP026	214	6	[che	che	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-3(57)
 214-7	PKP026	214	7	appassis]cono	appassiscono	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=531.25	_	_	_	0-8(57)
-215-0	PKP025	215	0	[#ma	#ma	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=529.881	_	_	_	0-3(57)
+215-0	PKP025	215	0	# [ma	ma	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=529.881	_	_	_	0-2(57)
 215-1	PKP025	215	1	co	co	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(57)
 215-2	PKP025	215	2	ci	ci	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	0-2(57)
 215-3	PKP025	215	3	fa]	fa	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=530.7	_	_	_	0-2(57)

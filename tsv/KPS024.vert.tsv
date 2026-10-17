@@ -1278,7 +1278,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 360-13	PKP131	360	13	vado<	vado	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-4(0)	_	_
 360-14	PKP131	360	14	da	da	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 360-15	PKP131	360	15	giugno	giugno	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=591.876	_	_	_	_
-361-0	PKP131	361	0	(#è	#è	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=592.472	_	_	0-2(0)	_
+361-0	PKP131	361	0	# (è	è	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=592.472	_	_	0-1(0)	_
 361-1	PKP131	361	1	ancora	ancora	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-6(0)	_
 361-2	PKP131	361	2	ca)	ca	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=593.064	_	_	0-2(0)	_
 362-0	PKP125	362	0	vuole	vuole	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=593.977	_	_	_	_
@@ -1666,7 +1666,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 457-0	PKP131	457	0	[(già)]	già	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=737.65	_	_	0-3(0)	0-3(122)
 457-1	PKP131	457	1	xxxx	xxxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=4	End=738.423	_	_	_	_
 458-0	PKP125	458	0	[x]	x	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=1	Begin=737.665|End=737.852	_	_	_	0-1(122)
-459-0	PKP131	459	0	(#damme	#damme	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=738.458	_	_	_	_
+459-0	PKP131	459	0	# (damme	damme	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=738.458	_	_	_	_
 459-1	PKP131	459	1	na	na	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 459-2	PKP131	459	2	foto	foto	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 459-3	PKP131	459	3	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
@@ -2688,7 +2688,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 739-7	PKP131	739	7	cui	cui	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 739-8	PKP131	739	8	stai	stai	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 739-9	PKP131	739	9	insegnan[do]?	insegnando	_	_	_	_	_	linguistic	_	ContainsVariation=No	Intonation=Rising	End=1228.202	_	_	_	8-10(181)
-740-0	PKP125	740	0	[#x]x	#xx	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=1228.088	_	_	_	0-2(181)
+740-0	PKP125	740	0	# [x]x	xx	_	_	_	_	_	unknown	_	ContainsVariation=Yes	Syllables=2	Begin=1228.088	_	_	_	0-1(181)
 740-1	PKP125	740	1	non	non	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 740-2	PKP125	740	2	lo	lo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 740-3	PKP125	740	3	sacc	sacc	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1229.369	_	_	_	_
@@ -3169,7 +3169,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 873-1	PKP131	873	1	me	me	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	_
 873-2	PKP131	873	2	di')	di'	_	_	_	_	_	linguistic	_	ContainsVariation=No	Truncated=Yes	End=1456.911	_	_	0-3(0)	_
 874-0	PKP131	874	0	(paura)	paura	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1458.413|End=1458.724	_	_	0-5(0)	_
-875-0	PKP125	875	0	(#sa	#sa	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=1459.837	_	_	0-3(0)	_
+875-0	PKP125	875	0	# (sa	sa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1459.837	_	_	0-2(0)	_
 875-1	PKP125	875	1	ne	ne	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	_
 875-2	PKP125	875	2	ve	ve	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	_
 875-3	PKP125	875	3	ki	ki	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-2(0)	_
@@ -3799,7 +3799,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1055-4	PKP131	1055	4	come	come	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1055-5	PKP131	1055	5	xxx	xxx	_	_	_	_	_	unknown	_	ContainsVariation=No	Syllables=3	End=1802.709	_	_	_	_
 1056-0	PKP125	1056	0	°xx°	xx	_	_	_	_	_	unknown	_	ContainsVariation=No	Volume=Low|Syllables=2	Begin=1804.137|End=1804.428	_	_	_	_
-1057-0	PKP125	1057	0	(#che	#che	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=1805.709	_	_	0-4(0)	_
+1057-0	PKP125	1057	0	# (che	che	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1805.709	_	_	0-3(0)	_
 1057-1	PKP125	1057	1	paccia	paccia	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	0-6(0)	_
 1057-2	PKP125	1057	2	quella)	quella	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1806.704	_	_	0-6(0)	_
 1058-0	PKP131	1058	0	[subito]	subito	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1807.995|End=1808.532	_	_	_	0-6(8)
@@ -3956,7 +3956,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1098-2	PKP125	1098	2	so	so	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1098-3	PKP125	1098	3	neanch'	neanch'	_	_	_	_	_	linguistic	_	ContainsVariation=No	SpaceAfter=No	_	_	_	_	_
 1098-4	PKP125	1098	4	i[o:]	io	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1863.817	1x1	_	_	0-2(18)
-1099-0	PKP131	1099	0	[#vabbu][ò:	#vabbuò:	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=1863.546	_	_	_	0-6(18),6-7(19)
+1099-0	PKP131	1099	0	# [vabbu][ò:	vabbuò	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1863.546	5x1	_	_	0-5(18),5-6(19)
 1099-1	PKP131	1099	1	i:]	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=1864.3	0x1	_	_	0-1(19)
 1100-0	PKP125	1100	0	[i	i	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=1863.881	_	_	_	0-1(19)
 1100-1	PKP125	1100	1	retro]sce:na	retroscena	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	7x1	_	_	0-5(19)
@@ -4496,7 +4496,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1239-6	PKP131	1239	6	là	là	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1239-7	PKP131	1239	7	in	in	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	_	_	_
 1239-8	PKP131	1239	8	me:zzo	mezzo	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2058.039	1x1	_	_	_
-1240-0	PKP131	1240	0	[(#o'	#o'	_	_	_	_	_	error	_	ContainsVariation=No	_	Begin=2058.098	_	_	0-3(0)	0-3(62)
+1240-0	PKP131	1240	0	# [(o'	o'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Truncated=Yes	Begin=2058.098	_	_	0-2(0)	0-2(62)
 1240-1	PKP131	1240	1	centro)]	centro	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	End=2058.684	_	_	0-6(0)	0-6(62)
 1241-0	PKP125	1241	0	[me:h	meh	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	Begin=2058.112	1x1	_	_	0-3(62)
 1241-1	PKP125	1241	1	>n]o	no	_	_	_	_	_	linguistic	_	ContainsVariation=No	_	_	_	Fast=0-2(0)	_	0-1(62)
