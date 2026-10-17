@@ -79,7 +79,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 12-19	PKP093	12	19	no	no	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 12-20	PKP093	12	20	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 12-21	PKP093	12	21	>ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
-12-22	PKP093	12	22	tipo<	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
+12-22	PKP093	12	22	tipo<	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
 12-23	PKP093	12	23	tre	tre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 12-24	PKP093	12	24	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 12-25	PKP093	12	25	solo	solo	_	_	_	_	_	linguistic	_	_	_	End=35.0	_	_	_	_
@@ -417,7 +417,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 73-5	PKP024	73	5	xxx	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	_	_	_	_	_
 73-6	PKP024	73	6	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 73-7	PKP024	73	7	(i)l	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	_
-73-8	PKP024	73	8	prossim(o)	prossimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	6-8(1)	_
+73-8	PKP024	73	8	prossim(o)	prossimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	7-8(1)	_
 73-9	PKP024	73	9	anno	anno	_	_	_	_	_	linguistic	_	_	_	End=244.563	_	_	_	_
 74-0	PKP024	74	0	può	può	_	_	_	_	_	linguistic	_	_	_	Begin=246.037	_	_	_	_
 74-1	PKP024	74	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -668,7 +668,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 107-7	PKP093	107	7	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 107-8	PKP093	107	8	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 107-9	PKP093	107	9	hai	hai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-107-10	PKP093	107	10	[novan]tasett(e)	novantasette	_	_	_	_	_	linguistic	_	_	_	_	_	_	10-12(0)	0-5(15)
+107-10	PKP093	107	10	[novan]tasett(e)	novantasette	_	_	_	_	_	linguistic	_	_	_	_	_	_	11-12(0)	0-5(15)
 107-11	PKP093	107	11	anni	anni	_	_	_	_	_	linguistic	_	_	_	End=346.074	_	_	_	_
 108-0	PKP024	108	0	[ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=344.547	_	_	_	0-2(15)
 108-1	PKP024	108	1	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(15)
@@ -2108,7 +2108,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 330-7	PKP093	330	7	qui	qui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 330-8	PKP093	330	8	sotto	sotto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 330-9	PKP093	330	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-330-10	PKP093	330	10	a[scella]	ascella	_	_	_	_	_	linguistic	_	_	_	End=1092.255	_	_	_	0-7(44)
+330-10	PKP093	330	10	a[scella]	ascella	_	_	_	_	_	linguistic	_	_	_	End=1092.255	_	_	_	1-7(44)
 331-0	PKP024	331	0	[ti	ti	_	_	_	_	_	linguistic	_	_	_	Begin=1091.998	_	_	_	0-2(44)
 331-1	PKP024	331	1	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(44)
 331-2	PKP024	331	2	mes]so	messo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(44)
@@ -2927,7 +2927,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 440-10	PKP093	440	10	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 440-11	PKP093	440	11	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 440-12	PKP093	440	12	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-440-13	PKP093	440	13	tu(a)	tua	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-3(0)	_
+440-13	PKP093	440	13	tu(a)	tua	_	_	_	_	_	linguistic	_	_	_	_	_	_	2-3(0)	_
 440-14	PKP093	440	14	mamma	mamma	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 440-15	PKP093	440	15	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 440-16	PKP093	440	16	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3497,7 +3497,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 536-1	PKP093	536	1	inverno	inverno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 536-2	PKP093	536	2	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 536-3	PKP093	536	3	<quattro>	quattro	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-7(0)	_	_
-536-4	PKP093	536	4	giubb[otti]	giubbotti	_	_	_	_	_	linguistic	_	_	_	End=1726.782	_	_	_	4-9(1)
+536-4	PKP093	536	4	giubb[otti]	giubbotti	_	_	_	_	_	linguistic	_	_	_	End=1726.782	_	_	_	5-9(1)
 537-0	PKP024	537	0	[il	il	_	_	_	_	_	linguistic	_	_	_	Begin=1726.487	_	_	_	0-2(1)
 537-1	PKP024	537	1	primo	primo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(1)
 537-2	PKP024	537	2	a]nno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(1)

@@ -725,7 +725,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 93-2	PKP043	93	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 93-3	PKP043	93	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 93-4	PKP043	93	4	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-93-5	PKP043	93	5	ta[gliere]	tagliere	_	_	_	_	_	linguistic	_	_	_	End=302.988	_	_	_	1-8(22)
+93-5	PKP043	93	5	ta[gliere]	tagliere	_	_	_	_	_	linguistic	_	_	_	End=302.988	_	_	_	2-8(22)
 94-0	PKP052	94	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	_	_	Begin=302.814	_	_	_	_
 94-1	PKP052	94	1	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 94-2	PKP052	94	2	stata	stata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2214,8 +2214,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 289-17	PKP052	289	17	all'	all'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 289-18	PKP052	289	18	interno	interno	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 289-19	PKP052	289	19	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-289-20	PKP052	289	20	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(?)
-289-21	PKP052	289	21	[xxx]se	xxxse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+289-20	PKP052	289	20	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+289-21	PKP052	289	21	[xxx]se	xxxse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(?)
 289-22	PKP052	289	22	n'	n'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 289-23	PKP052	289	23	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 289-24	PKP052	289	24	andata	andata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3809,8 +3809,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 516-8	PKP052	516	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 516-9	PKP052	516	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 516-10	PKP052	516	10	altro	altro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-516-11	PKP052	516	11	mini[market	minimarket	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-10(1)
-516-12	PKP052	516	12	che]	che	_	_	_	_	_	linguistic	_	_	_	End=1648.736	_	_	_	0-1(1)
+516-11	PKP052	516	11	mini[market	minimarket	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-10(1)
+516-12	PKP052	516	12	che]	che	_	_	_	_	_	linguistic	_	_	_	End=1648.736	_	_	_	0-3(1)
 517-0	PKP043	517	0	[si	si	_	_	_	_	_	linguistic	_	_	_	Begin=1648.051	_	_	_	0-2(1)
 517-1	PKP043	517	1	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(1)
 517-2	PKP043	517	2	beppe]	beppe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(1)

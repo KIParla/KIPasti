@@ -5110,7 +5110,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 906-15	PKP093	906	15	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 906-16	PKP093	906	16	mezz'	mezz'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 906-17	PKP093	906	17	ora	ora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-906-18	PKP093	906	18	se[nza	senza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	1-5(101)
+906-18	PKP093	906	18	se[nza	senza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-5(101)
 906-19	PKP093	906	19	sale]	sale	_	_	_	_	_	linguistic	_	_	_	End=2137.061	_	_	_	0-4(101)
 907-0	PKP055	907	0	>[ho	ho	_	_	_	_	_	linguistic	_	_	_	Begin=2136.381	_	Fast=0-2(0)	_	0-2(101)
 907-1	PKP055	907	1	bisogno	bisogno	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-7(0)	_	0-7(101)
@@ -5160,7 +5160,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 918-4	PKP023	918	4	capo	capo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 918-5	PKP023	918	5	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 918-6	PKP023	918	6	quel	quel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-918-7	PKP023	918	7	cest[ino]	cestino	_	_	_	_	_	linguistic	_	_	_	End=2153.697	_	_	_	3-7(104)
+918-7	PKP023	918	7	cest[ino]	cestino	_	_	_	_	_	linguistic	_	_	_	End=2153.697	_	_	_	4-7(104)
 919-0	PKP093	919	0	>[vad]o	vado	_	_	_	_	_	linguistic	_	_	_	Begin=2153.543	_	Fast=0-4(0)	_	0-3(104)
 919-1	PKP093	919	1	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-1(0)	_	_
 919-2	PKP093	919	2	vedere<	vedere	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_

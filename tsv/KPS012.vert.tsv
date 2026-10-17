@@ -349,7 +349,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 55-2	PKP049	55	2	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(18)
 55-3	PKP049	55	3	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(18)
 55-4	PKP049	55	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(18)
-55-5	PKP049	55	5	era]	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(18)
+55-5	PKP049	55	5	era]	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(18)
 55-6	PKP049	55	6	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 55-7	PKP049	55	7	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 55-8	PKP049	55	8	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

@@ -166,7 +166,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 32-7	PKP140	32	7	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 32-8	PKP140	32	8	[l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(16)
 32-9	PKP140	32	9	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(16)
-32-10	PKP140	32	10	por]tata	portata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(16)
+32-10	PKP140	32	10	por]tata	portata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(16)
 32-11	PKP140	32	11	camminando	camminando	_	_	_	_	_	linguistic	_	_	_	End=52.92	_	_	_	_
 33-0	PKP136	33	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=51.702|End=52.079	_	_	_	0-2(16)
 34-0	PKP136	34	0	eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=52.937	_	_	_	_
@@ -1177,7 +1177,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 208-6	PKP140	208	6	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 208-7	PKP140	208	7	canzoni	canzoni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 208-8	PKP140	208	8	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-208-9	PKP140	208	9	chie[sa],	chiesa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=332.937	_	_	_	3-6(80)
+208-9	PKP140	208	9	chie[sa],	chiesa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=332.937	_	_	_	4-6(80)
 209-0	PKP136	209	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=332.48|End=332.968	_	_	_	0-4(80)
 210-0	PKP140	210	0	oh	oh	_	_	_	_	_	linguistic	_	_	_	Begin=333.0	_	_	_	_
 210-1	PKP140	210	1	mio	mio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -4131,7 +4131,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 914-4	PKP136	914	4	mio	mio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 914-5	PKP136	914	5	fratello	fratello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 914-6	PKP136	914	6	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-914-7	PKP136	914	7	bian[chi	bianchi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(?)
+914-7	PKP136	914	7	bian[chi	bianchi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-7(?)
 914-8	PKP136	914	8	allora]	allora	_	_	_	_	_	linguistic	_	_	_	End=1289.814	_	_	_	0-6(?)
 915-0	PKP140	915	0	[ed~	ed~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=1289.1	_	_	_	0-3(228)
 915-1	PKP140	915	1	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(228)
@@ -4555,7 +4555,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1014-2	PKP136	1014	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1014-3	PKP136	1014	3	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1014-4	PKP136	1014	4	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1014-5	PKP136	1014	5	clas[se]	classe	_	_	_	_	_	linguistic	_	_	_	End=1419.056	_	_	_	3-6(252)
+1014-5	PKP136	1014	5	clas[se]	classe	_	_	_	_	_	linguistic	_	_	_	End=1419.056	_	_	_	4-6(252)
 1015-0	PKP140	1015	0	[no]	no	_	_	_	_	_	linguistic	_	_	_	Begin=1418.87	_	_	_	0-2(252)
 1015-1	PKP140	1015	1	vabb[é]	vabbé	_	_	_	_	_	linguistic	_	_	_	End=1419.761	_	_	_	4-5(253)
 1016-0	PKP136	1016	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=1419.59	_	_	_	_
@@ -5095,7 +5095,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1127-5	PKP140	1127	5	mai	mai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1127-6	PKP140	1127	6	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1127-7	PKP140	1127	7	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1127-8	PKP140	1127	8	fuo[ri]	fuori	_	_	_	_	_	linguistic	_	_	_	End=1568.06	_	_	_	2-5(?)
+1127-8	PKP140	1127	8	fuo[ri]	fuori	_	_	_	_	_	linguistic	_	_	_	End=1568.06	_	_	_	3-5(?)
 1128-0	PKP140	1128	0	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	Begin=1568.1	_	_	_	_
 1128-1	PKP140	1128	1	grigio	grigio	_	_	_	_	_	linguistic	_	_	_	End=1568.893	_	_	_	_
 1129-0	PKP140	1129	0	con	con	_	_	_	_	_	linguistic	_	_	_	Begin=1569.28	_	_	_	_
@@ -5634,7 +5634,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1263-1	PKP136	1263	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
 1263-2	PKP136	1263	2	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 1263-3	PKP136	1263	3	nostro	nostro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-1263-4	PKP136	1263	4	duemiladicia[nnnove]	duemiladiciannnove	_	_	_	_	_	linguistic	_	_	_	End=1730.99	_	_	_	11-18(309)
+1263-4	PKP136	1263	4	duemiladicia[nnnove]	duemiladiciannnove	_	_	_	_	_	linguistic	_	_	_	End=1730.99	_	_	_	12-18(309)
 1264-0	PKP139	1264	0	[noi	noi	_	_	_	_	_	linguistic	_	_	_	Begin=1730.25	_	_	_	0-3(309)
 1264-1	PKP139	1264	1	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(309)
 1264-2	PKP139	1264	2	abbiamo]	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(309)
@@ -5804,7 +5804,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 1307-5	PKP139	1307	5	dal	dal	_	_	_	_	_	linguistic	_	_	_	End=1774.365	_	_	_	_
 1308-0	PKP139	1308	0	c(io)è	cioè	_	_	_	_	_	linguistic	_	_	Reduced=Yes	Begin=1774.405	_	_	_	_
 1308-1	PKP139	1308	1	dall'	dall'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-1308-2	PKP139	1308	2	ora[le]	orale	_	_	_	_	_	linguistic	_	_	_	End=1776.001	_	_	_	2-5(329)
+1308-2	PKP139	1308	2	ora[le]	orale	_	_	_	_	_	linguistic	_	_	_	End=1776.001	_	_	_	3-5(329)
 1309-0	PKP140	1309	0	(°[ora]le°)	orale	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1775.31|End=1776.114	_	_	0-5(0)	0-3(329)
 1310-0	PKP139	1310	0	prima	prima	_	_	_	_	_	linguistic	_	_	_	Begin=1776.11	_	_	_	_
 1310-1	PKP139	1310	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

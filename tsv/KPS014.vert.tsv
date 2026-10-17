@@ -479,7 +479,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 81-6	PKP095	81	6	rumore	rumore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 81-7	PKP095	81	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 81-8	PKP095	81	8	senz'	senz'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-81-9	PKP095	81	9	altr(o)	altro	_	_	_	_	_	linguistic	_	_	_	End=348.358	_	_	3-5(0)	_
+81-9	PKP095	81	9	altr(o)	altro	_	_	_	_	_	linguistic	_	_	_	End=348.358	_	_	4-5(0)	_
 82-0	PKP096	82	0	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	_	_	Begin=355.79	_	_	_	_
 82-1	PKP096	82	1	perso	perso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 82-2	PKP096	82	2	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1707,8 +1707,8 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 314-12	PKP095	314	12	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(1)	_	_
 314-13	PKP095	314	13	che<	che	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(1)	_	_
 314-14	PKP095	314	14	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-314-15	PKP095	314	15	uo:mo	uomo	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	3-4(74)
-314-16	PKP095	314	16	[senza]	senza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(74)
+314-15	PKP095	314	15	uo:mo	uomo	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
+314-16	PKP095	314	16	[senza]	senza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(74)
 314-17	PKP095	314	17	pa	pa	_	_	_	_	_	linguistic	_	_	_	End=1168.04	_	_	_	_
 315-0	PKP096	315	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1164.99	_	_	_	_
 315-1	PKP096	315	1	[secondo]	secondo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(75)
@@ -1798,7 +1798,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 329-1	PKP095	329	1	c'	c'	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	SpaceAfter=No	_	_	_	_	_
 329-2	PKP095	329	2	era	era	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
 329-3	PKP095	329	3	una:::	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	2x3	_	_	_
-329-4	PKP095	329	4	>diciamo<	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Slow=6-7(0)|Fast=0-7(0)	_	_
+329-4	PKP095	329	4	>diciamo<	diciamo	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Fast=0-7(0)	_	_
 329-5	PKP095	329	5	una	una	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Slow=0-3(0)	_	_
 329-6	PKP095	329	6	cosa	cosa	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Slow=0-4(0)	_	_
 329-7	PKP095	329	7	a	a	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	Slow=0-1(0)	_	_
@@ -1962,11 +1962,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 350-7	PKP095	350	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 350-8	PKP095	350	8	[quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(?)
 350-9	PKP095	350	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(?)
-350-10	PKP095	350	10	e:ra]	era	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	0x1	_	_	0-2(?)
+350-10	PKP095	350	10	e:ra]	era	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	0x1	_	_	0-3(?)
 350-11	PKP095	350	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 350-12	PKP095	350	12	[quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(?)
 350-13	PKP095	350	13	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(?)
-350-14	PKP095	350	14	e:ra]	era	_	_	_	_	_	linguistic	_	_	_	End=1266.95	0x1	_	_	0-1(?)
+350-14	PKP095	350	14	e:ra]	era	_	_	_	_	_	linguistic	_	_	_	End=1266.95	0x1	_	_	0-3(?)
 351-0	PKP095	351	0	oppure	oppure	_	_	_	_	_	linguistic	_	_	_	Begin=1268.753	_	_	_	_
 351-1	PKP095	351	1	[il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(?)
 351-2	PKP095	351	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(?)
@@ -2616,7 +2616,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 435-9	PKP095	435	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 435-10	PKP095	435	10	s	s	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 435-11	PKP095	435	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-435-12	PKP095	435	12	quell(e)	quelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	4-6(0)	_
+435-12	PKP095	435	12	quell(e)	quelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	5-6(0)	_
 435-13	PKP095	435	13	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 435-14	PKP095	435	14	divise	divise	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 435-15	PKP095	435	15	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -3120,7 +3120,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 513-7	PKP095	513	7	quaderni	quaderni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 513-8	PKP095	513	8	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 513-9	PKP095	513	9	singoli	singoli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-513-10	PKP095	513	10	(in)somm(a)	insomma	_	_	_	_	_	linguistic	_	_	_	End=1721.173	_	_	0-2(0),5-7(1)	_
+513-10	PKP095	513	10	(in)somm(a)	insomma	_	_	_	_	_	linguistic	_	_	_	End=1721.173	_	_	0-2(0),6-7(1)	_
 514-0	PKP096	514	0	a::::h	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1721.304|End=1722.031	0x4	_	_	_
 515-0	PKP095	515	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1723.292	_	_	_	_
 515-1	PKP095	515	1	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
