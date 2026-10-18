@@ -1785,12 +1785,11 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 322-11	PKP057	322	11	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 322-12	PKP057	322	12	qualle	qualle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 322-13	PKP057	322	13	brutte	brutte	_	_	_	_	_	linguistic	_	_	_	End=1082.23	_	_	_	_
-323-0	PKP057	323	0	)	_	_	_	_	_	_	error	_	_	_	Begin=1082.23	_	_	_	_
-323-1	PKP057	323	1	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-323-2	PKP057	323	2	cercar	cercar	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-323-3	PKP057	323	3	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-323-4	PKP057	323	4	capire	capire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-323-5	PKP057	323	5	se::	se	_	_	_	_	_	linguistic	_	_	_	End=1084.35	1x2	_	_	_
+323-1	PKP057	323	0	per	per	_	_	_	_	_	linguistic	_	_	_	Begin=1082.23	_	_	_	_
+323-2	PKP057	323	1	cercar	cercar	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+323-3	PKP057	323	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+323-4	PKP057	323	3	capire	capire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+323-5	PKP057	323	4	se::	se	_	_	_	_	_	linguistic	_	_	_	End=1084.35	1x2	_	_	_
 324-0	PKP061	324	0	se	se	_	_	_	_	_	linguistic	_	_	_	Begin=1084.705	_	_	_	_
 324-1	PKP061	324	1	c~	c~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
 324-2	PKP061	324	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_

@@ -506,7 +506,7 @@ PKP051	no ((ride)) (.) mi sento sempre che::: io mangio (.) riso::
 PKP050	vabbè tu sei [un caso a parte]
 PKP051	[o ceci::]
 PKP051	e quindi:: ieri poi hai indovinato xxxxx i ceci
-PKP051	) ((ride))
+PKP051	((ride))
 PKP050	ma perché (.) tu sei proprio (monotona) cioè tu mangi veramente sempre le stesse [cose]
 PKP049	[ma lui] si riferisce a noi:: o a te::
 PKP050	a te:::
