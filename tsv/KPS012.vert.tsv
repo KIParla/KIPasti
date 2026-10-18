@@ -3232,8 +3232,7 @@ token_id	speaker	tu_id	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_label
 507-6	PKP051	507	6	xxxxx	xxxxx	_	_	_	_	_	unknown	_	_	Syllables=5	_	_	_	_	_
 507-7	PKP051	507	7	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 507-8	PKP051	507	8	ceci	ceci	_	_	_	_	_	linguistic	_	_	_	End=1317.362	_	_	_	_
-508-0	PKP051	508	0	)	_	_	_	_	_	_	error	_	_	_	Begin=1318.051	_	_	_	_
-508-1	PKP051	508	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1319.901	_	_	_	_
+508-1	PKP051	508	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1318.051|End=1319.901	_	_	_	_
 509-0	PKP050	509	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=1320.55	_	_	_	_
 509-1	PKP050	509	1	perché	perché	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
 509-2	PKP050	509	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
