@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:27+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-11-17T14:59:34+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="KPC008.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="KPC008.mp3" />
     </HEADER>
@@ -4497,7 +4497,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a41">
-                <ANNOTATION_VALUE>e:hm: con la questione del covid quella che sta a washington ha passato tanto tempo in italia perché [tanto fa] smarti working</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e:hm: con la questione del covid quella che sta a washington ha passato tanto tempo in italia perché [tanto fa] smart working</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4562,7 +4562,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a87">
-                <ANNOTATION_VALUE>però siamo stati ecco a sirmio:ne, che è il post[o::] (.) più turisico che: [che es]ista ch'era pie~ pieno di tedeschi::</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>però siamo stati ecco a sirmio:ne, che è il post[o:: ](.) più turisico che: [che es]ista ch'era pie~ pieno di tedeschi::</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4917,7 +4917,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a346" ANNOTATION_REF="a345">
-                <ANNOTATION_VALUE>un po' più dec[ente ch]e l'lu:ltimo pezzo ((ride)) che disastro proprio l'ultimo pezzo di scottex</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>un po' più dec[ente ch]e l'u:ltimo pezzo ((ride)) che disastro proprio l'ultimo pezzo di scottex</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5202,7 +5202,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a524" ANNOTATION_REF="a523">
-                <ANNOTATION_VALUE>hanno avuto una quantità di ris[orse] eno:rmia, disposizio:ne, quindi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>hanno avuto una quantità di ris[orse] eno:rmi, disposizio:ne, quindi</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5717,7 +5717,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a852" ANNOTATION_REF="a851">
-                <ANNOTATION_VALUE>[qui]ndi se tu sei ricco ci devi avere il ma~ anche qua funziona un po' cosi però là il macchinone è (.) tremila e quattro di cilindrata</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[qui]ndi se tu sei ricco ci devi avere il ma~ anche qua funziona un po' così però là il macchinone è (.) tremila e quattro di cilindrata</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5857,7 +5857,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a948" ANNOTATION_REF="a947">
-                <ANNOTATION_VALUE>s~ io sono sicura saranno anni di turbolenze sociali [perché] è impossibile gestire un pa[ese::] (.) così</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>s~: io sono sicura saranno anni di turbolenze sociali [perché] è impossibile gestire un pa[ese::] (.) così</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5967,7 +5967,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1046" ANNOTATION_REF="a1045">
-                <ANNOTATION_VALUE>perché vi ha dato le:i o potete sceglierne a[nche altri]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>perché vi ha dato lei o potete sceglierne a[nche altri]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6702,7 +6702,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1644" ANNOTATION_REF="a1643">
-                <ANNOTATION_VALUE>è vero è assolutamente leggittimo però (.) m::h</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>è vero è assolutamente legittimo però (.) m::h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6782,7 +6782,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1698" ANNOTATION_REF="a1697">
-                <ANNOTATION_VALUE>se ti concentri solo &gt;sull'anidridide&lt; carbonica perdi di vista un tutt~ tutta un'altra serie di dinamiche per esempio la perdità di biodiversit[à:, la p]erdita no?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>se ti concentri solo &gt;sull'anidride&lt; carbonica perdi di vista un tutt~ tutta un'altra serie di dinamiche per esempio la perdita di biodiversit[à:, la p]erdita no?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6962,7 +6962,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1840" ANNOTATION_REF="a1839">
-                <ANNOTATION_VALUE>come le classficano</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>come le classificano</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10936,7 +10936,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1400" ANNOTATION_REF="a1399">
-                <ANNOTATION_VALUE>[sì:]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[sì: ]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11061,7 +11061,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1498" ANNOTATION_REF="a1497">
-                <ANNOTATION_VALUE>[&gt;mhmh&lt;],</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[&gt;mhmh&lt;,]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

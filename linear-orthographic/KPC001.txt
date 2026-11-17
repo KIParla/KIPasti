@@ -16,7 +16,7 @@ PKP026	mh mh
 PKP025	io
 PKP026	tè al limone
 PKP025	limone
-PKP025	# voi co fate sabato
+PKP025	voi co fate sabato
 PKP026	sabato ho prenotato in un ristorante che c'è una cena
 PKP025	dove
 PKP026	eh a senigallia c'è la cena con il dj e volendo ti puoi mascherare è il sabato di carnevale
@@ -54,7 +54,7 @@ PKP026	eh
 PKP025	eh
 PKP025	al miù
 PKP025	oppure tipo il paradise
-PKP026	eh ma là c~ vogli~ ci vuole più di mezz'ora di strada
+PKP026	eh ma là ci vogli~ ci vuole più di mezz'ora di strada
 PKP025	vabbè
 PKP026	anche per tornare dopo è
 PKP025	vai a cena all'una sei a casa
@@ -72,7 +72,7 @@ PKP025	okay per la casa però lei ha detto che non vuole niente poi non è il ma
 PKP025	pranzo
 PKP026	vabbè però un pensiero per il pranzo
 PKP025	un pensiero però non regalone
-PKP025	# co je fo
+PKP025	co je fo
 PKP026	qualcosa dal fioraio per la casa
 PKP025	il fioraio
 PKP026	un soprammobile c'ha delle cose
@@ -88,11 +88,11 @@ PKP025	oppure per michela
 PKP026	eh no
 PKP025	perché
 PKP026	fai qualcosa per tutti
-PKP025	oppure pensavo tipo l~ lo smartbox
+PKP025	oppure pensavo tipo lo lo smartbox
 PKP025	per loro due però costa c'è anche quello tipo da sessanta euro che vai
 PKP026	però quelle sono particolari poi dopo c'hai pochissima scelta devi riaggiungere i soldi
 PKP025	io l'ho fatto però te non avevi fatto quello
-PKP025	te però avevi fatto quello che ti aveva quello ch~
+PKP025	te però avevi fatto quello che ti aveva quello che
 PKP026	allora magari l'ingresso a una spa per lei e lui
 PKP025	eh ma la spa è cinquanta euro a persona
 PKP025	come quello che ho fatto a mari
@@ -143,7 +143,7 @@ PKP026	e allora
 PKP026	eh vabbè
 PKP025	però tipo a giulia
 PKP026	tu ci vai sempre a cena stai con la bambina
-PKP025	# infatti io ho detto in caso te fo da babysitter
+PKP025	infatti io ho detto in caso te fo da babysitter
 PKP026	cioè
 PKP026	ci sta
 PKP026	che t'ha invitato è normale
@@ -174,7 +174,7 @@ PKP025	elena
 PKP025	sì
 PKP026	e com'è fa da testimone lei
 PKP025	eh è ehm l'amica
-PKP026	ah perché c'ha la stessa età d~ di carlotta
+PKP026	ah perché c'ha la stessa età di di carlotta
 PKP025	sì sono amiche
 PKP026	ah ecco
 PKP026	sì è vero
@@ -202,13 +202,13 @@ PKP026	un pensiero secondo me ci vuole ed è carino
 PKP025	o un gioiello
 PKP026	ma un gioiello solo a lei non mi sembra giusto
 PKP025	solo a lei
-PKP025	a lu~ o a lei e lui
+PKP025	a lui o a lei e lui
 PKP025	tutti e due
 PKP026	eh
 PKP026	troppo personale
 PKP025	perché i fiori costano e poi tanto dopo tre giorni
 PKP026	una pianta vera non i fiori che appassiscono
-PKP025	# ma co ci fa
+PKP025	ma co ci fa
 PKP026	non c'ha un angolino nella casa una composizione ci son quei fiori belli finti
 PKP025	boh
 PKP025	e la spedisce pure la pianta
@@ -217,7 +217,7 @@ PKP025	la pianta
 PKP026	certo
 PKP025	no io se è gli faccio il bouquet
 PKP026	ma un bouquet
-PKP025	# o n'je fo niente
+PKP025	o n'je fo niente
 PKP026	ci sono quelle composizioni nel vetro ci sono tante di quelle cose belle
 PKP025	mh
 PKP026	fa piacere magari sabato lo riceve no
@@ -241,7 +241,7 @@ PKP025	proprio veloce manco le foto niente
 PKP025	quindi
 PKP026	ma scusa xx
 PKP025	ma è meglio perché se arrivi prestissimo poi devi aspetta le una
-PKP026	ma certo sì infatti dopo noi siam~ noi a mezzogiorno siamo andati vi~ a mezzanotte siamo andati via dopo cena non c'era niente per noi
+PKP026	ma certo sì infatti dopo noi siam~ noi a mezzogiorno siamo andati via a mezzanotte siamo andati via dopo cena non c'era niente per noi
 PKP025	c'ha pure cacciato dalla sala
 PKP025	sì a mezzogio~
 PKP025	dopo noi tempo che metti i giubbetti e tutto guardaroba
@@ -255,14 +255,14 @@ PKP025	eravamo io e un'amica sua che se chiama mar~ oddio
 PKP026	quella magrolina
 PKP025	bianchi la chiamano ma non so il nome vero
 PKP026	quella magrolina bionda
-PKP025	chia~ no chiara
+PKP025	chiara no chiara
 PKP025	sì
 PKP026	eh
 PKP025	come si chiama
 PKP026	non lo so
 PKP025	oddio
-PKP025	fa di cognome bianchini ah lu~ maria ludovica ludovica ludovica boh
-PKP026	ma è d~ di corinaldo o di senigallia
+PKP025	fa di cognome bianchini ah ludovica maria ludovica ludovica ludovica boh
+PKP026	ma è di di corinaldo o di senigallia
 PKP025	san lorenzo che era in classe con giulia alle superiori
 PKP026	mh
 PKP026	okay
@@ -293,9 +293,9 @@ PKP026	eh
 PKP025	una signora si gira ma voi a casa vostra non la chiudete la porta del bagno
 PKP026	a voi due
 PKP025	sì
-PKP025	e lei f~ fa tanto c'era lui che doveva entra'
-PKP025	eh io invece avevo capito che intendesse chiude' a chiave
-PKP025	e ho risposto guarda non fa la chiave quindi e~ era rimasto un po' aperto ma c'era l'antibagno
+PKP025	e lei fa fa tanto c'era lui che doveva entra'
+PKP025	eh io invece avevo capito che intendesse chiude a chiave
+PKP025	e ho risposto guarda non fa la chiave quindi era era rimasto un po' aperto ma c'era l'antibagno
 PKP026	mh
 PKP025	ma tanto
 PKP026	ma era un tavolo vicino alla porta
@@ -304,7 +304,7 @@ PKP026	beh perché non è proprio piacevole
 PKP025	ho capito l'hai scelto te
 PKP026	però quello lo dovevano dì al titolare
 PKP025	eh
-PKP025	cioè la chiudo se non c'è nessun altro che entra no che la chiudo lui la riapre la richiude
+PKP025	cioè la chiudo se non c'è nessun altro che entra no che la chiude lui la riapre la richiude
 PKP025	vabbè
 PKP026	v'hanno cigato subito v'hanno visto subito gioventù bruciata
 PKP025	sì
@@ -321,7 +321,7 @@ PKP025	perché il parcheggio se vai a cena è incluso
 PKP026	infatti io a loro dicevo guarda che mara m'ha detto che il parcheggio si paga in realtà ci hanno fatto entrare
 PKP025	ma io non lo sapevo
 PKP025	eh
-PKP025	per la cena s~ se
+PKP025	per la cena se se
 PKP026	dopo quando siamo andati a casa e c'era gente che entrava faceva pagare
 PKP025	lo fa paga'
 PKP025	tre euro
@@ -357,7 +357,7 @@ PKP025	i latini sì quella è più grande però
 PKP026	eh okay
 PKP025	infatti il bar era sempre vuoto ai latini
 PKP026	sì però nella locandina del miù ci sono sei stanze compresa quella del ristorante dove sono ste sei stanze mica ci sono
-PKP025	compresa il ristoran~
+PKP025	compresa il ristorante
 PKP026	eh
 PKP025	ristorante afro pista base latini tecno fuori
 PKP026	eh
@@ -367,7 +367,7 @@ PKP026	eh
 PKP026	ma tecno fuori dove fuori all'aperto
 PKP025	sì
 PKP026	e chi ci sta fuori all'aperto con sto tempo qua
-PKP025	è ap~ è aperto ma c'è la tettoia
+PKP025	è aperto è aperto ma c'è la tettoia
 PKP026	ma c'era la gente fuori
 PKP025	sì
 PKP026	ah
@@ -389,7 +389,7 @@ PKP025	esatto
 PKP025	le porte erano chiuse mentre nell'altra principale era aperto quindi più fresco più profumato
 PKP025	all'afro era proprio
 PKP025	tutto annebbiato
-PKP026	# comunque noi siamo stati costretti a andare via perché lì ce semo s~ ci siam fermati un attimo che c'era le po~ il posto per stare seduti
+PKP026	comunque noi siamo stati costretti a andare via perché lì ce semo s~ ci siam fermati un attimo che c'era le po~ il posto per stare seduti
 PKP025	dove
 PKP026	in quella lì rossa piccolina e dei ragazzini ci guardavano malissimo
 PKP026	e alla fine abbiam deciso de anda' a casa
@@ -404,7 +404,7 @@ PKP025	è tutto insieme praticamente io facevo il giro ci passavo dai latini
 PKP026	solo latini
 PKP026	esatto però non è non è un posto per gli over cinquanta
 PKP025	no
-PKP026	anche perché non vale la pena la cena s~ sì c'era
+PKP026	anche perché non vale la pena la cena sì sì c'era
 PKP025	no
 PKP026	una sala per gli over cinquanta separata allora poteva esse una cosa carina
 PKP025	è che anche la cena cioè
@@ -523,7 +523,7 @@ PKP025	ha delle convenzioni con la farmacia che glieli fa paga' cinque euro e qu
 PKP025	glieli offre
 PKP026	quando vanno a fa' gli allenamenti
 PKP025	esatto
-PKP025	quindi quello quello di ieri l'ha passato okay ma venerdì mado'
+PKP025	quindi quello quello di ieri l'ha passato okay ma venerdì mado'::
 PKP026	che vuol dire
 PKP025	eh c'ho paura perché sabato
 PKP026	ah
@@ -544,7 +544,7 @@ PKP026	erano tantissimi i buttafuori
 PKP025	eh ci credo
 PKP025	uno al kebab alle quattro sabato tipo tre sabati fa
 PKP025	era dal kebabbaro
-PKP025	e c'ha detto che apre il m~ a~ avrebbe aperto il miù insomma
+PKP025	e c'ha detto che apre il miù a~ avrebbe aperto il miù insomma
 PKP025	e che secondo lui
 PKP025	la situazione è peggio degli anni scorsi
 PKP026	cioè
@@ -657,7 +657,7 @@ PKP026	ah okay
 PKP026	ancora è presto non mi va
 PKP025	le quattro
 PKP025	oppure
-PKP025	# co prendo
+PKP025	co prendo
 PKP025	aiuto
 PKP025	lo yogurt c'è
 PKP026	no
@@ -669,9 +669,9 @@ PKP026	forse a senigallia
 PKP025	dove
 PKP026	a senigallia in un posto per il metano
 PKP026	per bloccare il prezzo del metano
-PKP025	# co vol dì
+PKP025	co vol dì
 PKP026	bloccar le tariffe perché se no aumenta di continuo
-PKP025	# cosa devi blocca'
+PKP025	cosa devi blocca'
 PKP026	il prezzo
 PKP026	fissiamo il contratto a una cifra
 PKP025	ma dove
@@ -716,7 +716,7 @@ PKP025	a salutare
 PKP025	poi ho visto gian
 PKP026	eh
 PKP025	anche gian col padre
-PKP026	col p~
+PKP026	col padre
 PKP025	ho visto dove abita
 PKP026	col padre di lui
 PKP025	col
@@ -741,7 +741,7 @@ PKP025	no
 PKP026	sì sì
 PKP026	era cinque gradi in meno rispetto a ieri
 PKP025	ho messo sta maglia
-PKP025	il giubbet~ era caldissimo al sole
+PKP025	il giubbetto era caldissimo al sole
 PKP026	va beh magari anche perché al sole
 PKP025	col cappuccio
 PKP025	si stava bene il vento non c'era manco
@@ -781,7 +781,7 @@ PKP025	sta settimana
 PKP025	perché c'avevo il naso chiuso
 PKP026	ma non è che se può prende come eh
 PKP025	era già iniziato eh
-PKP025	eh lì c'è scritto ne puoi prende due vol~ due
+PKP025	eh lì c'è scritto ne puoi prende due volte due
 PKP025	fino a quattro volte al giorno quindi un totale de otto
 PKP026	e te quanti ne hai presi
 PKP025	io ne ho prese due al giorno

@@ -18,7 +18,7 @@ PKP069	quest'anno con la co~ con il f~ con la questione del covid
 PKP069	beh innanzitutto io sto in italia so~ tornata in italia dopo anni e anni
 PKP063	mhmh
 PKP069	non c'ero mai
-PKP069	ehm con la questione del covid quella che sta a washington ha passato tanto tempo in italia perché tanto fa smarti working
+PKP069	ehm con la questione del covid quella che sta a washington ha passato tanto tempo in italia perché tanto fa smart working
 PKP063	ah o~
 PKP069	quindi non ha problemi di ferie che negli stati uniti sono inesistenti
 PKP063	sì
@@ -160,7 +160,7 @@ PKP063	se non ti dispiace prendo un pezzo di scottex intanto
 PKP069	certo
 PKP069	ti potrei dare anche un tovagliolo
 PKP063	ma va
-PKP069	un po' più decente che l'lultimo pezzo che disastro proprio l'ultimo pezzo di scottex
+PKP069	un po' più decente che l'ultimo pezzo che disastro proprio l'ultimo pezzo di scottex
 PKP063	tranquilla
 PKP063	ce l'ho fatta più o meno
 PKP063	perfetto grazie
@@ -248,7 +248,7 @@ PKP063	mhmh
 PKP063	mhmh
 PKP069	la bolivia di evo morales l'ecuador di rafael correa no
 PKP063	mh mh
-PKP069	hanno avuto una quantità di risorse enormia disposizione quindi
+PKP069	hanno avuto una quantità di risorse enormi disposizione quindi
 PKP063	mhmh
 PKP069	questi governi li hanno utilizzati
 PKP069	per tante cose però fra l'altro anche
@@ -409,7 +409,7 @@ PKP063	mh
 PKP069	quindi fai un po' infatti macchinoni
 PKP069	poi un paese di disuguali quindi dove i beni di status sono particolarmente importanti
 PKP063	mh
-PKP069	quindi se tu sei ricco ci devi avere il ma~ anche qua funziona un po' cosi però là il macchinone è tremila e quattro di cilindrata
+PKP069	quindi se tu sei ricco ci devi avere il ma~ anche qua funziona un po' così però là il macchinone è tremila e quattro di cilindrata
 PKP063	esatto il mega suv
 PKP069	che esattamente che quindi consuma un
 PKP063	un un casino
@@ -789,7 +789,7 @@ PKP069	sì
 PKP069	ma a cominciare dal fatto che
 PKP063	mhmh
 PKP069	tu dirai non è il tuo corso fatti i fatti
-PKP069	è vero è assolutamente leggittimo però mh
+PKP069	è vero è assolutamente legittimo però mh
 PKP069	se tu adotti una prospettiva di ecologia
 PKP063	mh mh
 PKP069	non va neanche bene parlare solo di climate change
@@ -816,7 +816,7 @@ PKP069	che vuol dire isolare una variabile e studiare solo quella
 PKP069	no a scapito poi di una visione più sistemica
 PKP063	sì
 PKP069	che e quest~ e quindi questo perché è un problema perché per esempio
-PKP069	se ti concentri solo sull'anidridide carbonica perdi di vista un tutt~ tutta un'altra serie di dinamiche per esempio la perdità di biodiversità la perdita no
+PKP069	se ti concentri solo sull'anidride carbonica perdi di vista un tutt~ tutta un'altra serie di dinamiche per esempio la perdita di biodiversità la perdita no
 PKP063	mhmh
 PKP069	esempio classico che si fa la palma africana
 PKP063	sì è vero
@@ -886,7 +886,7 @@ PKP069	mh ma tipo strutturalismo dipendenza
 PKP063	sì quell~
 PKP069	developmental state
 PKP063	sì
-PKP069	come le classficano
+PKP069	come le classificano
 PKP063	mainstream
 PKP069	mainstream
 PKP063	sì

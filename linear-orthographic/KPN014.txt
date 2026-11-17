@@ -37,7 +37,7 @@ PKP060	ho pranzato
 PKP060	ho mangiato la pasta con speck e zucca
 PKP060	poi
 PKP060	poi mi son messo a letto
-PKP060	e ho dormito ancora perché non mi ero alzato abbaztanza tardi
+PKP060	e ho dormito ancora perché non mi ero alzato abbastanza tardi
 PKP060	eh
 PKP060	e dopo mi sono messo lì a sistemare quel cazzo di ore del
 PKP057	del tirocinio
@@ -64,7 +64,7 @@ PKP060	al posto dell'acqua
 PKP060	sarà diverso sicuramente questo
 PKP057	mh
 PKP060	scusa
-PKP060	ci porteresti una bottiglia divino
+PKP060	ci porteresti una bottiglia di vino
 PKP060	sì
 PKP057	grazie
 PKP060	fatto
@@ -152,7 +152,7 @@ PKP060	perché lui si ricorda che quando era giovane facevano la pubblicità di 
 PKP060	e nella pubblicità dic~ dicevano chiaro limpido recoaro
 PKP057	ah
 PKP060	e lui vuole che spieghiamo le cose in modo chiaro limpido
-PKP057	stomalissimo facci una foto
+PKP057	sto malissimo facci una foto
 PKP060	adesso gliela mando subito
 PKP060	pensa te
 PKP060	anzi la mando sul gruppo del recoaro
@@ -194,7 +194,7 @@ PKP057	sto malissimo le ha ingannate
 PKP060	io ero già a casa
 PKP057	ah
 PKP060	che siamo andati via dal ristorante e loro andando a correggio che andavano a continuare la festa in via
-PKP060	casa di sua n~ ex casa di sua nonna
+PKP060	casa di sua n~ ex-casa di sua nonna
 PKP060	ehm si son fermati in tangenziale e hanno fatto visto che quella quel gli hanno fatto st~ il costume da autovelox perché lui li odia
 PKP057	ah
 PKP060	lui ha paurissima e
@@ -249,7 +249,7 @@ PKP060	e il dolce che era tipo una spe~ una specie di mascapone con un petalo di
 PKP057	mh
 PKP060	sapeva un sacco di rosa
 PKP057	ehm e con chi eri in tavolo tu
-PKP060	eh ero con un mio ex compagno di liceo
+PKP060	eh ero con un mio excompagno di liceo
 PKP057	mh
 PKP060	marco rossi
 PKP057	ah eh me lo ricordo
@@ -304,7 +304,7 @@ PKP060	e ventidue ventitre
 PKP057	ma cavolo
 PKP057	mi dispiace se sei stato un po' da solo
 PKP060	beh vabbè alla fine abbiamo fatto due chiacchiere
-PKP057	hai un poì di patata sul sul lì
+PKP057	hai un po' di patata sul sul lì
 PKP057	mi dispiace
 PKP060	eh oh
 PKP057	cucciolo
@@ -331,7 +331,7 @@ PKP057	nel senso che
 PKP060	c'è non era molto gonfio era
 PKP057	bassino
 PKP060	era bassino con qualche bollicina e
-PKP060	e i lati non erano tagliati a zig zag con la con la classica rotella da sfoglia ma eran dritti
+PKP060	e i lati non erano tagliati a zigzag con la con la classica rotella da sfoglia ma eran dritti
 PKP057	mhmh
 PKP060	dopo me la mandi così evito di scattarla io
 PKP057	mhmh
@@ -352,7 +352,7 @@ PKP057	sì
 PKP060	sì
 PKP057	fuma guarda
 PKP060	con settanta gradi ci tieni la mano fino a quattro secondi
-PKP060	con ottanta fino a uno circia
+PKP060	con ottanta fino a uno circa
 PKP057	beh dipende dalla sopportazione soggettiva
 PKP060	io parlo della mia infatti
 PKP057	ah anch'io
@@ -376,7 +376,7 @@ PKP057	ah
 PKP057	mh
 PKP057	secondo me però ha ragione
 PKP057	non ci sta bene nel tuo
-PKP057	# perché i tuoi sono già tacconenti e appiccicosi
+PKP057	perché i tuoi sono già tacconenti e appiccicosi
 PKP060	lo saprà meglio di me
 PKP057	e son già belli saporiti
 PKP057	cioè secondo me è un po' inutile la salsa di soia xx
@@ -612,9 +612,9 @@ PKP057	una mega ciotolona con sotto il fuoco piena di brodo
 PKP057	e c'è in realtà penso sia
 PKP057	non è proprio un brodo è un'acqua salata
 PKP057	e ti danno un sacco di ingredienti crudi e tu li metti dentro
-PKP057	# subito metti le verdure che stan lì a padire eccetera eccetera eh
+PKP057	subito metti le verdure che stan lì a padire eccetera eccetera eh
 PKP057	ehm
-PKP060	# padire
+PKP060	padire
 PKP057	sì ehm
 PKP057	e poi pian piano metti la carne
 PKP057	quindi l'acqua si insaporisce

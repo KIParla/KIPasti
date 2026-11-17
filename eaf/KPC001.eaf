@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-17T17:31:43+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-11-17T14:59:23+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="KPC001.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="KPC001.mp3" />
     </HEADER>
@@ -4293,7 +4293,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a39">
-                <ANNOTATION_VALUE># voi co fate sabato</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#voi co fate sabato</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4458,7 +4458,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a151">
-                <ANNOTATION_VALUE># &gt;co je fo&lt;</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#&gt;co je fo&lt;</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4508,7 +4508,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a185">
-                <ANNOTATION_VALUE>OPPURE PENSAVO tipo l::~ lo smartbox</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>OPPURE PENSAVO tipo l::o lo smartbox</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4523,7 +4523,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a193">
-                <ANNOTATION_VALUE>te &gt;però avevi&lt; fatto quello: che t(i) aveva: [(quello ch~)]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>te &gt;però avevi&lt; fatto quello: che t(i) aveva: [(quello che)]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4683,7 +4683,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a299">
-                <ANNOTATION_VALUE># [&gt;infatti&lt; io] ho detto in caso:: te fo [da babysi]tter</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#[&gt;infatti&lt; io] ho detto in caso:: te fo [da babysi]tter</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4878,7 +4878,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a420" ANNOTATION_REF="a419">
-                <ANNOTATION_VALUE>[a lu~ (&gt;o a&lt;) lei e lui]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[a lui (&gt;o a&lt;) lei e lui]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4893,7 +4893,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a432" ANNOTATION_REF="a431">
-                <ANNOTATION_VALUE># [ma co ci fa]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[#ma co ci fa]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4918,7 +4918,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a450" ANNOTATION_REF="a449">
-                <ANNOTATION_VALUE># o n'je fo niente ((ride))</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#o n'je fo niente ((ride))</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5038,7 +5038,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a526" ANNOTATION_REF="a525">
-                <ANNOTATION_VALUE>[CHIA~ (.) no chiara]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[CHIARA (.) no chiara]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5058,7 +5058,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a538" ANNOTATION_REF="a537">
-                <ANNOTATION_VALUE>&gt;fa di cognome&lt; &lt;bianchini&gt; (.) ah lu~ MARIA LUDOVICA ludovica (.) [ludovica °boh°]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&gt;fa di cognome&lt; &lt;bianchini&gt; (.) ah ludovica MARIA LUDOVICA ludovica (.) [ludovica °boh°]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5153,17 +5153,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a604" ANNOTATION_REF="a603">
-                <ANNOTATION_VALUE>e lei f~ fa ((ride)) tanto c'era lui che doveva entra'</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e lei fa fa ((ride)) tanto c'era lui che doveva entra'</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a606" ANNOTATION_REF="a605">
-                <ANNOTATION_VALUE>eh (.) io invece avevo capito che intendesse chiude' a chiave</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>eh (.) io invece avevo capito che intendesse chiude a chiave</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a608" ANNOTATION_REF="a607">
-                <ANNOTATION_VALUE>e ho risposto guarda (.) non fa la chiave quindi e~ era rimasto un po' aperto ma c'era l'antibagno</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e ho risposto guarda (.) non fa la chiave quindi era era rimasto un po' aperto ma c'era l'antibagno</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5188,7 +5188,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a626" ANNOTATION_REF="a625">
-                <ANNOTATION_VALUE>&gt;cioè&lt; (.) la CHIUDO SE NON C'È NESSUN ALTRO CHE ENTRA (.) no che la chiudo lui la riapre la °richiude°</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&gt;cioè&lt; (.) la CHIUDO SE NON C'È NESSUN ALTRO CHE ENTRA (.) no che la chiude lui la riapre la °richiude°</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5253,7 +5253,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a660" ANNOTATION_REF="a659">
-                <ANNOTATION_VALUE>PER LA [CENA s~ se:]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>PER LA [CENA se se:]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5363,7 +5363,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a734" ANNOTATION_REF="a733">
-                <ANNOTATION_VALUE>[compre]sa il ristoran~</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[compre]sa il ristorante</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5378,7 +5378,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a754" ANNOTATION_REF="a753">
-                <ANNOTATION_VALUE>&gt;è ap&lt;~ è aperto ma c'è la tetto[ia]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&gt;è aperto è aperto ma c'è la tetto[ia]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5893,7 +5893,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1074" ANNOTATION_REF="a1073">
-                <ANNOTATION_VALUE>QUINDI &gt;quello&lt; quello di ieri l'ha passato okay (.) ma venerdì mado::'</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>QUINDI &gt;quello&lt; quello di ieri l'ha passato okay (.) ma venerdì mado'::</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5968,7 +5968,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1116" ANNOTATION_REF="a1115">
-                <ANNOTATION_VALUE>e c'ha detto che: apre il m~ a~ avrebbe aperto il miù (i)nsomma</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e c'ha detto che: apre il miù a~ avrebbe aperto il miù (i)nsomma</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6293,7 +6293,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1346" ANNOTATION_REF="a1345">
-                <ANNOTATION_VALUE># °co prendo°</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#°co prendo°</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6328,12 +6328,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1370" ANNOTATION_REF="a1369">
-                <ANNOTATION_VALUE># co vol dì</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#co vol dì</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1374" ANNOTATION_REF="a1373">
-                <ANNOTATION_VALUE># co(sa) devi blocca'</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#co(sa) devi blocca'</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6563,7 +6563,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1514" ANNOTATION_REF="a1513">
-                <ANNOTATION_VALUE>il giubbet~ era caldissimo al so[le]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>il giubbetto era caldissimo al so[le]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6678,7 +6678,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1596" ANNOTATION_REF="a1595">
-                <ANNOTATION_VALUE>°eh° (.) lì c'è scritto:: ne puoi prende due vol~ (.) &lt;due&gt;,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>°eh° (.) lì c'è scritto:: ne puoi prende due volte (.) &lt;due&gt;,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8592,7 +8592,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a115">
-                <ANNOTATION_VALUE>eh ma là: (.) c~ vogli~ ci vuole più di mezz'ora di strada</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>eh ma là: (.) ci vogli~ ci vuole più di mezz'ora di strada</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8832,7 +8832,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a362" ANNOTATION_REF="a361">
-                <ANNOTATION_VALUE>&gt;ah perché c'ha la stessa età d~ di carlotta&lt;</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&gt;ah perché c'ha la stessa età di di carlotta&lt;</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8967,7 +8967,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a498" ANNOTATION_REF="a497">
-                <ANNOTATION_VALUE>[ma] &lt;certo&gt; sì infatti [dopo noi siam~ NOI A MEZZOGIORNO s]iamo andati vi~ [a mezzanotte siamo an]dati via (.) &lt;dopo cena non c'era nien[te °per noi°&gt;]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[ma] &lt;certo&gt; sì infatti [dopo noi siam~ NOI A MEZZOGIORNO s]iamo andati via [a mezzanotte siamo an]dati via (.) &lt;dopo cena non c'era nien[te °per noi°&gt;]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8997,7 +8997,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a540" ANNOTATION_REF="a539">
-                <ANNOTATION_VALUE>[ma è d~ di corina]ldo o di se[nigallia]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[ma è di di corina]ldo o di se[nigallia]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9152,7 +9152,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a712" ANNOTATION_REF="a711">
-                <ANNOTATION_VALUE>&lt;piccolis[sima&gt;],</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&lt;piccolis[sima&gt;,]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9247,7 +9247,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a798" ANNOTATION_REF="a797">
-                <ANNOTATION_VALUE># [comunque noi siamo stati] costretti a anda(re) via perché lì &gt;ce semo s~ ci siam&lt; fermati (u)n attimo che c'era le po:~ il: posto pe(r) sta(re) sedu:ti</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#[comunque noi siamo stati] costretti a anda(re) via perché lì &gt;ce semo s~ ci siam&lt; fermati (u)n attimo che c'era le po:~ il: posto pe(r) sta(re) sedu:ti</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9292,7 +9292,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a830" ANNOTATION_REF="a829">
-                <ANNOTATION_VALUE>&gt;anche perché non vale la pena&lt; la cena: s~ [sì c'e]ra</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&gt;anche perché non vale la pena&lt; la cena: sì [sì c'e]ra</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9897,12 +9897,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1464" ANNOTATION_REF="a1463">
-                <ANNOTATION_VALUE>co[l p~]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>co[l padre]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1468" ANNOTATION_REF="a1467">
-                <ANNOTATION_VALUE>[c]ol padre di lui?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[c]ol padre di lui[]?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

@@ -17,7 +17,7 @@ PKP026	[mh] mh
 PKP025	io?
 PKP026	[tè al limo]ne
 PKP025	[limone]
-PKP025	# voi co fate sabato
+PKP025	#voi co fate sabato
 PKP026	sabato: <ho prenotato:> (.) in un ristorante che c'è una cena,
 PKP025	dove
 PKP026	e::h a senigallia, c'è la cena con il dj e volendo: ti puoi mascherare, è il sabato di carneval[e]
@@ -55,7 +55,7 @@ PKP026	eh
 PKP025	eh
 PKP025	al miù
 PKP025	oppure tipo il pa:radise
-PKP026	eh ma là: (.) c~ vogli~ ci vuole più di mezz'ora di strada
+PKP026	eh ma là: (.) ci vogli~ ci vuole più di mezz'ora di strada
 PKP025	vabbè
 PKP026	anche per tornare d[opo è::]
 PKP025	[vai a cena:::] all'una sei a casa
@@ -73,7 +73,7 @@ PKP025	[okay >per la cas]a però lei< ha detto che non: vuole niente (.) poi non
 PKP025	pra[nzo]
 PKP026	[>vabbè] però< un pensie:ro per il pra[nzo]
 PKP025	[un pensiero] >però< (.) no(n) regalone
-PKP025	# >co je fo<
+PKP025	#>co je fo<
 PKP026	qualcosa dal fioraio (.) per la casa
 PKP025	>il fioraio<
 PKP026	un soprammobile c'ha delle cose::
@@ -90,11 +90,11 @@ PKP025	oppure per:: michela
 PKP026	°eh° no
 PKP025	>perché<
 PKP026	fai qualcosa per <tutti>
-PKP025	OPPURE PENSAVO tipo l::~ lo smartbox
+PKP025	OPPURE PENSAVO tipo l::o lo smartbox
 PKP025	per loro due (.) >però< costa (.) c'è anche quello tipo da sessanta euro che vai:
 PKP026	però quelle sono: particolari poi dopo c'hai pochissi[ma scelta <devi riaggiungere i so:]ldi>
 PKP025	[io l'ho fa:tto >°però°< te non avevi fatto quello]
-PKP025	te >però avevi< fatto quello: che t(i) aveva: [(quello ch~)]
+PKP025	te >però avevi< fatto quello: che t(i) aveva: [(quello che)]
 PKP026	[allora] magari l'ingresso a: una spa per lei [e lui]
 PKP025	[eh ma la] spa è: cinquanta euro a persona
 PKP025	>come quello< che ho fatto a mari
@@ -147,7 +147,7 @@ PKP026	[e allora]?
 PKP026	eh >vabbè<
 PKP025	però tipo a giulia:
 PKP026	tu ci vai sempre a ce:na: >stai< con la bambi:na
-PKP025	# [>infatti< io] ho detto in caso:: te fo [da babysi]tter
+PKP025	#[>infatti< io] ho detto in caso:: te fo [da babysi]tter
 PKP026	[cioè]
 PKP026	[ci sta]
 PKP026	che t'ha [invi]tato >è normale<
@@ -178,7 +178,7 @@ PKP025	[>elena<]
 PKP025	[sì]
 PKP026	>e com'è fa da testimone lei<?
 PKP025	eh è ehm: l'amica
-PKP026	>ah perché c'ha la stessa età d~ di carlotta<
+PKP026	>ah perché c'ha la stessa età di di carlotta<
 PKP025	sì (.) [so(no) ami]che
 PKP026	[ah: °>ecco<°]
 PKP026	>sì è vero<
@@ -207,13 +207,13 @@ PKP026	un pensiero secondo me ci vuole ed è cari[no]
 PKP025	[o (u)n] GIOIELLO
 PKP026	ma un gioiello solo a [LEI non] mi s[embra <giusto>]
 PKP025	[°solo a lei°]
-PKP025	[a lu~ (>o a<) lei e lui]
+PKP025	[a lui (>o a<) lei e lui]
 PKP025	tutti e due
 PKP026	eh
 PKP026	troppo person[ale]
 PKP025	[perché i f]iori costano e poi tanto dopo: tre gior[ni:]
 PKP026	[una] <pianta vera> non i fiori [che appassis]cono
-PKP025	# [ma co ci fa]
+PKP025	[#ma co ci fa]
 PKP026	non c'ha un angolino nella casa una >comp[osizi]one ci son> quei fiori belli fi:nti
 PKP025	[boh]
 PKP025	e la spedisce pure la pia[nta]?
@@ -222,7 +222,7 @@ PKP025	[la pianta]
 PKP026	CERTO
 PKP025	no io se è gli faccio il bouquet
 PKP026	ma un BOUQUET
-PKP025	# o n'je fo niente ((ride))
+PKP025	#o n'je fo niente ((ride))
 PKP026	>ci sono quelle composizioni nel< ve:tro: ci sono tante di quelle cose be:lle
 PKP025	°mh°
 PKP026	fa piacere magari sabato lo riceve no?
@@ -246,7 +246,7 @@ PKP025	>proprio< (.) veloce manco: le fo:to niente
 PKP025	>quindi<
 PKP026	ma scusa [xx]
 PKP025	[MA È MEGLIO] perché se arrivi <prestissimo> poi devi aspetta le [una]
-PKP026	[ma] <certo> sì infatti [dopo noi siam~ NOI A MEZZOGIORNO s]iamo andati vi~ [a mezzanotte siamo an]dati via (.) <dopo cena non c'era nien[te °per noi°>]
+PKP026	[ma] <certo> sì infatti [dopo noi siam~ NOI A MEZZOGIORNO s]iamo andati via [a mezzanotte siamo an]dati via (.) <dopo cena non c'era nien[te °per noi°>]
 PKP025	[c'ha pure cacciato dalla sala]
 PKP025	[°sì a mezzogio~°]
 PKP025	[dopo no]i:: (.) tempo che metti i giubbetti e tutto (.) guardaro:ba
@@ -260,14 +260,14 @@ PKP025	eravamo io e: un'amica sua che se chia:ma: mar~ odd[io]
 PKP026	[que]lla magrolina?
 PKP025	bianchi la chiamano ma non so il nome vero
 PKP026	quella ma[grolina bionda]
-PKP025	[CHIA~ (.) no chiara]
+PKP025	[CHIARA (.) no chiara]
 PKP025	sì
 PKP026	eh
 PKP025	>come °si chiama°<
 PKP026	non lo so
 PKP025	o:ddio
-PKP025	>fa di cognome< <bianchini> (.) ah lu~ MARIA LUDOVICA ludovica (.) [ludovica °boh°]
-PKP026	[ma è d~ di corina]ldo o di se[nigallia]
+PKP025	>fa di cognome< <bianchini> (.) ah ludovica MARIA LUDOVICA ludovica (.) [ludovica °boh°]
+PKP026	[ma è di di corina]ldo o di se[nigallia]
 PKP025	[san lorenz]o (.) [che e]ra in classe con:: giulia alle [>superiori<]
 PKP026	[mh]
 PKP026	[oka]:y,
@@ -299,9 +299,9 @@ PKP026	eh
 PKP025	una signora (.) si gira ma::: voi a casa vostra non la: chiudete la porta del bagno?
 PKP026	a voi due?
 PKP025	sì
-PKP025	e lei f~ fa ((ride)) tanto c'era lui che doveva entra'
-PKP025	eh (.) io invece avevo capito che intendesse chiude' a chiave
-PKP025	e ho risposto guarda (.) non fa la chiave quindi e~ era rimasto un po' aperto ma c'era l'antibagno
+PKP025	e lei fa fa ((ride)) tanto c'era lui che doveva entra'
+PKP025	eh (.) io invece avevo capito che intendesse chiude a chiave
+PKP025	e ho risposto guarda (.) non fa la chiave quindi era era rimasto un po' aperto ma c'era l'antibagno
 PKP026	mh
 PKP025	°ma tanto°
 PKP026	ma era un tavolo vicino alla por[ta]
@@ -310,7 +310,7 @@ PKP026	[beh >perché non è proprio< (.) PIACE]VOLE ((sospira))
 PKP025	>ho capito< (.) l'hai scelto [te]
 PKP026	[>però] quello lo dovevano [dì< al ti]tolare
 PKP025	[eh]
-PKP025	>cioè< (.) la CHIUDO SE NON C'È NESSUN ALTRO CHE ENTRA (.) no che la chiudo lui la riapre la °richiude°
+PKP025	>cioè< (.) la CHIUDO SE NON C'È NESSUN ALTRO CHE ENTRA (.) no che la chiude lui la riapre la °richiude°
 PKP025	>°vabbè°<
 PKP026	v'hanno cigato su[bito] v'hanno visto subito [gioventù: bru]ciata
 PKP025	[°sì°]
@@ -327,7 +327,7 @@ PKP025	[PER]CHÉ il parcheggio se vai a cena è inclu:so
 PKP026	infatti io a loro di[cevo guarda che mara] m'ha detto che il parcheggio si paga in [realtà c]i hanno fatto entrare
 PKP025	[ma io non lo sapevo]
 PKP025	[eh]
-PKP025	PER LA [CENA s~ se:]
+PKP025	PER LA [CENA se se:]
 PKP026	[<DOPO>] (.) quando siamo andati a casa e c'era gente che entrava [faceva paga]re
 PKP025	[lo fa paga']
 PKP025	tre euro
@@ -353,7 +353,7 @@ PKP025	[li hanno messi do]po: [(i)l covid]
 PKP026	>[quindi quella la sal]a è piccolissima< [poi c'è] quella s[ala RO:SSA]
 PKP025	[(minusc~)]
 PKP025	[NO PICCOLA NO:]
-PKP026	<piccolis[sima>],
+PKP026	<piccolis[sima>,]
 PKP025	[quella ros]sa è >piccolissima ma sai cos'è è che< (.) [le porte so chiu:se]
 PKP026	[sì ma lì cosa c'e]:ra
 PKP025	l'afro
@@ -364,7 +364,7 @@ PKP025	°i latini sì° quella è più grande per[ò]
 PKP026	[e]h ok[a:y]
 PKP025	[infa]tti il bar era sempre vuoto ai latini
 PKP026	<sì però (.) nella locandina del miù ci sono:: sei stanze> compresa quella del ristorante dove sono ste sei stanze >mica [ci sono<]
-PKP025	[compre]sa il ristoran~
+PKP025	[compre]sa il ristorante
 PKP026	eh
 PKP025	ristorante (.) afro (.) pista base (.) [lati]ni (.) tecno fuori
 PKP026	eh
@@ -374,7 +374,7 @@ PKP026	eh
 PKP026	ma tecno fuori dove fuori all'ape[rto]
 PKP025	[sì]
 PKP026	e chi ci sta fuori all'aperto con sto tempo qua
-PKP025	>è ap<~ è aperto ma c'è la tetto[ia]
+PKP025	>è aperto è aperto ma c'è la tetto[ia]
 PKP026	[ma] c'era la ge[nte fuo]ri
 PKP025	[sì],
 PKP026	[a::h]
@@ -396,7 +396,7 @@ PKP025	[esatto]
 PKP025	le porte erano chiuse mentre nell'altra principale era aperto >quindi< (.) più fresco più ((ride)) profumato
 PKP025	all'afro era proprio:
 PKP025	<t[utto annebbiato>]
-PKP026	# [comunque noi siamo stati] costretti a anda(re) via perché lì >ce semo s~ ci siam< fermati (u)n attimo che c'era le po:~ il: posto pe(r) sta(re) sedu:ti
+PKP026	#[comunque noi siamo stati] costretti a anda(re) via perché lì >ce semo s~ ci siam< fermati (u)n attimo che c'era le po:~ il: posto pe(r) sta(re) sedu:ti
 PKP025	dove
 PKP026	in quella lì rossa piccolina, e dei ragazzini <ci guardavano:: malissimo>
 PKP025	((ride))
@@ -412,7 +412,7 @@ PKP025	[è tutto insieme >prati]camente< io fa[cevo il giro ci passavo] dai [lat
 PKP026	[solo latini]
 PKP026	[esa:]tto però non è: non è un posto per gli over [cin]quanta
 PKP025	[no]
-PKP026	>anche perché non vale la pena< la cena: s~ [sì c'e]ra
+PKP026	>anche perché non vale la pena< la cena: sì [sì c'e]ra
 PKP025	[no]
 PKP026	<una sala per gli over cinquanta> separata >allora poteva esse< (u)na cosa carina
 PKP025	è che anche la cena: >cioè<
@@ -534,7 +534,7 @@ PKP025	ha:: delle convenzioni con la farmacia >che glieli fa paga' cinque euro< 
 PKP025	glieli offre
 PKP026	[quando vanno a f]a' gli allename:n[ti:]
 PKP025	[esatto]
-PKP025	QUINDI >quello< quello di ieri l'ha passato okay (.) ma venerdì mado::'
+PKP025	QUINDI >quello< quello di ieri l'ha passato okay (.) ma venerdì mado'::
 PKP026	>°che v(u)ol di(re)°<
 PKP025	eh c'ho paura >perché< (.) sabato
 PKP026	a:h
@@ -555,7 +555,7 @@ PKP026	[erano <tanti]ssimi> i butta[fuori]
 PKP025	eh ci credo
 PKP025	UNO (.) al kebab alle quattro sabato: (.) tipo tre sabati fa
 PKP025	era:: dal kebabbaro
-PKP025	e c'ha detto che: apre il m~ a~ avrebbe aperto il miù (i)nsomma
+PKP025	e c'ha detto che: apre il miù a~ avrebbe aperto il miù (i)nsomma
 PKP025	e che secondo lui:
 PKP025	la situazione è (.) peggio degli anni scorsi
 PKP026	cioè?
@@ -670,7 +670,7 @@ PKP026	[ah °o]kay°,
 PKP026	ancora è presto non mi va
 PKP025	le quattro
 PKP025	oppure,
-PKP025	# °co prendo°
+PKP025	#°co prendo°
 PKP025	°aiuto°
 PKP025	lo yogurt c'è
 PKP026	no
@@ -682,9 +682,9 @@ PKP026	forse a senigalli[a]
 PKP025	[do]ve
 PKP026	a senigallia in un posto per: il metano
 PKP026	per bloccare il prezzo del metano
-PKP025	# co vol dì
+PKP025	#co vol dì
 PKP026	bloccar le tariffe perché: se no aumenta di continuo
-PKP025	# co(sa) devi blocca'
+PKP025	#co(sa) devi blocca'
 PKP026	il prezzo
 PKP026	fissiamo il contratto:: a una ci[fra]
 PKP025	[ma do]ve
@@ -729,9 +729,9 @@ PKP025	a salutare
 PKP025	POI ho visto gian
 PKP026	((inspira)) [eh]
 PKP025	[>anche<] gian col padre
-PKP026	co[l p~]
+PKP026	co[l padre]
 PKP025	[ho v]isto dove abit[a]
-PKP026	[c]ol padre di lui?
+PKP026	[c]ol padre di lui[]?
 PKP025	[(c]ol)
 PKP025	o:ddio
 PKP025	°ho° fatto un mace°llo°
@@ -754,7 +754,7 @@ PKP025	no: ((sbuffa))
 PKP026	[sì] sì
 PKP026	era cinque gradi [in meno <RISPETTO A IE]RI>
 PKP025	[ho messo sta maglia]
-PKP025	il giubbet~ era caldissimo al so[le]
+PKP025	il giubbetto era caldissimo al so[le]
 PKP026	[va] beh magari [anche perché al s]ole
 PKP025	[col cappuccio]
 PKP025	>si stava bene< (.) il vento non c'era manco
@@ -795,7 +795,7 @@ PKP025	[°sta se]ttimana°
 PKP025	perché:: >c'avevo il naso chiuso<
 PKP026	ma >non è che se [p(u)ò< prende come:] eh ((sospira))
 PKP025	[era già iniziato eh]
-PKP025	°eh° (.) lì c'è scritto:: ne puoi prende due vol~ (.) <due>,
+PKP025	°eh° (.) lì c'è scritto:: ne puoi prende due volte (.) <due>,
 PKP025	fino a quattro volte al giorno [>quindi=un totale de otto<
 PKP026	[>e te quanti ne hai presi<]
 PKP025	>io ne ho prese< due al giorno

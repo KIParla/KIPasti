@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-10-14T19:18:27+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="kiparla-tools" DATE="2026-11-17T14:59:27+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="KPC003.mp3" MIME_TYPE="audio/mpeg" RELATIVE_MEDIA_URL="KPC003.mp3" />
     </HEADER>
@@ -2697,7 +2697,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a199">
-                <ANNOTATION_VALUE>se sei un ottant'enne</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>se sei un ottantenne</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2707,7 +2707,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a203">
-                <ANNOTATION_VALUE>cioè tipo x</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>cioè tipo dico</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2717,7 +2717,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a207">
-                <ANNOTATION_VALUE>e le fa i peperoni? (.) ma la sera?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e lei fa i peperoni? (.) ma la sera?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2857,7 +2857,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a326" ANNOTATION_REF="a325">
-                <ANNOTATION_VALUE>parto anch'io eh</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a parte anch'io eh</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2987,7 +2987,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a440" ANNOTATION_REF="a439">
-                <ANNOTATION_VALUE>se no scusa eh</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sennò scusa eh</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3067,7 +3067,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a514" ANNOTATION_REF="a513">
-                <ANNOTATION_VALUE>e: sicchè e: eh per il compleanno qualche anno fa gli hanno regalato: un coso per misurarsi la pressione gli regalavano ste cose qua</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e: sicché e: eh per il compleanno qualche anno fa gli hanno regalato: un coso per misurarsi la pressione gli regalavano ste cose qua</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3407,7 +3407,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a846" ANNOTATION_REF="a845">
-                <ANNOTATION_VALUE>[mi si sono stacca]ti tutti i cicchi (.) dell'uva</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[mi si sono stacca]ti tutti i chicci (.) dell'uva</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5411,7 +5411,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>sì un pochini sì li ho fatti in xxx</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sì un pochino sì li ho fatti in xxx</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5711,7 +5711,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a227">
-                <ANNOTATION_VALUE>e:h allora no (.) madonna santo mio</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e:h allora no (.) madonna santa mio</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -5846,7 +5846,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a331">
-                <ANNOTATION_VALUE>((sospiro) [ah ma]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>((sospiro)) [ah ma]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6291,7 +6291,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a642" ANNOTATION_REF="a641">
-                <ANNOTATION_VALUE>tirò una boccata: (.) in terra madonna mi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tirò una boccata: (.) in terra madonna</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6311,7 +6311,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a654" ANNOTATION_REF="a653">
-                <ANNOTATION_VALUE>non mi ricordo (.) però fatto sta parina: (.) a un certo punto le era proprio capito sce:sa: non ce l'aveva più:</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>non mi ricordo (.) però fatto sta parina: (.) a un certo punto gli era proprio capito sce:sa: non ce l'aveva più:</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6396,7 +6396,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a706" ANNOTATION_REF="a705">
-                <ANNOTATION_VALUE>mica per altro ma perché lo sai che (.) me fan freddo a me ((ride)) quando sono bagnata in spiaggia</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mica per altro ma perché lo sai che (.) me fa (u)n freddo a me ((ride)) quando sono bagnata in spiaggia</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6746,7 +6746,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a990" ANNOTATION_REF="a989">
-                <ANNOTATION_VALUE>a:h okay allora ho capito ma~</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a:h okay allora ho capito male</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6921,7 +6921,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1106" ANNOTATION_REF="a1105">
-                <ANNOTATION_VALUE>(alo) cavalo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>(allo') cavalo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6966,7 +6966,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1144" ANNOTATION_REF="a1143">
-                <ANNOTATION_VALUE>ho capito però parine: cioè anche loro hanno da~ il diritto di vivere la propria vita eh</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ho capito però carine: cioè anche loro hanno da~ il diritto di vivere la propria vita eh</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7001,7 +7001,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1164" ANNOTATION_REF="a1163">
-                <ANNOTATION_VALUE>pappi pappi pappi girl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>puppy puppy puppy girl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

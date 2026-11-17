@@ -2,7 +2,7 @@ PKP093	no dai ci siamo
 PKP024	xx xx lo rimetto xx
 PKP093	se non c'è
 PKP093	sono avanzati i peperoni?
-PKP024	sì un pochini sì li ho fatti in xxx
+PKP024	sì un pochino sì li ho fatti in xxx
 PKP093	no li hai fatti te
 PKP024	((ride)) siamo in due
 PKP093	ho capito ma i peperoni: alla fine
@@ -97,11 +97,11 @@ PKP093	[la mangi lì per pran~]
 PKP093	oh dio:
 PKP024	eh oh
 PKP024	così (.) che ti devo dì
-PKP093	se sei un ottant'enne
+PKP093	se sei un ottantenne
 PKP093	sei come la mi(a) mamma (.) che la s~ tipa dice (.) no e:
-PKP093	cioè tipo x
+PKP093	cioè tipo dico
 PKP093	mamma ma: (.) stasera mi fai i peperoni?
-PKP093	e le fa i peperoni? (.) ma la sera?
+PKP093	e lei fa i peperoni? (.) ma la sera?
 PKP093	ma (.) te li sbuccio (.) dico mamma ma perché?
 PKP093	perché la buccia de peperoni la sera rimane indigesta dopo [non dormo]
 PKP024	[sì sì è vero] (.) è mh un po' indigesta
@@ -111,7 +111,7 @@ PKP024	no non è vero
 PKP024	però:
 PKP024	è vero che è difficile digerirli
 PKP093	no
-PKP024	e:h allora no (.) madonna santo mio
+PKP024	e:h allora no (.) madonna santa mio
 PKP024	no lui ce l'ha spaccia~ ((ride)) ~ata
 PKP024	o è una stella (.) no quella se m(u)ove
 PKP024	se m(u)ove no?
@@ -160,10 +160,10 @@ PKP093	a x non li rimangono questi ((ride))
 PKP024	basta (.) xxxxxxx
 PKP093	((ride)) un sasso è capace a mangia' anche quello
 PKP024	intacca
-PKP093	parto anch'io eh
+PKP093	a parte anch'io eh
 PKP024	>acqua qua qua qua<
 PKP093	tipo stasera no (.) ma una carbonarina [dopo cena]?
-PKP024	((sospiro) [ah ma]
+PKP024	((sospiro)) [ah ma]
 PKP024	così (no)n dormo
 PKP093	mh
 PKP093	<eleonora>
@@ -217,7 +217,7 @@ PKP024	ho già chiesto (.) perdono
 PKP024	>e poi boh<
 PKP024	cioè i posti ce ne sono qui intorno da andare
 PKP024	>ci voglio< (.) tornare anche alle cinque terre
-PKP093	se no scusa eh
+PKP093	sennò scusa eh
 PKP024	mh
 PKP093	quel giorno che si va a mangiare fuori
 PKP024	eh
@@ -254,7 +254,7 @@ PKP093	p[erò:]
 PKP024	>[sì anche da me] ci stava quello< (.) >ora invece ci sta quello nuovo< che si mette fino ai polsi
 PKP093	poi
 PKP093	il mi(o) no~ ((ride)) (.) tra l'altro lui (.) e:h gli piacciono >ste cose< magari è anche un po' ipocondriaco
-PKP093	e: sicchè e: eh per il compleanno qualche anno fa gli hanno regalato: un coso per misurarsi la pressione gli regalavano ste cose qua
+PKP093	e: sicché e: eh per il compleanno qualche anno fa gli hanno regalato: un coso per misurarsi la pressione gli regalavano ste cose qua
 PKP024	mh
 PKP093	è il mi(o) nonno paterno [e:] m:h
 PKP024	mh [mh]
@@ -318,13 +318,13 @@ PKP024	((ride))
 PKP024	lei è svenuta svenne in classe
 PKP024	((ride)) (.) cioè oh dio >c'è poco da ri~< ((ride))
 PKP093	ma sì ma sono divertenti ste cose
-PKP024	tirò una boccata: (.) in terra madonna mi
+PKP024	tirò una boccata: (.) in terra madonna
 PKP093	ma quando?
 PKP024	quando s'era (i)n terza
 PKP024	un po' c'era la chierixx ((ride))
 PKP093	((ride))
 PKP024	ah e:h (.) no (.) o in terza o in quarta
-PKP024	non mi ricordo (.) però fatto sta parina: (.) a un certo punto le era proprio capito sce:sa: non ce l'aveva più:
+PKP024	non mi ricordo (.) però fatto sta parina: (.) a un certo punto gli era proprio capito sce:sa: non ce l'aveva più:
 PKP024	m:h cadde (.) come xx
 PKP093	°porco x°
 PKP024	eh vabbè (.) è così
@@ -350,7 +350,7 @@ PKP093	((ride)) [te li fa]nno in casa ((ride))
 PKP093	[suona] il campanello chi è? (.) pah il gav[ettone]
 PKP024	[no però] se te stai in spiaggia (.) fanno i gavettoni lungo il mare
 PKP024	e a me me dan noia (.) eh
-PKP024	mica per altro ma perché lo sai che (.) me fan freddo a me ((ride)) quando sono bagnata in spiaggia
+PKP024	mica per altro ma perché lo sai che (.) me fa (u)n freddo a me ((ride)) quando sono bagnata in spiaggia
 PKP024	ce la posso fa'
 PKP093	che ve:cchia che sei
 PKP024	>non sono ve~< ma perché non chiudi mai il cestino dell'umido madonna cara c'entrano tutti gli insetti porco
@@ -420,7 +420,7 @@ PKP024	ma cosa ne so (.) °infatti°
 PKP024	((canta))
 PKP024	((canta))
 PKP024	oh dio (.) che è [sta (ronza)]?
-PKP093	[mi si sono stacca]ti tutti i cicchi (.) dell'uva
+PKP093	[mi si sono stacca]ti tutti i chicci (.) dell'uva
 PKP024	eh vabbè: piglia: piglia quelli staccati °non è un problema°
 PKP093	ora li verso dentro sta ciotola
 PKP024	sì sì
@@ -492,7 +492,7 @@ PKP024	no (.) te finora hai detto due giorni e due capitoli
 PKP093	no
 PKP093	io ho detto
 PKP093	due giorni (.) un capitolo
-PKP024	a:h okay allora ho capito ma~
+PKP024	a:h okay allora ho capito male
 PKP093	tanto
 PKP093	c'ho la registrazione poi si vede quello che ho detto
 PKP024	((ride))
@@ -550,7 +550,7 @@ PKP093	eh lo s~ lo so ((ride))
 PKP024	che ce posso fa'?
 PKP024	ma lo senti?
 PKP093	sì ma dev'essere qualche moscone cioè non:
-PKP024	(alo) cavalo
+PKP024	(allo') cavalo
 PKP093	ma non l~
 PKP093	cioè non è che s~ si è messo lì fisso (.) ogni tanto ah no c'è una cimice lì: sotto
 PKP024	e:::h no cavala cavala cavala
@@ -569,7 +569,7 @@ PKP024	si rieducano
 PKP093	solo le zanzare
 PKP024	no manco le zanzare poverine sono [xxxxx]
 PKP093	[le zanzare sono PARA]SSITI
-PKP024	ho capito però parine: cioè anche loro hanno da~ il diritto di vivere la propria vita eh
+PKP024	ho capito però carine: cioè anche loro hanno da~ il diritto di vivere la propria vita eh
 PKP024	a me mi dispiace <ammazzarle>
 PKP093	((ride))
 PKP024	che ridi?
@@ -579,6 +579,6 @@ PKP024	dammi
 PKP024	mi butto
 PKP093	(xx)
 PKP024	andrò a sfidare (.) il temibile nemico
-PKP024	pappi pappi pappi girl
+PKP024	puppy puppy puppy girl
 PKP024	(vado a prendere) una sigaretta
 PKP093	vai
