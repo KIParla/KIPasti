@@ -32,7 +32,7 @@ PKP031	0-Students	M	KPN002	veneto	21-25	university-degree-ongoing	italian
 PKP032	4-Clerical-Workers	M	KPN020	estero	56-60	technical-vocational-diploma	other
 PKP033	2-Professionals	F	KPN031;KPS004	emilia-romagna	26-30	university-degree	italian
 PKP034	0-Retired	F	KPS004	puglia	81-85	technical-vocational-diploma	italian
-PKP035	0-Retired	M	KPS004	puglia	over 85	technical-vocational-diploma	italian
+PKP035	0-Retired	M	KPS004	puglia	over85	technical-vocational-diploma	italian
 PKP036	2-Professionals	F	KPN031	lazio	26-30	university-degree	italian
 PKP037	2-Professionals	M	KPN031	lazio	26-30	university-degree	italian
 PKP038	2-Professionals	F	KPN002	veneto	21-25	university-degree	italian
